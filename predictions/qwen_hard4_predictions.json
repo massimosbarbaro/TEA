@@ -1,0 +1,533 @@
+[
+ {
+  "text_id": "tea_c15_1277",
+  "predictions": [
+   {
+    "surface": "dictos dominos de Manzano",
+    "label": "PERS",
+    "start": 26,
+    "end": 51,
+    "score": 1.0
+   },
+   {
+    "surface": "Petrum Cacarul",
+    "label": "PERS",
+    "start": 196,
+    "end": 210,
+    "score": 1.0
+   },
+   {
+    "surface": "Cudelarum",
+    "label": "PERS",
+    "start": 239,
+    "end": 248,
+    "score": 1.0
+   },
+   {
+    "surface": "Piliut",
+    "label": "PERS",
+    "start": 252,
+    "end": 258,
+    "score": 1.0
+   },
+   {
+    "surface": "Leonardum de Brayda",
+    "label": "PERS",
+    "start": 287,
+    "end": 306,
+    "score": 1.0
+   },
+   {
+    "surface": "Odoricum Pauli",
+    "label": "PERS",
+    "start": 335,
+    "end": 349,
+    "score": 1.0
+   },
+   {
+    "surface": "Pasculinum",
+    "label": "PERS",
+    "start": 378,
+    "end": 388,
+    "score": 1.0
+   },
+   {
+    "surface": "Dominicum",
+    "label": "PERS",
+    "start": 417,
+    "end": 426,
+    "score": 1.0
+   },
+   {
+    "surface": "uxorem condam Nenel Lugaf",
+    "label": "PERS",
+    "start": 455,
+    "end": 480,
+    "score": 1.0
+   },
+   {
+    "surface": "Nenel Lugaf",
+    "label": "PERS",
+    "start": 469,
+    "end": 480,
+    "score": 1.0
+   },
+   {
+    "surface": "Martinum Lufac",
+    "label": "PERS",
+    "start": 509,
+    "end": 523,
+    "score": 1.0
+   },
+   {
+    "surface": "Gaya",
+    "label": "PERS",
+    "start": 552,
+    "end": 556,
+    "score": 1.0
+   },
+   {
+    "surface": "Iohannem Pichamel",
+    "label": "PERS",
+    "start": 586,
+    "end": 603,
+    "score": 1.0
+   },
+   {
+    "surface": "Culossium",
+    "label": "PERS",
+    "start": 632,
+    "end": 641,
+    "score": 1.0
+   },
+   {
+    "surface": "Cosettum",
+    "label": "PERS",
+    "start": 670,
+    "end": 678,
+    "score": 1.0
+   },
+   {
+    "surface": "Priulum",
+    "label": "PERS",
+    "start": 726,
+    "end": 733,
+    "score": 1.0
+   },
+   {
+    "surface": "Marcum",
+    "label": "PERS",
+    "start": 762,
+    "end": 768,
+    "score": 1.0
+   },
+   {
+    "surface": "Leonardum Lucyl",
+    "label": "PERS",
+    "start": 818,
+    "end": 833,
+    "score": 1.0
+   },
+   {
+    "surface": "Yatil",
+    "label": "PERS",
+    "start": 862,
+    "end": 867,
+    "score": 1.0
+   },
+   {
+    "surface": "Miculum",
+    "label": "PERS",
+    "start": 896,
+    "end": 903,
+    "score": 1.0
+   },
+   {
+    "surface": "Portolanum",
+    "label": "PERS",
+    "start": 932,
+    "end": 942,
+    "score": 1.0
+   },
+   {
+    "surface": "Sclavum",
+    "label": "PERS",
+    "start": 950,
+    "end": 957,
+    "score": 1.0
+   },
+   {
+    "surface": "Barbiruttum",
+    "label": "PERS",
+    "start": 986,
+    "end": 997,
+    "score": 1.0
+   },
+   {
+    "surface": "Ingustim",
+    "label": "PERS",
+    "start": 1026,
+    "end": 1034,
+    "score": 1.0
+   },
+   {
+    "surface": "Menza",
+    "label": "PERS",
+    "start": 1063,
+    "end": 1068,
+    "score": 1.0
+   },
+   {
+    "surface": "Iohannem",
+    "label": "PERS",
+    "start": 1097,
+    "end": 1105,
+    "score": 1.0
+   },
+   {
+    "surface": "Stephanum",
+    "label": "PERS",
+    "start": 1148,
+    "end": 1157,
+    "score": 1.0
+   },
+   {
+    "surface": "Thomadum",
+    "label": "PERS",
+    "start": 1186,
+    "end": 1194,
+    "score": 1.0
+   },
+   {
+    "surface": "Nyon",
+    "label": "PERS",
+    "start": 1238,
+    "end": 1242,
+    "score": 1.0
+   },
+   {
+    "surface": "Crisman",
+    "label": "PERS",
+    "start": 1282,
+    "end": 1289,
+    "score": 1.0
+   },
+   {
+    "surface": "uxorem condam Laurencii",
+    "label": "PERS",
+    "start": 1345,
+    "end": 1368,
+    "score": 1.0
+   },
+   {
+    "surface": "Laurencii",
+    "label": "PERS",
+    "start": 1359,
+    "end": 1368,
+    "score": 1.0
+   },
+   {
+    "surface": "Mathiam",
+    "label": "PERS",
+    "start": 1410,
+    "end": 1417,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0443",
+  "predictions": [
+   {
+    "surface": "Iohannes",
+    "label": "PERS",
+    "start": 16,
+    "end": 24,
+    "score": 1.0
+   },
+   {
+    "surface": "Raynardi",
+    "label": "PERS",
+    "start": 39,
+    "end": 47,
+    "score": 1.0
+   },
+   {
+    "surface": "Sabadinum",
+    "label": "PERS",
+    "start": 259,
+    "end": 268,
+    "score": 1.0
+   },
+   {
+    "surface": "Iuan",
+    "label": "PERS",
+    "start": 270,
+    "end": 274,
+    "score": 1.0
+   },
+   {
+    "surface": "Sfetez",
+    "label": "PERS",
+    "start": 278,
+    "end": 284,
+    "score": 1.0
+   },
+   {
+    "surface": "Colop",
+    "label": "PERS",
+    "start": 334,
+    "end": 339,
+    "score": 1.0
+   },
+   {
+    "surface": "Choz",
+    "label": "PERS",
+    "start": 389,
+    "end": 393,
+    "score": 1.0
+   },
+   {
+    "surface": "Iohannem",
+    "label": "PERS",
+    "start": 397,
+    "end": 405,
+    "score": 1.0
+   },
+   {
+    "surface": "Bunissium",
+    "label": "PERS",
+    "start": 422,
+    "end": 431,
+    "score": 1.0
+   },
+   {
+    "surface": "Bernardum",
+    "label": "PERS",
+    "start": 519,
+    "end": 528,
+    "score": 1.0
+   },
+   {
+    "surface": "Radigoy",
+    "label": "PERS",
+    "start": 579,
+    "end": 586,
+    "score": 1.0
+   },
+   {
+    "surface": "Iacobum",
+    "label": "PERS",
+    "start": 590,
+    "end": 597,
+    "score": 1.0
+   },
+   {
+    "surface": "Olivam",
+    "label": "PERS",
+    "start": 669,
+    "end": 675,
+    "score": 1.0
+   },
+   {
+    "surface": "Inuzam",
+    "label": "PERS",
+    "start": 679,
+    "end": 685,
+    "score": 1.0
+   },
+   {
+    "surface": "Martinum",
+    "label": "PERS",
+    "start": 710,
+    "end": 718,
+    "score": 1.0
+   },
+   {
+    "surface": "Morassium",
+    "label": "PERS",
+    "start": 770,
+    "end": 779,
+    "score": 1.0
+   },
+   {
+    "surface": "Conas",
+    "label": "PERS",
+    "start": 833,
+    "end": 838,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c11_0097",
+  "predictions": [
+   {
+    "surface": "Togna",
+    "label": "PERS",
+    "start": 34,
+    "end": 39,
+    "score": 1.0
+   },
+   {
+    "surface": "Iohannis Passudi de Sancto Steno",
+    "label": "PERS",
+    "start": 52,
+    "end": 84,
+    "score": 1.0
+   },
+   {
+    "surface": "Mellorinum filium Bonsenplanti",
+    "label": "PERS",
+    "start": 682,
+    "end": 712,
+    "score": 1.0
+   },
+   {
+    "surface": "Bonsenplanti",
+    "label": "PERS",
+    "start": 700,
+    "end": 712,
+    "score": 1.0
+   },
+   {
+    "surface": "Dominicum callegarium",
+    "label": "PERS",
+    "start": 819,
+    "end": 840,
+    "score": 1.0
+   },
+   {
+    "surface": "Leonardum de Presbitero",
+    "label": "PERS",
+    "start": 949,
+    "end": 972,
+    "score": 1.0
+   },
+   {
+    "surface": "Ottonis salassatoris",
+    "label": "PERS",
+    "start": 908,
+    "end": 928,
+    "score": 1.0
+   },
+   {
+    "surface": "Morassium de Sancto Steno",
+    "label": "PERS",
+    "start": 1069,
+    "end": 1094,
+    "score": 1.0
+   },
+   {
+    "surface": "Çanini",
+    "label": "PERS",
+    "start": 1243,
+    "end": 1249,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c11_0101",
+  "predictions": [
+   {
+    "surface": "Federici",
+    "label": "PERS",
+    "start": 20,
+    "end": 28,
+    "score": 1.0
+   },
+   {
+    "surface": "domini Artusii de Vilalta",
+    "label": "PERS",
+    "start": 35,
+    "end": 60,
+    "score": 1.0
+   },
+   {
+    "surface": "Fredonum",
+    "label": "PERS",
+    "start": 220,
+    "end": 228,
+    "score": 1.0
+   },
+   {
+    "surface": "Norandum",
+    "label": "PERS",
+    "start": 232,
+    "end": 240,
+    "score": 1.0
+   },
+   {
+    "surface": "uxorem olim Petri de Fontana",
+    "label": "PERS",
+    "start": 305,
+    "end": 333,
+    "score": 1.0
+   },
+   {
+    "surface": "Petri de Fontana",
+    "label": "PERS",
+    "start": 317,
+    "end": 333,
+    "score": 1.0
+   },
+   {
+    "surface": "Citay",
+    "label": "PERS",
+    "start": 391,
+    "end": 396,
+    "score": 1.0
+   },
+   {
+    "surface": "Wiglam",
+    "label": "PERS",
+    "start": 439,
+    "end": 445,
+    "score": 1.0
+   },
+   {
+    "surface": "Miussium",
+    "label": "PERS",
+    "start": 490,
+    "end": 498,
+    "score": 1.0
+   },
+   {
+    "surface": "Nichil filii Petri Cargnelli",
+    "label": "PERS",
+    "start": 592,
+    "end": 620,
+    "score": 1.0
+   },
+   {
+    "surface": "Petri Cargnelli",
+    "label": "PERS",
+    "start": 606,
+    "end": 621,
+    "score": 1.0
+   },
+   {
+    "surface": "Iohannem olim domini Albiuci de Martignacho",
+    "label": "PERS",
+    "start": 681,
+    "end": 724,
+    "score": 1.0
+   },
+   {
+    "surface": "domini Albiuci de Martignacho",
+    "label": "PERS",
+    "start": 72,
+    "end": 101,
+    "score": 1.0
+   },
+   {
+    "surface": "Iohannem Muçonum",
+    "label": "PERS",
+    "start": 767,
+    "end": 783,
+    "score": 1.0
+   }
+  ]
+ }
+]

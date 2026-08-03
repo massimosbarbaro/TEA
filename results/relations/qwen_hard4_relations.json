@@ -1,0 +1,67 @@
+{
+ "relations": [
+  {
+   "doc_id": "tea_c15_1277",
+   "subject": "Nenel Lugaf",
+   "relation_type": "widow_of",
+   "related_person": "[unnamed]",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c15_1277",
+   "subject": "Laurencii",
+   "relation_type": "spouse_of",
+   "related_person": "[unnamed]",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0443",
+   "subject": "Iohannes",
+   "relation_type": "child_of",
+   "related_person": "[unnamed]",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0443",
+   "subject": "Raynardi",
+   "relation_type": "parent_of",
+   "related_person": "Iohannes",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c11_0097",
+   "subject": "Togna",
+   "relation_type": "child_of",
+   "related_person": "[unnamed]",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c11_0097",
+   "subject": "Iohannis Passudi de Sancto Steno",
+   "relation_type": "parent_of",
+   "related_person": "Togna",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c11_0101",
+   "subject": "Federici",
+   "relation_type": "child_of",
+   "related_person": "domini Artusii de Vilalta",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c11_0101",
+   "subject": "uxorem olim Petri de Fontana",
+   "relation_type": "spouse_of",
+   "related_person": "Petri de Fontana",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c11_0101",
+   "subject": "Nichil filii Petri Cargnelli",
+   "relation_type": "child_of",
+   "related_person": "Petri Cargnelli",
+   "status": "living"
+  }
+ ]
+}

@@ -1,0 +1,354 @@
+{
+ "relations": [
+  {
+   "doc_id": "tea_c12_0175",
+   "subject": "Blasius",
+   "relation_type": "child_of",
+   "related_person": "Odolrici",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0175",
+   "subject": "Iacobum",
+   "relation_type": "child_of",
+   "related_person": "Odorlici",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0175",
+   "subject": "Blasius",
+   "relation_type": "consanguineus",
+   "related_person": "[unnamed]",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0178",
+   "subject": "Dominico",
+   "relation_type": "sibling_of",
+   "related_person": "[unnamed]",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0193",
+   "subject": "Vidulinus",
+   "relation_type": "sibling_of",
+   "related_person": "[unnamed]",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0194",
+   "subject": "Warnerius",
+   "relation_type": "child_of",
+   "related_person": "Bonamici",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0195",
+   "subject": "Warnerius",
+   "relation_type": "child_of",
+   "related_person": "Mathie",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0195",
+   "subject": "Bonamico",
+   "relation_type": "sibling_of",
+   "related_person": "[unnamed]",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0195",
+   "subject": "Odorico",
+   "relation_type": "sibling_of",
+   "related_person": "[unnamed]",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0203",
+   "subject": "Wolricus",
+   "relation_type": "child_of",
+   "related_person": "Radii",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0204",
+   "subject": "Volricus",
+   "relation_type": "child_of",
+   "related_person": "Radii",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0207",
+   "subject": "Bregand",
+   "relation_type": "child_of",
+   "related_person": "Bunin(i)",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0216",
+   "subject": "Mathias",
+   "relation_type": "grandchild_of",
+   "related_person": "[unnamed]",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0216",
+   "subject": "filium Usagini",
+   "relation_type": "child_of",
+   "related_person": "Usagini",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0228",
+   "subject": "Leonardus",
+   "relation_type": "child_of",
+   "related_person": "[manca]",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0239",
+   "subject": "Vocellus",
+   "relation_type": "grandchild_of",
+   "related_person": "[manca]",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0241",
+   "subject": "Ianini",
+   "relation_type": "child_of",
+   "related_person": "Angeli",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0243",
+   "subject": "Tomasinus",
+   "relation_type": "child_of",
+   "related_person": "Lupoldi",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0280",
+   "subject": "Sardius",
+   "relation_type": "child_of",
+   "related_person": "Almerici",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0280",
+   "subject": "Gregorio",
+   "relation_type": "sibling_of",
+   "related_person": "[unnamed]",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0280",
+   "subject": "Iohanne",
+   "relation_type": "sibling_of",
+   "related_person": "[unnamed]",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0281",
+   "subject": "Vuelum",
+   "relation_type": "child_of",
+   "related_person": "Lupoldi",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0289",
+   "subject": "Merchlinus",
+   "relation_type": "child_of",
+   "related_person": "Merchlini",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0289",
+   "subject": "Hertuicum",
+   "relation_type": "sibling_of",
+   "related_person": "[unnamed]",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0289",
+   "subject": "filium Artuici",
+   "relation_type": "child_of",
+   "related_person": "Artuici",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0324",
+   "subject": "Herardi",
+   "relation_type": "in_law",
+   "related_person": "[unnamed]",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0324",
+   "subject": "Valkerini",
+   "relation_type": "child_of",
+   "related_person": "[unnamed]",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0326",
+   "subject": "Henricus",
+   "relation_type": "child_of",
+   "related_person": "Nactuli",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0326",
+   "subject": "Gregorium",
+   "relation_type": "child_of",
+   "related_person": "Henrici",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0327",
+   "subject": "Savius",
+   "relation_type": "child_of",
+   "related_person": "Maynardi",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0330",
+   "subject": "Guillelmi",
+   "relation_type": "child_of",
+   "related_person": "Leazarii",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0361",
+   "subject": "Clzoy",
+   "relation_type": "child_of",
+   "related_person": "Galiane",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0361",
+   "subject": "Mar(mu)zam",
+   "relation_type": "child_of",
+   "related_person": "Gaslute",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0365",
+   "subject": "Thomasino",
+   "relation_type": "child_of",
+   "related_person": "Sigelpretti",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0382",
+   "subject": "Bonafidem",
+   "relation_type": "spouse_of",
+   "related_person": "[unnamed]",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0402",
+   "subject": "Meg(n)ardus",
+   "relation_type": "child_of",
+   "related_person": "Bartholomei",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0403",
+   "subject": "Varnerium",
+   "relation_type": "child_of",
+   "related_person": "Varnerii",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0403",
+   "subject": "Lazaram",
+   "relation_type": "parent_of",
+   "related_person": "[unnamed]",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0407",
+   "subject": "Phylippinum",
+   "relation_type": "child_of",
+   "related_person": "Iacobi",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0407",
+   "subject": "Benevenutum",
+   "relation_type": "child_of",
+   "related_person": "Dodi",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0418",
+   "subject": "Paesius",
+   "relation_type": "child_of",
+   "related_person": "Galvani",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0422",
+   "subject": "Henricus",
+   "relation_type": "child_of",
+   "related_person": "Leonardi",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0422",
+   "subject": "Ild(ini)dam",
+   "relation_type": "widow_of",
+   "related_person": "Martini",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0422",
+   "subject": "Suo(mer)burch",
+   "relation_type": "child_of",
+   "related_person": "Mathie",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0422",
+   "subject": "Alsubettam",
+   "relation_type": "child_of",
+   "related_person": "Warneri",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0438",
+   "subject": "Inguillolfus",
+   "relation_type": "child_of",
+   "related_person": "Sclavi",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0461",
+   "subject": "Mengossium",
+   "relation_type": "child_of",
+   "related_person": "Morandi",
+   "status": "deceased"
+  },
+  {
+   "doc_id": "tea_c12_0485",
+   "subject": "Fridericus",
+   "relation_type": "sibling_of",
+   "related_person": "[unnamed]",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0492",
+   "subject": "filium Pozinani",
+   "relation_type": "child_of",
+   "related_person": "Pozinani",
+   "status": "living"
+  },
+  {
+   "doc_id": "tea_c12_0503",
+   "subject": "Almericum",
+   "relation_type": "child_of",
+   "related_person": "Dietmari",
+   "status": "deceased"
+  }
+ ]
+}

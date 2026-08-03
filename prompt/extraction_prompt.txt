@@ -1,0 +1,23 @@
+You are an expert in medieval Latin diplomatics. Extract every person and every
+kinship relation from the feudal record below. Return STRICT JSON only, no prose,
+no markdown fences.
+
+Rules:
+- List EVERY person, including feudatories, co-feudatories, rectors/tenants of
+  mansi (names after "rectum per", "laboratur per", "regitur per", etc.),
+  witnesses, procurators, and persons named only inside a kinship phrase.
+- Give each person's name exactly as it appears in the text (do not normalise).
+- For each kinship relation, give the subject, the relation type, the related
+  person's name (or "[unnamed]"), and whether the related person is living or
+  deceased. A person marked "condam", "quondam", or "olim" is deceased.
+- Relation types: child_of, parent_of, sibling_of, grandchild_of, spouse_of,
+  widow_of, in_law, consanguineus.
+
+Output schema:
+{
+  "persons": [{"name": "<surface>", "role": "feudatory|co-feudatory|tenant|witness|procurator|grantor|other"}],
+  "kinship": [{"subject": "<name>", "relation_type": "<type>", "related_person": "<name or [unnamed]>", "status": "living|deceased"}]
+}
+
+RECORD:
+<<<TEXT>>>

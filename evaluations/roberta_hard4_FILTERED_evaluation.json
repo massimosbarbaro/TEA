@@ -1,0 +1,354 @@
+{
+  "overall": {
+    "precision": 0.4231,
+    "recall": 0.2075,
+    "f1": 0.2785,
+    "tp": 11,
+    "fp": 15,
+    "fn": 42,
+    "gold_total": 53,
+    "predicted_total": 26
+  },
+  "by_category": {
+    "rector_tenant": {
+      "total": 53,
+      "found": 11,
+      "recall": 0.2075
+    }
+  },
+  "by_recognitio": [
+    {
+      "text_id": "tea_c11_0097",
+      "gold_count": 3,
+      "predicted_count": 8,
+      "tp": 2,
+      "fp": 6,
+      "fn": 1,
+      "precision": 0.25,
+      "recall": 0.667,
+      "f1": 0.364
+    },
+    {
+      "text_id": "tea_c11_0101",
+      "gold_count": 7,
+      "predicted_count": 7,
+      "tp": 1,
+      "fp": 6,
+      "fn": 6,
+      "precision": 0.143,
+      "recall": 0.143,
+      "f1": 0.143
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "gold_count": 15,
+      "predicted_count": 4,
+      "tp": 3,
+      "fp": 1,
+      "fn": 12,
+      "precision": 0.75,
+      "recall": 0.2,
+      "f1": 0.316
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "gold_count": 28,
+      "predicted_count": 7,
+      "tp": 5,
+      "fp": 2,
+      "fn": 23,
+      "precision": 0.714,
+      "recall": 0.179,
+      "f1": 0.286
+    }
+  ],
+  "false_negatives": [
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Cudelarum",
+      "normalized": "Cudelarum",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Piliut",
+      "normalized": "Piliut",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Pasculinum",
+      "normalized": "Pasculinus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Dominicum",
+      "normalized": "Dominicus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Gayam",
+      "normalized": "Gaya",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Culossium",
+      "normalized": "Culossius",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Cosettum",
+      "normalized": "Cosettus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Priulum",
+      "normalized": "Priulus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Marcum",
+      "normalized": "Marcus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Leonardum",
+      "normalized": "Leonardus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Yatil",
+      "normalized": "Yatil",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Miculum",
+      "normalized": "Miculus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Portolanum",
+      "normalized": "Portolanus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Sclavum",
+      "normalized": "Sclavus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Barbiruttum",
+      "normalized": "Barbiruttus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Ingustim",
+      "normalized": "Ingustim",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Menza",
+      "normalized": "Menza",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Iohannem",
+      "normalized": "Iohannes",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Stephanum",
+      "normalized": "Stephanus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Thomadum",
+      "normalized": "Thomadus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Nyon",
+      "normalized": "Nyon",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Crisman",
+      "normalized": "Crisman",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Mathiam",
+      "normalized": "Mathia",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "missed": "Sabadinum",
+      "normalized": "Sabadinus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "missed": "Colop",
+      "normalized": "Colop",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "missed": "Choz",
+      "normalized": "Choz",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "missed": "Bunissium",
+      "normalized": "Bunissius",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "missed": "Bernardum",
+      "normalized": "Bernardus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "missed": "Radigoy",
+      "normalized": "Radigoy",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "missed": "Iacobum",
+      "normalized": "Iacobus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "missed": "Olivam",
+      "normalized": "Oliva",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "missed": "Inuzam",
+      "normalized": "Inuza",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "missed": "Martinum",
+      "normalized": "Martinus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "missed": "Morassium",
+      "normalized": "Morassius",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "missed": "Conas",
+      "normalized": "Conas",
+      "category": "rector_tenant"
+    }
+  ],
+  "false_positives": [
+    {
+      "text_id": "tea_c15_1277",
+      "spurious": "Nenel Lugaf",
+      "score": 0.8431430459022522
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "spurious": "Iohannem",
+      "score": 0.675603985786438
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "spurious": "Raynardi de",
+      "score": 0.6243544220924377
+    },
+    {
+      "text_id": "tea_c11_0097",
+      "spurious": "Togne de",
+      "score": 0.9901767373085022
+    },
+    {
+      "text_id": "tea_c11_0097",
+      "spurious": "Togna",
+      "score": 0.7873585224151611
+    },
+    {
+      "text_id": "tea_c11_0097",
+      "spurious": "Iohannis Passudi de",
+      "score": 0.8649454712867737
+    },
+    {
+      "text_id": "tea_c11_0097",
+      "spurious": "Bonsenplanti",
+      "score": 0.7654785513877869
+    },
+    {
+      "text_id": "tea_c11_0097",
+      "spurious": "Çanini",
+      "score": 0.858998715877533
+    },
+    {
+      "text_id": "tea_c11_0097",
+      "spurious": "Bonsemplanti",
+      "score": 0.790572464466095
+    },
+    {
+      "text_id": "tea_c11_0101",
+      "spurious": "Artusii de",
+      "score": 0.6202719211578369
+    },
+    {
+      "text_id": "tea_c11_0101",
+      "spurious": "Artusii de",
+      "score": 0.6289601922035217
+    },
+    {
+      "text_id": "tea_c11_0101",
+      "spurious": "Petri de",
+      "score": 0.9997304081916809
+    },
+    {
+      "text_id": "tea_c11_0101",
+      "spurious": "Petri Cargnelli",
+      "score": 0.9967516660690308
+    },
+    {
+      "text_id": "tea_c11_0101",
+      "spurious": "Albiuci de",
+      "score": 0.8292262554168701
+    },
+    {
+      "text_id": "tea_c11_0101",
+      "spurious": "Iohannem Muçonum",
+      "score": 0.6276962757110596
+    }
+  ]
+}

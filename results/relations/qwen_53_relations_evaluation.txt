@@ -1,0 +1,5 @@
+Qwen3.5-9B Q4_K_M relation evaluation against 50 gold relations
+
+relation recall (type+subject): 25/50 = 50.0%
+relation recall (type+subject+status): 23/50 = 46.0%
+deceased-status recall: 18/28 = 64.3%

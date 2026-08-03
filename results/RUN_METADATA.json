@@ -1,0 +1,36 @@
+{
+  "run_date": "2026-07-22",
+  "gpu": "NVIDIA RTX 2000 Ada Generation",
+  "qwen": {
+    "ollama_model": "qwen3.5:9b-q4_K_M",
+    "ollama_model_id": "6488c96fa5fa",
+    "architecture": "qwen35",
+    "parameters": "9.7B",
+    "quantization": "Q4_K_M",
+    "ollama_version": "0.32.1",
+    "processor_verified": "100% GPU",
+    "generation": {
+      "temperature": 0,
+      "seed": 42,
+      "num_ctx": 8192,
+      "thinking": false,
+      "prompt_file": "extraction_prompt.txt"
+    },
+    "records": {
+      "main_test": 53,
+      "hard_test": 4
+    }
+  },
+  "evaluator": {
+    "source": "supplied original step2_evaluate.py",
+    "cli_change": "File paths exposed as command-line arguments; matching and metrics unchanged.",
+    "control_reproduction": {
+      "overall_recall": 0.7311,
+      "rector_tenant_recall": 0.36
+    }
+  },
+  "notes": [
+    "All 57 Qwen raw responses parsed as JSON with persons and kinship arrays.",
+    "Hard-record precision and F1 are not substantively interpretable because the gold is rector-only."
+  ]
+}

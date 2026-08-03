@@ -1,0 +1,1025 @@
+{
+ "metadata": {
+  "source": "BCMU ms 51",
+  "extraction_date": "2026-07-22",
+  "model": "rule-based (verb/head + per + name), confirmed by Massimo",
+  "schema_version": "2.0.0-en",
+  "notes": "Generalisation test: rector ground truth for 4 hard records outside the 53-record test set. Rector-only gold; use for RECALL (tenant role). Records 1277 (C15, twin of rec.216), 443 (C12), 97 and 101 (C11)."
+ },
+ "documents": [
+  {
+   "doc_id": "tea_c15_1277",
+   "recognitio_number": 1277,
+   "rubric": "Bona data in scriptis per dictos dominos de Manzano",
+   "doc_type": "feudal_holdings",
+   "doc_year": null,
+   "folio": "c. 272v"
+  },
+  {
+   "doc_id": "tea_c12_0443",
+   "recognitio_number": 443,
+   "rubric": "Iohannes filius condam Raynardi de Brayda refutavit",
+   "doc_type": "refutatio",
+   "doc_year": null,
+   "folio": "c. 133v"
+  },
+  {
+   "doc_id": "tea_c11_0097",
+   "recognitio_number": 97,
+   "rubric": "Recognitio Togne de Sancto Steno",
+   "doc_type": "recognitio_feudorum",
+   "doc_year": null,
+   "folio": "c. 47r"
+  },
+  {
+   "doc_id": "tea_c11_0101",
+   "recognitio_number": 101,
+   "rubric": "Recognitio feudorum Federici filii domini Artusii de Vilalta",
+   "doc_type": "recognitio_feudorum",
+   "doc_year": null,
+   "folio": "c. 48r"
+  }
+ ],
+ "persons": [
+  {
+   "person_id": "tea_c15_1277_001",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Petrum",
+     "normalized": "Petrus",
+     "case": "accusative"
+    },
+    "byname": {
+     "surface": "Cacarul",
+     "normalized": "Cacarul"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_002",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Cudelarum",
+     "normalized": "Cudelarus",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_003",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Piliut",
+     "normalized": "Piliut",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_004",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Leonardum",
+     "normalized": "Leonardus",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_005",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Odoricum",
+     "normalized": "Odoricus",
+     "case": "accusative"
+    },
+    "byname": {
+     "surface": "Pauli",
+     "normalized": "Pauli"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_006",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Pasculinum",
+     "normalized": "Pasculinus",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_007",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Dominicum",
+     "normalized": "Dominicus",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_008",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Martinum",
+     "normalized": "Martinus",
+     "case": "accusative"
+    },
+    "byname": {
+     "surface": "Lufac",
+     "normalized": "Lufac"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_009",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Gayam",
+     "normalized": "Gaya",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_010",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Iohannem",
+     "normalized": "Iohannes",
+     "case": "accusative"
+    },
+    "byname": {
+     "surface": "Pichamel",
+     "normalized": "Pichamel"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_011",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Culossium",
+     "normalized": "Culossius",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_012",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Cosettum",
+     "normalized": "Cosettus",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_013",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Priulum",
+     "normalized": "Priulus",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_014",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Marcum",
+     "normalized": "Marcus",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_015",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Leonardum",
+     "normalized": "Leonardus",
+     "case": "accusative"
+    },
+    "byname": {
+     "surface": "Lucyl",
+     "normalized": "Lucyl"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_016",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Yatil",
+     "normalized": "Yatil",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_017",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Miculum",
+     "normalized": "Miculus",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_018",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Portolanum",
+     "normalized": "Portolanus",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_019",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Sclavum",
+     "normalized": "Sclavus",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_020",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Barbiruttum",
+     "normalized": "Barbiruttus",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_021",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Ingustim",
+     "normalized": "Ingustim",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_022",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Menza",
+     "normalized": "Menza",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_023",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Iohannem",
+     "normalized": "Iohannes",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_024",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Stephanum",
+     "normalized": "Stephanus",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_025",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Thomadum",
+     "normalized": "Thomadus",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_026",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Nyon",
+     "normalized": "Nyon",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_027",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Crisman",
+     "normalized": "Crisman",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c15_1277_028",
+   "doc_id": "tea_c15_1277",
+   "name": {
+    "given_name": {
+     "surface": "Mathiam",
+     "normalized": "Mathia",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c15_1277"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c12_0443_001",
+   "doc_id": "tea_c12_0443",
+   "name": {
+    "given_name": {
+     "surface": "Sabadinum",
+     "normalized": "Sabadinus",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c12_0443"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c12_0443_002",
+   "doc_id": "tea_c12_0443",
+   "name": {
+    "given_name": {
+     "surface": "Iuan",
+     "normalized": "Iuan",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c12_0443"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c12_0443_003",
+   "doc_id": "tea_c12_0443",
+   "name": {
+    "given_name": {
+     "surface": "Sfetez",
+     "normalized": "Sfetez",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c12_0443"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c12_0443_004",
+   "doc_id": "tea_c12_0443",
+   "name": {
+    "given_name": {
+     "surface": "Colop",
+     "normalized": "Colop",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c12_0443"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c12_0443_005",
+   "doc_id": "tea_c12_0443",
+   "name": {
+    "given_name": {
+     "surface": "Choz",
+     "normalized": "Choz",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c12_0443"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c12_0443_006",
+   "doc_id": "tea_c12_0443",
+   "name": {
+    "given_name": {
+     "surface": "Iohannem",
+     "normalized": "Iohannes",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c12_0443"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c12_0443_007",
+   "doc_id": "tea_c12_0443",
+   "name": {
+    "given_name": {
+     "surface": "Bunissium",
+     "normalized": "Bunissius",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c12_0443"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c12_0443_008",
+   "doc_id": "tea_c12_0443",
+   "name": {
+    "given_name": {
+     "surface": "Bernardum",
+     "normalized": "Bernardus",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c12_0443"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c12_0443_009",
+   "doc_id": "tea_c12_0443",
+   "name": {
+    "given_name": {
+     "surface": "Radigoy",
+     "normalized": "Radigoy",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c12_0443"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c12_0443_010",
+   "doc_id": "tea_c12_0443",
+   "name": {
+    "given_name": {
+     "surface": "Iacobum",
+     "normalized": "Iacobus",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c12_0443"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c12_0443_011",
+   "doc_id": "tea_c12_0443",
+   "name": {
+    "given_name": {
+     "surface": "Olivam",
+     "normalized": "Oliva",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c12_0443"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c12_0443_012",
+   "doc_id": "tea_c12_0443",
+   "name": {
+    "given_name": {
+     "surface": "Inuzam",
+     "normalized": "Inuza",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c12_0443"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c12_0443_013",
+   "doc_id": "tea_c12_0443",
+   "name": {
+    "given_name": {
+     "surface": "Martinum",
+     "normalized": "Martinus",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c12_0443"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c12_0443_014",
+   "doc_id": "tea_c12_0443",
+   "name": {
+    "given_name": {
+     "surface": "Morassium",
+     "normalized": "Morassius",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c12_0443"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c12_0443_015",
+   "doc_id": "tea_c12_0443",
+   "name": {
+    "given_name": {
+     "surface": "Conas",
+     "normalized": "Conas",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c12_0443"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c11_0097_001",
+   "doc_id": "tea_c11_0097",
+   "name": {
+    "given_name": {
+     "surface": "Dominicum",
+     "normalized": "Dominicus",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c11_0097"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c11_0097_002",
+   "doc_id": "tea_c11_0097",
+   "name": {
+    "given_name": {
+     "surface": "Leonardum",
+     "normalized": "Leonardus",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c11_0097"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c11_0097_003",
+   "doc_id": "tea_c11_0097",
+   "name": {
+    "given_name": {
+     "surface": "Morassium",
+     "normalized": "Morassius",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c11_0097"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c11_0101_001",
+   "doc_id": "tea_c11_0101",
+   "name": {
+    "given_name": {
+     "surface": "Fredonum",
+     "normalized": "Fredonus",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c11_0101"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c11_0101_002",
+   "doc_id": "tea_c11_0101",
+   "name": {
+    "given_name": {
+     "surface": "Norandum",
+     "normalized": "Norandus",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c11_0101"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c11_0101_003",
+   "doc_id": "tea_c11_0101",
+   "name": {
+    "given_name": {
+     "surface": "Citay",
+     "normalized": "Citay",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c11_0101"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c11_0101_004",
+   "doc_id": "tea_c11_0101",
+   "name": {
+    "given_name": {
+     "surface": "Wiglam",
+     "normalized": "Wigla",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c11_0101"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c11_0101_005",
+   "doc_id": "tea_c11_0101",
+   "name": {
+    "given_name": {
+     "surface": "Nichil",
+     "normalized": "Nichil",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c11_0101"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c11_0101_006",
+   "doc_id": "tea_c11_0101",
+   "name": {
+    "given_name": {
+     "surface": "Iohannem",
+     "normalized": "Iohannes",
+     "case": "accusative"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c11_0101"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  },
+  {
+   "person_id": "tea_c11_0101_007",
+   "doc_id": "tea_c11_0101",
+   "name": {
+    "given_name": {
+     "surface": "Iohannem",
+     "normalized": "Iohannes",
+     "case": "accusative"
+    },
+    "byname": {
+     "surface": "Muçonum",
+     "normalized": "Muçonum"
+    }
+   },
+   "role": {
+    "function": "tenant",
+    "doc_id": "tea_c11_0101"
+   },
+   "review_flags": [
+    "rector_mansi"
+   ]
+  }
+ ],
+ "kinship_relations": [],
+ "places": []
+}

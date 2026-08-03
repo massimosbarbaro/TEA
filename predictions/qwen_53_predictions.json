@@ -1,0 +1,2479 @@
+[
+ {
+  "text_id": "tea_c12_0174",
+  "predictions": [
+   {
+    "surface": "Iacobi",
+    "label": "PERS",
+    "start": 20,
+    "end": 26,
+    "score": 1.0
+   },
+   {
+    "surface": "de Tricano",
+    "label": "PERS",
+    "start": 27,
+    "end": 37,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0175",
+  "predictions": [
+   {
+    "surface": "Blasius",
+    "label": "PERS",
+    "start": 84,
+    "end": 91,
+    "score": 1.0
+   },
+   {
+    "surface": "Odolrici de Liuntis",
+    "label": "PERS",
+    "start": 34,
+    "end": 53,
+    "score": 1.0
+   },
+   {
+    "surface": "Candidum",
+    "label": "PERS",
+    "start": 303,
+    "end": 311,
+    "score": 1.0
+   },
+   {
+    "surface": "Pelegrinum",
+    "label": "PERS",
+    "start": 315,
+    "end": 325,
+    "score": 1.0
+   },
+   {
+    "surface": "Iacobum Odorlici",
+    "label": "PERS",
+    "start": 381,
+    "end": 397,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0178",
+  "predictions": [
+   {
+    "surface": "Franciscus",
+    "label": "PERS",
+    "start": 48,
+    "end": 58,
+    "score": 1.0
+   },
+   {
+    "surface": "Dominico dicto Nigro",
+    "label": "PERS",
+    "start": 87,
+    "end": 107,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0180",
+  "predictions": [
+   {
+    "surface": "dominus Hermanni",
+    "label": "PERS",
+    "start": 0,
+    "end": 16,
+    "score": 1.0
+   },
+   {
+    "surface": "Hermanus de Midea",
+    "label": "PERS",
+    "start": 54,
+    "end": 71,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0190",
+  "predictions": [
+   {
+    "surface": "dominus Floravantus",
+    "label": "PERS",
+    "start": 0,
+    "end": 19,
+    "score": 1.0
+   },
+   {
+    "surface": "castaldio de Rubino",
+    "label": "PERS",
+    "start": 38,
+    "end": 57,
+    "score": 1.0
+   },
+   {
+    "surface": "domino Raymondo patriarcha Aquilegensi, Istrie atque Carniole marchione",
+    "label": "PERS",
+    "start": 133,
+    "end": 204,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0193",
+  "predictions": [
+   {
+    "surface": "Vidulinus",
+    "label": "PERS",
+    "start": 75,
+    "end": 84,
+    "score": 1.0
+   },
+   {
+    "surface": "Iussa",
+    "label": "PERS",
+    "start": 88,
+    "end": 93,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0194",
+  "predictions": [
+   {
+    "surface": "dominus Warnerius",
+    "label": "PERS",
+    "start": 0,
+    "end": 17,
+    "score": 1.0
+   },
+   {
+    "surface": "condam dominus Wanamicum de Maniaco",
+    "label": "PERS",
+    "start": 36,
+    "end": 71,
+    "score": 1.0
+   },
+   {
+    "surface": "Warnerius filius condam domini Bonamici de Maniaco",
+    "label": "PERS",
+    "start": 71,
+    "end": 121,
+    "score": 1.0
+   },
+   {
+    "surface": "condamus dominus Bonamicum de Maniaco",
+    "label": "PERS",
+    "start": 0,
+    "end": 37,
+    "score": 1.0
+   },
+   {
+    "surface": "dominus Dolcettum",
+    "label": "PERS",
+    "start": 0,
+    "end": 17,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0195",
+  "predictions": [
+   {
+    "surface": "dominus Warnerius",
+    "label": "PERS",
+    "start": 0,
+    "end": 17,
+    "score": 1.0
+   },
+   {
+    "surface": "condamini domini Mathie de Maniaco",
+    "label": "PERS",
+    "start": 0,
+    "end": 34,
+    "score": 1.0
+   },
+   {
+    "surface": "Bonamico",
+    "label": "PERS",
+    "start": 152,
+    "end": 160,
+    "score": 1.0
+   },
+   {
+    "surface": "Odorico",
+    "label": "PERS",
+    "start": 164,
+    "end": 171,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0203",
+  "predictions": [
+   {
+    "surface": "Wolrici",
+    "label": "PERS",
+    "start": 20,
+    "end": 27,
+    "score": 1.0
+   },
+   {
+    "surface": "domini Radii de Gallano",
+    "label": "PERS",
+    "start": 35,
+    "end": 58,
+    "score": 1.0
+   },
+   {
+    "surface": "Wolricus",
+    "label": "PERS",
+    "start": 60,
+    "end": 68,
+    "score": 1.0
+   },
+   {
+    "surface": "olim domini Radii de Gallano",
+    "label": "PERS",
+    "start": 76,
+    "end": 104,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0204",
+  "predictions": [
+   {
+    "surface": "dominus Volricus",
+    "label": "PERS",
+    "start": 0,
+    "end": 16,
+    "score": 1.0
+   },
+   {
+    "surface": "condamini domini Radii de Gallano",
+    "label": "PERS",
+    "start": 0,
+    "end": 33,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0207",
+  "predictions": [
+   {
+    "surface": "Bregand",
+    "label": "PERS",
+    "start": 20,
+    "end": 27,
+    "score": 1.0
+   },
+   {
+    "surface": "domini Bumim de Toglan",
+    "label": "PERS",
+    "start": 35,
+    "end": 57,
+    "score": 1.0
+   },
+   {
+    "surface": "olim domini Bunin(i) de Toglano",
+    "label": "PERS",
+    "start": 74,
+    "end": 105,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0216",
+  "predictions": [
+   {
+    "surface": "Wlunigi",
+    "label": "PERS",
+    "start": 27,
+    "end": 34,
+    "score": 1.0
+   },
+   {
+    "surface": "Mathie",
+    "label": "PERS",
+    "start": 49,
+    "end": 55,
+    "score": 1.0
+   },
+   {
+    "surface": "Vlunigus",
+    "label": "PERS",
+    "start": 81,
+    "end": 89,
+    "score": 1.0
+   },
+   {
+    "surface": "Glemona",
+    "label": "PERS",
+    "start": 38,
+    "end": 45,
+    "score": 1.0
+   },
+   {
+    "surface": "Mathias",
+    "label": "PERS",
+    "start": 104,
+    "end": 111,
+    "score": 1.0
+   },
+   {
+    "surface": "Marinum",
+    "label": "PERS",
+    "start": 245,
+    "end": 252,
+    "score": 1.0
+   },
+   {
+    "surface": "Martinum",
+    "label": "PERS",
+    "start": 306,
+    "end": 314,
+    "score": 1.0
+   },
+   {
+    "surface": "Philippum",
+    "label": "PERS",
+    "start": 318,
+    "end": 327,
+    "score": 1.0
+   },
+   {
+    "surface": "Iacobum de Villa",
+    "label": "PERS",
+    "start": 363,
+    "end": 379,
+    "score": 1.0
+   },
+   {
+    "surface": "Viscam de Mion",
+    "label": "PERS",
+    "start": 432,
+    "end": 446,
+    "score": 1.0
+   },
+   {
+    "surface": "Liuttum tabernarium",
+    "label": "PERS",
+    "start": 500,
+    "end": 519,
+    "score": 1.0
+   },
+   {
+    "surface": "Thomasium iuratum",
+    "label": "PERS",
+    "start": 575,
+    "end": 592,
+    "score": 1.0
+   },
+   {
+    "surface": "Iacobum de Trois",
+    "label": "PERS",
+    "start": 629,
+    "end": 645,
+    "score": 1.0
+   },
+   {
+    "surface": "Laçarum Pol(y)",
+    "label": "PERS",
+    "start": 730,
+    "end": 744,
+    "score": 1.0
+   },
+   {
+    "surface": "Sicherium",
+    "label": "PERS",
+    "start": 1006,
+    "end": 1015,
+    "score": 1.0
+   },
+   {
+    "surface": "Iacobum",
+    "label": "PERS",
+    "start": 1051,
+    "end": 1058,
+    "score": 1.0
+   },
+   {
+    "surface": "Bunitti",
+    "label": "PERS",
+    "start": 1098,
+    "end": 1105,
+    "score": 1.0
+   },
+   {
+    "surface": "Buçin et Lenam",
+    "label": "PERS",
+    "start": 1140,
+    "end": 1154,
+    "score": 1.0
+   },
+   {
+    "surface": "Ioaconis",
+    "label": "PERS",
+    "start": 1189,
+    "end": 1197,
+    "score": 1.0
+   },
+   {
+    "surface": "Martinum iuratum",
+    "label": "PERS",
+    "start": 1273,
+    "end": 1289,
+    "score": 1.0
+   },
+   {
+    "surface": "Iohannem Zusam",
+    "label": "PERS",
+    "start": 1323,
+    "end": 1337,
+    "score": 1.0
+   },
+   {
+    "surface": "Martham viduam",
+    "label": "PERS",
+    "start": 1372,
+    "end": 1386,
+    "score": 1.0
+   },
+   {
+    "surface": "Dominicum de Paludo",
+    "label": "PERS",
+    "start": 1422,
+    "end": 1441,
+    "score": 1.0
+   },
+   {
+    "surface": "Petrum",
+    "label": "PERS",
+    "start": 1477,
+    "end": 1483,
+    "score": 1.0
+   },
+   {
+    "surface": "Iacobum",
+    "label": "PERS",
+    "start": 1603,
+    "end": 1610,
+    "score": 1.0
+   },
+   {
+    "surface": "Folchomar",
+    "label": "PERS",
+    "start": 1665,
+    "end": 1674,
+    "score": 1.0
+   },
+   {
+    "surface": "Morandellum et Bunittum",
+    "label": "PERS",
+    "start": 1805,
+    "end": 1828,
+    "score": 1.0
+   },
+   {
+    "surface": "Iacobum",
+    "label": "PERS",
+    "start": 1892,
+    "end": 1899,
+    "score": 1.0
+   },
+   {
+    "surface": "Martinum",
+    "label": "PERS",
+    "start": 1929,
+    "end": 1937,
+    "score": 1.0
+   },
+   {
+    "surface": "Zuanuttum",
+    "label": "PERS",
+    "start": 1966,
+    "end": 1975,
+    "score": 1.0
+   },
+   {
+    "surface": "Marcam mulierem",
+    "label": "PERS",
+    "start": 2146,
+    "end": 2161,
+    "score": 1.0
+   },
+   {
+    "surface": "Stanium",
+    "label": "PERS",
+    "start": 2184,
+    "end": 2191,
+    "score": 1.0
+   },
+   {
+    "surface": "Bonich",
+    "label": "PERS",
+    "start": 2213,
+    "end": 2219,
+    "score": 1.0
+   },
+   {
+    "surface": "Strianam",
+    "label": "PERS",
+    "start": 2241,
+    "end": 2249,
+    "score": 1.0
+   },
+   {
+    "surface": "Di(un)ert",
+    "label": "PERS",
+    "start": 2466,
+    "end": 2475,
+    "score": 1.0
+   },
+   {
+    "surface": "Vianam mulierem",
+    "label": "PERS",
+    "start": 2498,
+    "end": 2513,
+    "score": 1.0
+   },
+   {
+    "surface": "Andream",
+    "label": "PERS",
+    "start": 2535,
+    "end": 2542,
+    "score": 1.0
+   },
+   {
+    "surface": "Raynerum",
+    "label": "PERS",
+    "start": 2564,
+    "end": 2572,
+    "score": 1.0
+   },
+   {
+    "surface": "Petrum",
+    "label": "PERS",
+    "start": 2594,
+    "end": 2600,
+    "score": 1.0
+   },
+   {
+    "surface": "Antonium",
+    "label": "PERS",
+    "start": 2621,
+    "end": 2629,
+    "score": 1.0
+   },
+   {
+    "surface": "Piçolum",
+    "label": "PERS",
+    "start": 2652,
+    "end": 2659,
+    "score": 1.0
+   },
+   {
+    "surface": "Rosam",
+    "label": "PERS",
+    "start": 2681,
+    "end": 2686,
+    "score": 1.0
+   },
+   {
+    "surface": "Franduttum",
+    "label": "PERS",
+    "start": 2706,
+    "end": 2716,
+    "score": 1.0
+   },
+   {
+    "surface": "Florianum",
+    "label": "PERS",
+    "start": 2738,
+    "end": 2747,
+    "score": 1.0
+   },
+   {
+    "surface": "Mutam",
+    "label": "PERS",
+    "start": 2771,
+    "end": 2776,
+    "score": 1.0
+   },
+   {
+    "surface": "Dardon",
+    "label": "PERS",
+    "start": 2801,
+    "end": 2807,
+    "score": 1.0
+   },
+   {
+    "surface": "Culianum",
+    "label": "PERS",
+    "start": 2866,
+    "end": 2874,
+    "score": 1.0
+   },
+   {
+    "surface": "L(iu)s et filium Usagini et Filinum",
+    "label": "PERS",
+    "start": 3337,
+    "end": 3372,
+    "score": 1.0
+   },
+   {
+    "surface": "Iacobum",
+    "label": "PERS",
+    "start": 3433,
+    "end": 3440,
+    "score": 1.0
+   },
+   {
+    "surface": "Bernardum",
+    "label": "PERS",
+    "start": 3444,
+    "end": 3453,
+    "score": 1.0
+   },
+   {
+    "surface": "Sigardum",
+    "label": "PERS",
+    "start": 3457,
+    "end": 3465,
+    "score": 1.0
+   },
+   {
+    "surface": "Zurcum",
+    "label": "PERS",
+    "start": 3529,
+    "end": 3535,
+    "score": 1.0
+   },
+   {
+    "surface": "Waltherum",
+    "label": "PERS",
+    "start": 3537,
+    "end": 3546,
+    "score": 1.0
+   },
+   {
+    "surface": "Pid(un)tum",
+    "label": "PERS",
+    "start": 3548,
+    "end": 3558,
+    "score": 1.0
+   },
+   {
+    "surface": "Laurencium",
+    "label": "PERS",
+    "start": 3560,
+    "end": 3570,
+    "score": 1.0
+   },
+   {
+    "surface": "Walterum",
+    "label": "PERS",
+    "start": 3574,
+    "end": 3582,
+    "score": 1.0
+   },
+   {
+    "surface": "Wernerum",
+    "label": "PERS",
+    "start": 3716,
+    "end": 3724,
+    "score": 1.0
+   },
+   {
+    "surface": "Puponem",
+    "label": "PERS",
+    "start": 3728,
+    "end": 3735,
+    "score": 1.0
+   },
+   {
+    "surface": "Wecellum",
+    "label": "PERS",
+    "start": 3739,
+    "end": 3747,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0217",
+  "predictions": [
+   {
+    "surface": "dominum Wolfcherum",
+    "label": "PERS",
+    "start": 38,
+    "end": 56,
+    "score": 1.0
+   },
+   {
+    "surface": "patriarcham",
+    "label": "PERS",
+    "start": 57,
+    "end": 68,
+    "score": 1.0
+   },
+   {
+    "surface": "Ottoni",
+    "label": "PERS",
+    "start": 76,
+    "end": 82,
+    "score": 1.0
+   },
+   {
+    "surface": "de Glemona",
+    "label": "PERS",
+    "start": 11,
+    "end": 21,
+    "score": 1.0
+   },
+   {
+    "surface": "dominum Wolfcherum",
+    "label": "PERS",
+    "start": 273,
+    "end": 291,
+    "score": 1.0
+   },
+   {
+    "surface": "Dei gratia Sancte Aquilegensis sedis patriarcha",
+    "label": "PERS",
+    "start": 114,
+    "end": 161,
+    "score": 1.0
+   },
+   {
+    "surface": "Ottonem",
+    "label": "PERS",
+    "start": 281,
+    "end": 288,
+    "score": 1.0
+   },
+   {
+    "surface": "de Glemona",
+    "label": "PERS",
+    "start": 19,
+    "end": 29,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0228",
+  "predictions": [
+   {
+    "surface": "Leonardi",
+    "label": "PERS",
+    "start": 20,
+    "end": 28,
+    "score": 1.0
+   },
+   {
+    "surface": "Cosseni",
+    "label": "PERS",
+    "start": 35,
+    "end": 42,
+    "score": 1.0
+   },
+   {
+    "surface": "de Gayo",
+    "label": "PERS",
+    "start": 43,
+    "end": 50,
+    "score": 1.0
+   },
+   {
+    "surface": "Leonardus",
+    "label": "PERS",
+    "start": 52,
+    "end": 61,
+    "score": 1.0
+   },
+   {
+    "surface": "dictus Cossenus",
+    "label": "PERS",
+    "start": 62,
+    "end": 77,
+    "score": 1.0
+   },
+   {
+    "surface": "domini de Gayo",
+    "label": "PERS",
+    "start": 90,
+    "end": 104,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0232",
+  "predictions": [
+   {
+    "surface": "Rodulfi",
+    "label": "PERS",
+    "start": 20,
+    "end": 27,
+    "score": 1.0
+   },
+   {
+    "surface": "Rodulfus de Quals",
+    "label": "PERS",
+    "start": 38,
+    "end": 55,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0238",
+  "predictions": [
+   {
+    "surface": "Liotti de Buya",
+    "label": "PERS",
+    "start": 20,
+    "end": 34,
+    "score": 1.0
+   },
+   {
+    "surface": "ecclesia Aquilegensi",
+    "label": "PERS",
+    "start": 76,
+    "end": 96,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0239",
+  "predictions": [
+   {
+    "surface": "Vocellus",
+    "label": "PERS",
+    "start": 43,
+    "end": 51,
+    "score": 1.0
+   },
+   {
+    "surface": "de Forgaria",
+    "label": "PERS",
+    "start": 30,
+    "end": 41,
+    "score": 1.0
+   },
+   {
+    "surface": "ecclesia Aquilegensi",
+    "label": "PERS",
+    "start": 89,
+    "end": 109,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0241",
+  "predictions": [
+   {
+    "surface": "Iohannes",
+    "label": "PERS",
+    "start": 97,
+    "end": 105,
+    "score": 1.0
+   },
+   {
+    "surface": "Artuici",
+    "label": "PERS",
+    "start": 76,
+    "end": 83,
+    "score": 1.0
+   },
+   {
+    "surface": "Reynardi",
+    "label": "PERS",
+    "start": 218,
+    "end": 226,
+    "score": 1.0
+   },
+   {
+    "surface": "Dalmisani",
+    "label": "PERS",
+    "start": 404,
+    "end": 413,
+    "score": 1.0
+   },
+   {
+    "surface": "Ianini",
+    "label": "PERS",
+    "start": 477,
+    "end": 483,
+    "score": 1.0
+   },
+   {
+    "surface": "Angeli",
+    "label": "PERS",
+    "start": 497,
+    "end": 503,
+    "score": 1.0
+   },
+   {
+    "surface": "Penetaldi",
+    "label": "PERS",
+    "start": 504,
+    "end": 513,
+    "score": 1.0
+   },
+   {
+    "surface": "Iacobi",
+    "label": "PERS",
+    "start": 570,
+    "end": 576,
+    "score": 1.0
+   },
+   {
+    "surface": "Sclavi",
+    "label": "PERS",
+    "start": 577,
+    "end": 583,
+    "score": 1.0
+   },
+   {
+    "surface": "Vitalucio",
+    "label": "PERS",
+    "start": 856,
+    "end": 865,
+    "score": 1.0
+   },
+   {
+    "surface": "Malisana",
+    "label": "PERS",
+    "start": 869,
+    "end": 877,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0243",
+  "predictions": [
+   {
+    "surface": "Tomasinus",
+    "label": "PERS",
+    "start": 64,
+    "end": 73,
+    "score": 1.0
+   },
+   {
+    "surface": "dominus Lupoldi de Vilessio",
+    "label": "PERS",
+    "start": 0,
+    "end": 27,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0250",
+  "predictions": [
+   {
+    "surface": "Dominus Hermannus",
+    "label": "PERS",
+    "start": 0,
+    "end": 17,
+    "score": 1.0
+   },
+   {
+    "surface": "domino patriarcha Pagano",
+    "label": "PERS",
+    "start": 88,
+    "end": 112,
+    "score": 1.0
+   },
+   {
+    "surface": "Gabriel notarius de Cremona",
+    "label": "PERS",
+    "start": 140,
+    "end": 167,
+    "score": 1.0
+   },
+   {
+    "surface": "dictus dominus Hermannus",
+    "label": "PERS",
+    "start": 174,
+    "end": 198,
+    "score": 1.0
+   },
+   {
+    "surface": "domino patriarcha Bertrando",
+    "label": "PERS",
+    "start": 269,
+    "end": 296,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0280",
+  "predictions": [
+   {
+    "surface": "Sardius",
+    "label": "PERS",
+    "start": 90,
+    "end": 97,
+    "score": 1.0
+   },
+   {
+    "surface": "Almericus",
+    "label": "PERS",
+    "start": 0,
+    "end": 9,
+    "score": 1.0
+   },
+   {
+    "surface": "Gregorius",
+    "label": "PERS",
+    "start": 0,
+    "end": 9,
+    "score": 1.0
+   },
+   {
+    "surface": "Iohannes",
+    "label": "PERS",
+    "start": 0,
+    "end": 8,
+    "score": 1.0
+   },
+   {
+    "surface": "Almericus",
+    "label": "PERS",
+    "start": 0,
+    "end": 9,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0281",
+  "predictions": [
+   {
+    "surface": "Vincherus",
+    "label": "PERS",
+    "start": 89,
+    "end": 98,
+    "score": 1.0
+   },
+   {
+    "surface": "de Arinspergo",
+    "label": "PERS",
+    "start": 29,
+    "end": 42,
+    "score": 1.0
+   },
+   {
+    "surface": "Vuelum",
+    "label": "PERS",
+    "start": 46,
+    "end": 52,
+    "score": 1.0
+   },
+   {
+    "surface": "Lupoldus",
+    "label": "PERS",
+    "start": 0,
+    "end": 8,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0289",
+  "predictions": [
+   {
+    "surface": "Merchilinus",
+    "label": "PERS",
+    "start": 584,
+    "end": 595,
+    "score": 1.0
+   },
+   {
+    "surface": "Henricus de Versia",
+    "label": "PERS",
+    "start": 0,
+    "end": 18,
+    "score": 1.0
+   },
+   {
+    "surface": "Hertuicus",
+    "label": "PERS",
+    "start": 0,
+    "end": 9,
+    "score": 1.0
+   },
+   {
+    "surface": "Iohannes",
+    "label": "PERS",
+    "start": 0,
+    "end": 8,
+    "score": 1.0
+   },
+   {
+    "surface": "Sytygoy",
+    "label": "PERS",
+    "start": 387,
+    "end": 394,
+    "score": 1.0
+   },
+   {
+    "surface": "Nedel",
+    "label": "PERS",
+    "start": 424,
+    "end": 429,
+    "score": 1.0
+   },
+   {
+    "surface": "Artuici filius",
+    "label": "PERS",
+    "start": 444,
+    "end": 458,
+    "score": 1.0
+   },
+   {
+    "surface": "Leonardus",
+    "label": "PERS",
+    "start": 0,
+    "end": 9,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0296",
+  "predictions": [
+   {
+    "surface": "Ortolfo",
+    "label": "PERS",
+    "start": 29,
+    "end": 36,
+    "score": 1.0
+   },
+   {
+    "surface": "Lupoldo de Ronchenberch",
+    "label": "PERS",
+    "start": 40,
+    "end": 63,
+    "score": 1.0
+   },
+   {
+    "surface": "Ortolfus",
+    "label": "PERS",
+    "start": 93,
+    "end": 101,
+    "score": 1.0
+   },
+   {
+    "surface": "Leupoldus de Renchemberch",
+    "label": "PERS",
+    "start": 105,
+    "end": 130,
+    "score": 1.0
+   },
+   {
+    "surface": "dominus patriarcha Bertrandus",
+    "label": "PERS",
+    "start": 180,
+    "end": 209,
+    "score": 1.0
+   },
+   {
+    "surface": "condam dominus Grifo de Reuchemberg",
+    "label": "PERS",
+    "start": 452,
+    "end": 487,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0303",
+  "predictions": [
+   {
+    "surface": "dominum Iohannem",
+    "label": "PERS",
+    "start": 27,
+    "end": 43,
+    "score": 1.0
+   },
+   {
+    "surface": "de Cucan<nea>",
+    "label": "PERS",
+    "start": 44,
+    "end": 57,
+    "score": 1.0
+   },
+   {
+    "surface": "domine patriarche predicti",
+    "label": "PERS",
+    "start": 69,
+    "end": 95,
+    "score": 1.0
+   },
+   {
+    "surface": "domini Iohannem",
+    "label": "PERS",
+    "start": 169,
+    "end": 184,
+    "score": 1.0
+   },
+   {
+    "surface": "de Cucanea",
+    "label": "PERS",
+    "start": 104,
+    "end": 114,
+    "score": 1.0
+   },
+   {
+    "surface": "domine patriarche Gregorii",
+    "label": "PERS",
+    "start": 0,
+    "end": 26,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0306",
+  "predictions": [
+   {
+    "surface": "dominus patriarcha",
+    "label": "PERS",
+    "start": 113,
+    "end": 131,
+    "score": 1.0
+   },
+   {
+    "surface": "Castano castellano suo de Graetz",
+    "label": "PERS",
+    "start": 58,
+    "end": 90,
+    "score": 1.0
+   },
+   {
+    "surface": "dominus patriarcha Gregorius",
+    "label": "PERS",
+    "start": 450,
+    "end": 478,
+    "score": 1.0
+   },
+   {
+    "surface": "Castonem castellanum suum de Graetz",
+    "label": "PERS",
+    "start": 153,
+    "end": 188,
+    "score": 1.0
+   },
+   {
+    "surface": "nobilem virum dominum Ottonem de Tranberch",
+    "label": "PERS",
+    "start": 326,
+    "end": 368,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0319",
+  "predictions": [
+   {
+    "surface": "Zacharie",
+    "label": "PERS",
+    "start": 21,
+    "end": 29,
+    "score": 1.0
+   },
+   {
+    "surface": "de Sancto Daniele",
+    "label": "PERS",
+    "start": 30,
+    "end": 47,
+    "score": 1.0
+   },
+   {
+    "surface": "dominus patriarcha Raymundus",
+    "label": "PERS",
+    "start": 65,
+    "end": 93,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0324",
+  "predictions": [
+   {
+    "surface": "magister Peregrinus",
+    "label": "PERS",
+    "start": 0,
+    "end": 19,
+    "score": 1.0
+   },
+   {
+    "surface": "dominus patriarcha R.",
+    "label": "PERS",
+    "start": 94,
+    "end": 115,
+    "score": 1.0
+   },
+   {
+    "surface": "Herardi de Lapiach",
+    "label": "PERS",
+    "start": 218,
+    "end": 236,
+    "score": 1.0
+   },
+   {
+    "surface": "Valkerini",
+    "label": "PERS",
+    "start": 248,
+    "end": 257,
+    "score": 1.0
+   },
+   {
+    "surface": "Georgii",
+    "label": "PERS",
+    "start": 261,
+    "end": 268,
+    "score": 1.0
+   },
+   {
+    "surface": "Wariendus de Stayn",
+    "label": "PERS",
+    "start": 388,
+    "end": 406,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0326",
+  "predictions": [
+   {
+    "surface": "Henricum",
+    "label": "PERS",
+    "start": 25,
+    "end": 33,
+    "score": 1.0
+   },
+   {
+    "surface": "condam domini Nactuli de Civitate",
+    "label": "PERS",
+    "start": 41,
+    "end": 74,
+    "score": 1.0
+   },
+   {
+    "surface": "domini patriarche R.",
+    "label": "PERS",
+    "start": 48,
+    "end": 68,
+    "score": 1.0
+   },
+   {
+    "surface": "Henricus filius condam domini Nactuli de Civitate",
+    "label": "PERS",
+    "start": 136,
+    "end": 185,
+    "score": 1.0
+   },
+   {
+    "surface": "duos mansos eius sitos unum videlicet in villa Playni et alium in villa Solescani",
+    "label": "PERS",
+    "start": 228,
+    "end": 309,
+    "score": 1.0
+   },
+   {
+    "surface": "ecclesia Aquilegensi",
+    "label": "PERS",
+    "start": 354,
+    "end": 374,
+    "score": 1.0
+   },
+   {
+    "surface": "dominus patriarcha prefatus",
+    "label": "PERS",
+    "start": 379,
+    "end": 406,
+    "score": 1.0
+   },
+   {
+    "surface": "Gregorium filium condam magistri Henrici de dictis mansis ad rectum et legale feudum",
+    "label": "PERS",
+    "start": 418,
+    "end": 502,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0327",
+  "predictions": [
+   {
+    "surface": "Savius",
+    "label": "PERS",
+    "start": 140,
+    "end": 146,
+    "score": 1.0
+   },
+   {
+    "surface": "Novellum",
+    "label": "PERS",
+    "start": 37,
+    "end": 45,
+    "score": 1.0
+   },
+   {
+    "surface": "Maynardi de Glemona",
+    "label": "PERS",
+    "start": 53,
+    "end": 72,
+    "score": 1.0
+   },
+   {
+    "surface": "domini patriarche predicti",
+    "label": "PERS",
+    "start": 76,
+    "end": 102,
+    "score": 1.0
+   },
+   {
+    "surface": "Savius et Novellus fratres",
+    "label": "PERS",
+    "start": 0,
+    "end": 26,
+    "score": 1.0
+   },
+   {
+    "surface": "Maynardi Walengine de Glemona",
+    "label": "PERS",
+    "start": 181,
+    "end": 210,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0330",
+  "predictions": [
+   {
+    "surface": "domino Archilotto",
+    "label": "PERS",
+    "start": 21,
+    "end": 38,
+    "score": 1.0
+   },
+   {
+    "surface": "de Sacilo",
+    "label": "PERS",
+    "start": 39,
+    "end": 48,
+    "score": 1.0
+   },
+   {
+    "surface": "dominus patriarcha Gregorius",
+    "label": "PERS",
+    "start": 66,
+    "end": 94,
+    "score": 1.0
+   },
+   {
+    "surface": "Achilottum",
+    "label": "PERS",
+    "start": 114,
+    "end": 124,
+    "score": 1.0
+   },
+   {
+    "surface": "de Sacilo",
+    "label": "PERS",
+    "start": 57,
+    "end": 66,
+    "score": 1.0
+   },
+   {
+    "surface": "Maynardi",
+    "label": "PERS",
+    "start": 193,
+    "end": 201,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0343",
+  "predictions": [
+   {
+    "surface": "domino O.",
+    "label": "PERS",
+    "start": 21,
+    "end": 30,
+    "score": 1.0
+   },
+   {
+    "surface": "regi Boemie",
+    "label": "PERS",
+    "start": 31,
+    "end": 42,
+    "score": 1.0
+   },
+   {
+    "surface": "patriarcha Gregorius",
+    "label": "PERS",
+    "start": 91,
+    "end": 111,
+    "score": 1.0
+   },
+   {
+    "surface": "venerabilem patrem dominum Brunum Dei gratia Olomucensem episcopum",
+    "label": "PERS",
+    "start": 123,
+    "end": 189,
+    "score": 1.0
+   },
+   {
+    "surface": "domini O.",
+    "label": "PERS",
+    "start": 270,
+    "end": 279,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0361",
+  "predictions": [
+   {
+    "surface": "dominus Radius de Gallano",
+    "label": "PERS",
+    "start": 16,
+    "end": 41,
+    "score": 1.0
+   },
+   {
+    "surface": "Clzoy filio condam domine Galiane",
+    "label": "PERS",
+    "start": 65,
+    "end": 98,
+    "score": 1.0
+   },
+   {
+    "surface": "condam domine Galiane",
+    "label": "PERS",
+    "start": 77,
+    "end": 98,
+    "score": 1.0
+   },
+   {
+    "surface": "domini Gregorii de Gallano",
+    "label": "PERS",
+    "start": 102,
+    "end": 128,
+    "score": 1.0
+   },
+   {
+    "surface": "Mar(mu)zam",
+    "label": "PERS",
+    "start": 130,
+    "end": 140,
+    "score": 1.0
+   },
+   {
+    "surface": "filiam olim Gaslute",
+    "label": "PERS",
+    "start": 142,
+    "end": 161,
+    "score": 1.0
+   },
+   {
+    "surface": "Gaslute",
+    "label": "PERS",
+    "start": 154,
+    "end": 161,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0365",
+  "predictions": [
+   {
+    "surface": "Hermannus",
+    "label": "PERS",
+    "start": 24,
+    "end": 33,
+    "score": 1.0
+   },
+   {
+    "surface": "dominus patriarcha predicti Thomasino",
+    "label": "PERS",
+    "start": 16,
+    "end": 53,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0371",
+  "predictions": [
+   {
+    "surface": "patriarcha G.",
+    "label": "PERS",
+    "start": 34,
+    "end": 47,
+    "score": 1.0
+   },
+   {
+    "surface": "dominum Petrum de Attemps",
+    "label": "PERS",
+    "start": 59,
+    "end": 84,
+    "score": 1.0
+   },
+   {
+    "surface": "Dietalmus de Cavoryaco",
+    "label": "PERS",
+    "start": 187,
+    "end": 209,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0382",
+  "predictions": [
+   {
+    "surface": "Leonardus",
+    "label": "PERS",
+    "start": 16,
+    "end": 25,
+    "score": 1.0
+   },
+   {
+    "surface": "de Brazacho",
+    "label": "PERS",
+    "start": 7,
+    "end": 18,
+    "score": 1.0
+   },
+   {
+    "surface": "superiori",
+    "label": "PERS",
+    "start": 38,
+    "end": 47,
+    "score": 1.0
+   },
+   {
+    "surface": "Artisuttum",
+    "label": "PERS",
+    "start": 77,
+    "end": 87,
+    "score": 1.0
+   },
+   {
+    "surface": "de Gruans",
+    "label": "PERS",
+    "start": 26,
+    "end": 35,
+    "score": 1.0
+   },
+   {
+    "surface": "Henzii",
+    "label": "PERS",
+    "start": 110,
+    "end": 116,
+    "score": 1.0
+   },
+   {
+    "surface": "de Faganea",
+    "label": "PERS",
+    "start": 88,
+    "end": 98,
+    "score": 1.0
+   },
+   {
+    "surface": "domino patriarche R.",
+    "label": "PERS",
+    "start": 167,
+    "end": 187,
+    "score": 1.0
+   },
+   {
+    "surface": "Bonafidem",
+    "label": "PERS",
+    "start": 287,
+    "end": 296,
+    "score": 1.0
+   },
+   {
+    "surface": "Pr(e)mosam",
+    "label": "PERS",
+    "start": 304,
+    "end": 314,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0395",
+  "predictions": [
+   {
+    "surface": "domino Federico",
+    "label": "PERS",
+    "start": 21,
+    "end": 36,
+    "score": 1.0
+   },
+   {
+    "surface": "de Colmalisio",
+    "label": "PERS",
+    "start": 30,
+    "end": 43,
+    "score": 1.0
+   },
+   {
+    "surface": "dicto domino patriarcha",
+    "label": "PERS",
+    "start": 297,
+    "end": 320,
+    "score": 1.0
+   },
+   {
+    "surface": "domino Federico de Colmalisio",
+    "label": "PERS",
+    "start": 134,
+    "end": 163,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0397",
+  "predictions": [
+   {
+    "surface": "dominus Dietmarus",
+    "label": "PERS",
+    "start": 88,
+    "end": 105,
+    "score": 1.0
+   },
+   {
+    "surface": "domini patriarche Gregorii",
+    "label": "PERS",
+    "start": 140,
+    "end": 166,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0402",
+  "predictions": [
+   {
+    "surface": "Megnard",
+    "label": "PERS",
+    "start": 0,
+    "end": 7,
+    "score": 1.0
+   },
+   {
+    "surface": "Bartholomeus de Castilerio",
+    "label": "PERS",
+    "start": 0,
+    "end": 26,
+    "score": 1.0
+   },
+   {
+    "surface": "Dirindonum",
+    "label": "PERS",
+    "start": 301,
+    "end": 311,
+    "score": 1.0
+   },
+   {
+    "surface": "Rivison",
+    "label": "PERS",
+    "start": 367,
+    "end": 374,
+    "score": 1.0
+   },
+   {
+    "surface": "Gregorius patriarcha",
+    "label": "PERS",
+    "start": 0,
+    "end": 20,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0403",
+  "predictions": [
+   {
+    "surface": "dominus Walrappum",
+    "label": "PERS",
+    "start": 69,
+    "end": 86,
+    "score": 1.0
+   },
+   {
+    "surface": "de Bragulino",
+    "label": "PERS",
+    "start": 36,
+    "end": 48,
+    "score": 1.0
+   },
+   {
+    "surface": "Walrappus de Bragulino",
+    "label": "PERS",
+    "start": 77,
+    "end": 99,
+    "score": 1.0
+   },
+   {
+    "surface": "Varnerium",
+    "label": "PERS",
+    "start": 101,
+    "end": 110,
+    "score": 1.0
+   },
+   {
+    "surface": "quondam Varnerii",
+    "label": "PERS",
+    "start": 118,
+    "end": 134,
+    "score": 1.0
+   },
+   {
+    "surface": "de Gurgo",
+    "label": "PERS",
+    "start": 55,
+    "end": 63,
+    "score": 1.0
+   },
+   {
+    "surface": "Bonemblantum",
+    "label": "PERS",
+    "start": 147,
+    "end": 159,
+    "score": 1.0
+   },
+   {
+    "surface": "Datam",
+    "label": "PERS",
+    "start": 170,
+    "end": 175,
+    "score": 1.0
+   },
+   {
+    "surface": "Michilinam",
+    "label": "PERS",
+    "start": 179,
+    "end": 189,
+    "score": 1.0
+   },
+   {
+    "surface": "ipsius Varnerii",
+    "label": "PERS",
+    "start": 198,
+    "end": 213,
+    "score": 1.0
+   },
+   {
+    "surface": "Lucardam",
+    "label": "PERS",
+    "start": 218,
+    "end": 226,
+    "score": 1.0
+   },
+   {
+    "surface": "Adaleytam",
+    "label": "PERS",
+    "start": 230,
+    "end": 239,
+    "score": 1.0
+   },
+   {
+    "surface": "Lazaram",
+    "label": "PERS",
+    "start": 243,
+    "end": 250,
+    "score": 1.0
+   },
+   {
+    "surface": "memorati Warnerii",
+    "label": "PERS",
+    "start": 259,
+    "end": 276,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0407",
+  "predictions": [
+   {
+    "surface": "Phylippinus",
+    "label": "PERS",
+    "start": 0,
+    "end": 11,
+    "score": 1.0
+   },
+   {
+    "surface": "Iacobus de Laturre",
+    "label": "PERS",
+    "start": 0,
+    "end": 18,
+    "score": 1.0
+   },
+   {
+    "surface": "Raymundus patriarcha",
+    "label": "PERS",
+    "start": 94,
+    "end": 114,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0413",
+  "predictions": [
+   {
+    "surface": "Petrus de Attems",
+    "label": "PERS",
+    "start": 54,
+    "end": 70,
+    "score": 1.0
+   },
+   {
+    "surface": "domini patriarche R.",
+    "label": "PERS",
+    "start": 92,
+    "end": 112,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0416",
+  "predictions": [
+   {
+    "surface": "Gobhardo",
+    "label": "PERS",
+    "start": 18,
+    "end": 26,
+    "score": 1.0
+   },
+   {
+    "surface": "Pa(nnin)a",
+    "label": "PERS",
+    "start": 33,
+    "end": 42,
+    "score": 1.0
+   },
+   {
+    "surface": "de Weldes",
+    "label": "PERS",
+    "start": 43,
+    "end": 52,
+    "score": 1.0
+   },
+   {
+    "surface": "Rochlepa",
+    "label": "PERS",
+    "start": 56,
+    "end": 64,
+    "score": 1.0
+   },
+   {
+    "surface": "Gebhardum",
+    "label": "PERS",
+    "start": 187,
+    "end": 196,
+    "score": 1.0
+   },
+   {
+    "surface": "P(a)nin)am",
+    "label": "PERS",
+    "start": 0,
+    "end": 10,
+    "score": 1.0
+   },
+   {
+    "surface": "Rochlepum",
+    "label": "PERS",
+    "start": 227,
+    "end": 236,
+    "score": 1.0
+   },
+   {
+    "surface": "Iudeut",
+    "label": "PERS",
+    "start": 410,
+    "end": 416,
+    "score": 1.0
+   },
+   {
+    "surface": "Tugeut",
+    "label": "PERS",
+    "start": 444,
+    "end": 450,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0418",
+  "predictions": [
+   {
+    "surface": "Paesium",
+    "label": "PERS",
+    "start": 22,
+    "end": 29,
+    "score": 1.0
+   },
+   {
+    "surface": "Galvani",
+    "label": "PERS",
+    "start": 44,
+    "end": 51,
+    "score": 1.0
+   },
+   {
+    "surface": "Ulrici",
+    "label": "PERS",
+    "start": 79,
+    "end": 85,
+    "score": 1.0
+   },
+   {
+    "surface": "R.",
+    "label": "PERS",
+    "start": 261,
+    "end": 263,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0422",
+  "predictions": [
+   {
+    "surface": "Henricus",
+    "label": "PERS",
+    "start": 39,
+    "end": 47,
+    "score": 1.0
+   },
+   {
+    "surface": "Leonardi",
+    "label": "PERS",
+    "start": 70,
+    "end": 78,
+    "score": 1.0
+   },
+   {
+    "surface": "Ild(ini)dam",
+    "label": "PERS",
+    "start": 131,
+    "end": 142,
+    "score": 1.0
+   },
+   {
+    "surface": "Martini",
+    "label": "PERS",
+    "start": 168,
+    "end": 175,
+    "score": 1.0
+   },
+   {
+    "surface": "Franciscum",
+    "label": "PERS",
+    "start": 195,
+    "end": 205,
+    "score": 1.0
+   },
+   {
+    "surface": "Suo(mer)burch",
+    "label": "PERS",
+    "start": 209,
+    "end": 222,
+    "score": 1.0
+   },
+   {
+    "surface": "Mathie",
+    "label": "PERS",
+    "start": 237,
+    "end": 243,
+    "score": 1.0
+   },
+   {
+    "surface": "Alsubettam",
+    "label": "PERS",
+    "start": 258,
+    "end": 268,
+    "score": 1.0
+   },
+   {
+    "surface": "Warneri",
+    "label": "PERS",
+    "start": 276,
+    "end": 283,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0438",
+  "predictions": [
+   {
+    "surface": "Inguillolfus",
+    "label": "PERS",
+    "start": 16,
+    "end": 28,
+    "score": 1.0
+   },
+   {
+    "surface": "domini Sclavi",
+    "label": "PERS",
+    "start": 36,
+    "end": 49,
+    "score": 1.0
+   },
+   {
+    "surface": "patriarche G.",
+    "label": "PERS",
+    "start": 97,
+    "end": 110,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0447",
+  "predictions": [
+   {
+    "surface": "Walterus",
+    "label": "PERS",
+    "start": 38,
+    "end": 46,
+    "score": 1.0
+   },
+   {
+    "surface": "Rodulpho iuniore de Savor(g)nano",
+    "label": "PERS",
+    "start": 129,
+    "end": 161,
+    "score": 1.0
+   },
+   {
+    "surface": "Raymundi S(iniv)issiam de Sedili",
+    "label": "PERS",
+    "start": 218,
+    "end": 250,
+    "score": 1.0
+   },
+   {
+    "surface": "Iohannem",
+    "label": "PERS",
+    "start": 254,
+    "end": 262,
+    "score": 1.0
+   },
+   {
+    "surface": "Martinum",
+    "label": "PERS",
+    "start": 264,
+    "end": 272,
+    "score": 1.0
+   },
+   {
+    "surface": "Nicolaum",
+    "label": "PERS",
+    "start": 276,
+    "end": 284,
+    "score": 1.0
+   },
+   {
+    "surface": "Adheleytam",
+    "label": "PERS",
+    "start": 296,
+    "end": 306,
+    "score": 1.0
+   },
+   {
+    "surface": "Foscam",
+    "label": "PERS",
+    "start": 308,
+    "end": 314,
+    "score": 1.0
+   },
+   {
+    "surface": "Elenam",
+    "label": "PERS",
+    "start": 316,
+    "end": 322,
+    "score": 1.0
+   },
+   {
+    "surface": "Iustam",
+    "label": "PERS",
+    "start": 326,
+    "end": 332,
+    "score": 1.0
+   },
+   {
+    "surface": "Mayucium",
+    "label": "PERS",
+    "start": 366,
+    "end": 374,
+    "score": 1.0
+   },
+   {
+    "surface": "Iacobum",
+    "label": "PERS",
+    "start": 378,
+    "end": 385,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0450",
+  "predictions": [
+   {
+    "surface": "dominus Walrappus de Bragulino",
+    "label": "PERS",
+    "start": 16,
+    "end": 46,
+    "score": 1.0
+   },
+   {
+    "surface": "domini patriarche R.",
+    "label": "PERS",
+    "start": 68,
+    "end": 88,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0451",
+  "predictions": [
+   {
+    "surface": "Marchabrunus",
+    "label": "PERS",
+    "start": 28,
+    "end": 40,
+    "score": 1.0
+   },
+   {
+    "surface": "domino patriarche R.",
+    "label": "PERS",
+    "start": 95,
+    "end": 115,
+    "score": 1.0
+   },
+   {
+    "surface": "Castellinum Malacridam",
+    "label": "PERS",
+    "start": 124,
+    "end": 146,
+    "score": 1.0
+   },
+   {
+    "surface": "dicti domini patriarche",
+    "label": "PERS",
+    "start": 199,
+    "end": 222,
+    "score": 1.0
+   },
+   {
+    "surface": "dominus Iacobus episcopus Concordiensis",
+    "label": "PERS",
+    "start": 359,
+    "end": 398,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0461",
+  "predictions": [
+   {
+    "surface": "dominus patriarcha R.",
+    "label": "PERS",
+    "start": 16,
+    "end": 37,
+    "score": 1.0
+   },
+   {
+    "surface": "Mengossium de Novo",
+    "label": "PERS",
+    "start": 49,
+    "end": 67,
+    "score": 1.0
+   },
+   {
+    "surface": "quondam domini Morandi de eodem loco",
+    "label": "PERS",
+    "start": 75,
+    "end": 111,
+    "score": 1.0
+   },
+   {
+    "surface": "Ardi(co)nis de Urbano",
+    "label": "PERS",
+    "start": 172,
+    "end": 193,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0485",
+  "predictions": [
+   {
+    "surface": "Fridericus de Petovia",
+    "label": "PERS",
+    "start": 35,
+    "end": 56,
+    "score": 1.0
+   },
+   {
+    "surface": "Federici de Petovia",
+    "label": "PERS",
+    "start": 72,
+    "end": 91,
+    "score": 1.0
+   },
+   {
+    "surface": "Raymundi",
+    "label": "PERS",
+    "start": 154,
+    "end": 162,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0492",
+  "predictions": [
+   {
+    "surface": "Hernestus",
+    "label": "PERS",
+    "start": 21,
+    "end": 30,
+    "score": 1.0
+   },
+   {
+    "surface": "de Olznich",
+    "label": "PERS",
+    "start": 7,
+    "end": 17,
+    "score": 1.0
+   },
+   {
+    "surface": "Pozinani",
+    "label": "PERS",
+    "start": 93,
+    "end": 101,
+    "score": 1.0
+   },
+   {
+    "surface": "Hermannus",
+    "label": "PERS",
+    "start": 106,
+    "end": 115,
+    "score": 1.0
+   },
+   {
+    "surface": "Otto",
+    "label": "PERS",
+    "start": 119,
+    "end": 123,
+    "score": 1.0
+   },
+   {
+    "surface": "de Aych",
+    "label": "PERS",
+    "start": 31,
+    "end": 38,
+    "score": 1.0
+   },
+   {
+    "surface": "Al(et)am",
+    "label": "PERS",
+    "start": 186,
+    "end": 194,
+    "score": 1.0
+   },
+   {
+    "surface": "domini patriarche R.",
+    "label": "PERS",
+    "start": 220,
+    "end": 240,
+    "score": 1.0
+   },
+   {
+    "surface": "Hermannum",
+    "label": "PERS",
+    "start": 398,
+    "end": 407,
+    "score": 1.0
+   },
+   {
+    "surface": "filium quondam domini Herborti de Los",
+    "label": "PERS",
+    "start": 86,
+    "end": 123,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0503",
+  "predictions": [
+   {
+    "surface": "dominus patriarcha R.",
+    "label": "PERS",
+    "start": 30,
+    "end": 51,
+    "score": 1.0
+   },
+   {
+    "surface": "Almericum",
+    "label": "PERS",
+    "start": 63,
+    "end": 72,
+    "score": 1.0
+   },
+   {
+    "surface": "quondam domini Dietmari",
+    "label": "PERS",
+    "start": 80,
+    "end": 103,
+    "score": 1.0
+   }
+  ]
+ }
+]

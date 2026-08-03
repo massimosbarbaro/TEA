@@ -1,0 +1,5 @@
+RoBERTa 53-record evaluation: record-level bootstrap, n=2000, seed=42
+
+precision  0.245  95% CI [0.209, 0.284]
+recall     0.731  95% CI [0.551, 0.932]
+f1         0.367  95% CI [0.334, 0.399]

@@ -1,0 +1,6177 @@
+{
+  "metadata": {
+    "source": "BCMU ms 51",
+    "chapter": "C12",
+    "extraction_date": "2026-04-16",
+    "model": "claude-opus-4-6 + human review",
+    "schema_version": "2.0.0-en",
+    "notes": "Gold standard completo: 53 recognitiones del test set per JTDH 2026 paper."
+  },
+  "documents": [
+    {
+      "doc_id": "tea_c12_0174",
+      "recognitio_number": 174,
+      "rubric": "Recognitio feudorum Iacobi de Tricano",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1230,
+      "folio": "c. 68r"
+    },
+    {
+      "doc_id": "tea_c12_0175",
+      "recognitio_number": 175,
+      "rubric": "Recognitio feudorum Blasii condam Odolrici de Liuntis pro se et consanguineis suis",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1300,
+      "folio": "c. 68v"
+    },
+    {
+      "doc_id": "tea_c12_0178",
+      "recognitio_number": 178,
+      "rubric": "Recognitio feudorum Francisci decani de Revosa",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1300,
+      "folio": "c. 69r"
+    },
+    {
+      "doc_id": "tea_c12_0180",
+      "recognitio_number": 180,
+      "rubric": "Recognitio feudorum domini Hermanni de Midea",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1300,
+      "folio": "c. 69v"
+    },
+    {
+      "doc_id": "tea_c12_0190",
+      "recognitio_number": 190,
+      "rubric": "Recognitio feudorum domini Floravanti castaldio de Rubino",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1278,
+      "folio": "c. 71r"
+    },
+    {
+      "doc_id": "tea_c12_0193",
+      "recognitio_number": 193,
+      "rubric": "Recognitio feudorum dominorum Vidulini et Iusse fratrum de Maniaco",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1279,
+      "folio": "c. 71v"
+    },
+    {
+      "doc_id": "tea_c12_0194",
+      "recognitio_number": 194,
+      "rubric": "Recognitio feudorum domini Warnerii condam domini Wanamici de Maniaco",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1300,
+      "folio": "c. 72r"
+    },
+    {
+      "doc_id": "tea_c12_0195",
+      "recognitio_number": 195,
+      "rubric": "Recognitio feudorum domini Warnerii condam domini Mathie de Maniaco",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1275,
+      "folio": "c. 72r"
+    },
+    {
+      "doc_id": "tea_c12_0203",
+      "recognitio_number": 203,
+      "rubric": "Recognitio feudorum Wolrici condam domini Radii de Gallano",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1282,
+      "folio": "c. 73v"
+    },
+    {
+      "doc_id": "tea_c12_0204",
+      "recognitio_number": 204,
+      "rubric": "Recognitio feudorum domini Volrici condam domini Radii de Gallano",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1300,
+      "folio": "c. 73v"
+    },
+    {
+      "doc_id": "tea_c12_0207",
+      "recognitio_number": 207,
+      "rubric": "Recognitio feudorum Bregand condam domini Bumim de Toglan",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1275,
+      "folio": "c. 74r"
+    },
+    {
+      "doc_id": "tea_c12_0216",
+      "recognitio_number": 216,
+      "rubric": "Recognitio feudorum domini Wlunigi de Glemona et Mathie nepotis eiusdem",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1275,
+      "folio": "c. 75r"
+    },
+    {
+      "doc_id": "tea_c12_0217",
+      "recognitio_number": 217,
+      "rubric": "Investitio de lacu de Cavaç facta per dominum Wolfcherum patriarcham domino Ottoni de Glemona",
+      "doc_type": "investitura",
+      "doc_year": 1212,
+      "folio": "c. 76r"
+    },
+    {
+      "doc_id": "tea_c12_0228",
+      "recognitio_number": 228,
+      "rubric": "Recognitio feudorum Leonardi dicti Cosseni de Gayo",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1275,
+      "folio": "c. 78r"
+    },
+    {
+      "doc_id": "tea_c12_0232",
+      "recognitio_number": 232,
+      "rubric": "Recognitio feudorum Rodulfi de Quals",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1205,
+      "folio": "c. 78v"
+    },
+    {
+      "doc_id": "tea_c12_0238",
+      "recognitio_number": 238,
+      "rubric": "Recognitio feudorum Liotti de Buya",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1275,
+      "folio": "c. 79r"
+    },
+    {
+      "doc_id": "tea_c12_0239",
+      "recognitio_number": 239,
+      "rubric": "Recognitio feudorum V(o)celli de Forgaria",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1275,
+      "folio": "c. 79v"
+    },
+    {
+      "doc_id": "tea_c12_0241",
+      "recognitio_number": 241,
+      "rubric": "Refutatio cuiusdam domus de Marano per Iohannem notarium habitatorem domini Artuici de Castello",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1293,
+      "folio": "c. 79v"
+    },
+    {
+      "doc_id": "tea_c12_0243",
+      "recognitio_number": 243,
+      "rubric": "Recognitio feudorum Tomasini condam domini Lupoldi de Vilessio",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1300,
+      "folio": "c. 80r"
+    },
+    {
+      "doc_id": "tea_c12_0250",
+      "recognitio_number": 250,
+      "rubric": "[senza rubrica]",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": null,
+      "folio": "c. 81r"
+    },
+    {
+      "doc_id": "tea_c12_0280",
+      "recognitio_number": 280,
+      "rubric": "Recognitio feudorum Sardii filii condam domini Almerici militis de Sardio de Iustinopoli",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1300
+    },
+    {
+      "doc_id": "tea_c12_0281",
+      "recognitio_number": 281,
+      "rubric": "Recognitio feudorum Vincheri de Arinspergo et Vuelum de eodem loco filii condam Lupoldi",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1300
+    },
+    {
+      "doc_id": "tea_c12_0289",
+      "recognitio_number": 289,
+      "rubric": "Recognitio feudorum Merchilini filii condam Merchilini de Hyco",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1399
+    },
+    {
+      "doc_id": "tea_c12_0296",
+      "recognitio_number": 296,
+      "rubric": "Promissio et concessio facta Ortolfo et Lupoldo de Ronchenberch",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1335
+    },
+    {
+      "doc_id": "tea_c12_0303",
+      "recognitio_number": 303,
+      "rubric": "De renuntiatione facta per dominum Iohannem de Cucan<nea>",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": null
+    },
+    {
+      "doc_id": "tea_c12_0306",
+      "recognitio_number": 306,
+      "rubric": "De investitione facta per supradictum dominum patriarcham Castano castellano suo de Graetz",
+      "doc_type": "investitura",
+      "doc_year": null
+    },
+    {
+      "doc_id": "tea_c12_0319",
+      "recognitio_number": 319,
+      "rubric": "De investitura facta Zacharie de Sancto Daniele",
+      "doc_type": "investitura",
+      "doc_year": null
+    },
+    {
+      "doc_id": "tea_c12_0324",
+      "recognitio_number": 324,
+      "rubric": "De investitura facta magistro Peregrino plebano plebis Sancti Michaelis",
+      "doc_type": "investitura",
+      "doc_year": null
+    },
+    {
+      "doc_id": "tea_c12_0326",
+      "recognitio_number": 326,
+      "rubric": "De refutatione facta per Henricum filium condam domini Nactuli de Civitate",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1291
+    },
+    {
+      "doc_id": "tea_c12_0327",
+      "recognitio_number": 327,
+      "rubric": "De renuntiatione facta per Savium et Novellum condam Maynardi de Glemona",
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1291
+    },
+    {
+      "doc_id": "tea_c12_0330",
+      "recognitio_number": 330,
+      "rubric": "De investitura facta domino Archilotto de Sacilo",
+      "doc_type": "investitura",
+      "doc_year": null
+    },
+    {
+      "doc_id": "tea_c12_0343",
+      "recognitio_number": 343,
+      "rubric": "De investitura facta domino O. regi Boemie de officio pincernatus",
+      "doc_type": "investitura",
+      "doc_year": null
+    },
+    {
+      "doc_id": "tea_c12_0361",
+      "recognitio_number": 361,
+      "doc_type": "recognitio_feudorum",
+      "doc_year": null
+    },
+    {
+      "doc_id": "tea_c12_0365",
+      "recognitio_number": 365,
+      "doc_type": "recognitio_feudorum",
+      "doc_year": null
+    },
+    {
+      "doc_id": "tea_c12_0371",
+      "recognitio_number": 371,
+      "doc_type": "investitura",
+      "doc_year": null
+    },
+    {
+      "doc_id": "tea_c12_0382",
+      "recognitio_number": 382,
+      "doc_type": "recognitio_feudorum",
+      "doc_year": null,
+      "notes": "Due atti (382 e 382bis). Consegna di servi manomessi."
+    },
+    {
+      "doc_id": "tea_c12_0395",
+      "recognitio_number": 395,
+      "doc_type": "investitura",
+      "doc_year": null
+    },
+    {
+      "doc_id": "tea_c12_0397",
+      "recognitio_number": 397,
+      "doc_type": "recognitio_feudorum",
+      "doc_year": null
+    },
+    {
+      "doc_id": "tea_c12_0402",
+      "recognitio_number": 402,
+      "doc_type": "recognitio_feudorum",
+      "doc_year": null
+    },
+    {
+      "doc_id": "tea_c12_0403",
+      "recognitio_number": 403,
+      "doc_type": "recognitio_feudorum",
+      "doc_year": null,
+      "notes": "Donatio: manomissione di servi de masnata."
+    },
+    {
+      "doc_id": "tea_c12_0407",
+      "recognitio_number": 407,
+      "doc_type": "investitura",
+      "doc_year": 1286
+    },
+    {
+      "doc_id": "tea_c12_0413",
+      "recognitio_number": 413,
+      "doc_type": "recognitio_feudorum",
+      "doc_year": null
+    },
+    {
+      "doc_id": "tea_c12_0416",
+      "recognitio_number": 416,
+      "doc_type": "investitura",
+      "doc_year": 1293
+    },
+    {
+      "doc_id": "tea_c12_0418",
+      "recognitio_number": 418,
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1286
+    },
+    {
+      "doc_id": "tea_c12_0422",
+      "recognitio_number": 422,
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1298,
+      "notes": "Manomissione di servi. Atto complesso con procuratore."
+    },
+    {
+      "doc_id": "tea_c12_0438",
+      "recognitio_number": 438,
+      "doc_type": "recognitio_feudorum",
+      "doc_year": null
+    },
+    {
+      "doc_id": "tea_c12_0447",
+      "recognitio_number": 447,
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1274,
+      "notes": "Refutatio di una famiglia di servi con figli e nipoti."
+    },
+    {
+      "doc_id": "tea_c12_0450",
+      "recognitio_number": 450,
+      "doc_type": "recognitio_feudorum",
+      "doc_year": null
+    },
+    {
+      "doc_id": "tea_c12_0451",
+      "recognitio_number": 451,
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1295
+    },
+    {
+      "doc_id": "tea_c12_0461",
+      "recognitio_number": 461,
+      "doc_type": "investitura",
+      "doc_year": null
+    },
+    {
+      "doc_id": "tea_c12_0485",
+      "recognitio_number": 485,
+      "doc_type": "recognitio_feudorum",
+      "doc_year": 1285
+    },
+    {
+      "doc_id": "tea_c12_0492",
+      "recognitio_number": 492,
+      "doc_type": "recognitio_feudorum",
+      "doc_year": null
+    },
+    {
+      "doc_id": "tea_c12_0503",
+      "recognitio_number": 503,
+      "doc_type": "investitura",
+      "doc_year": 1294
+    }
+  ],
+  "persons": [
+    {
+      "person_id": "tea_c12_0174_001",
+      "doc_id": "tea_c12_0174",
+      "name": {
+        "given_name": {
+          "surface": "Iacobus",
+          "normalized": "Iacobus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "Dominus",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_tricano",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0174"
+      }
+    },
+    {
+      "person_id": "tea_c12_0175_001",
+      "doc_id": "tea_c12_0175",
+      "name": {
+        "given_name": {
+          "surface": "Blasius",
+          "normalized": "Blasius",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_liuntis",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0175"
+      },
+      "review_flags": [],
+      "notes": "Agisce pro se et consanguineis suis. I consanguinei non sono nominati."
+    },
+    {
+      "person_id": "tea_c12_0175_002",
+      "doc_id": "tea_c12_0175",
+      "name": {
+        "given_name": {
+          "surface": "Candidum",
+          "normalized": "Candidus",
+          "case": "accusative"
+        }
+      },
+      "origin_place_id": null,
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0175"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Rettore con Pelegrinum in villa de Pesargis. Origine inferibile: Pesargis."
+    },
+    {
+      "person_id": "tea_c12_0175_003",
+      "doc_id": "tea_c12_0175",
+      "name": {
+        "given_name": {
+          "surface": "Pelegrinum",
+          "normalized": "Pelegrinus",
+          "case": "accusative"
+        }
+      },
+      "origin_place_id": null,
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0175"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Rettore con Candidum in villa de Pesargis. Origine inferibile: Pesargis."
+    },
+    {
+      "person_id": "tea_c12_0175_004",
+      "doc_id": "tea_c12_0175",
+      "name": {
+        "given_name": {
+          "surface": "Iacobum",
+          "normalized": "Iacobus",
+          "case": "accusative"
+        }
+      },
+      "origin_place_id": null,
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0175"
+      },
+      "review_flags": [
+        "rector_mansi",
+        "implicit_patronymic"
+      ],
+      "notes": "Rettore in villa Aprentis. Patronimico Odorlici implica padre vivente. Origine inferibile: Aprentis."
+    },
+    {
+      "person_id": "tea_c12_0178_001",
+      "doc_id": "tea_c12_0178",
+      "name": {
+        "given_name": {
+          "surface": "Franciscus",
+          "normalized": "Franciscus",
+          "case": "nominative"
+        },
+        "profession": {
+          "surface": "decanus",
+          "normalized": "decanus"
+        }
+      },
+      "origin_place_id": "tea_loc_revosa",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0178"
+      }
+    },
+    {
+      "person_id": "tea_c12_0178_002",
+      "doc_id": "tea_c12_0178",
+      "name": {
+        "given_name": {
+          "surface": "Dominico",
+          "normalized": "Dominicus",
+          "case": "dative"
+        },
+        "byname": {
+          "surface": "dicto Nigro",
+          "normalized": "dictus Niger"
+        }
+      },
+      "origin_place_id": "tea_loc_revosa",
+      "role": {
+        "function": "co-feudatory",
+        "doc_id": "tea_c12_0178"
+      },
+      "review_flags": [],
+      "notes": "Origine Revosa propagata dal fratello Franciscus. Il testo dice solo 'eius fratre' senza de + luogo."
+    },
+    {
+      "person_id": "tea_c12_0180_001",
+      "doc_id": "tea_c12_0180",
+      "name": {
+        "given_name": {
+          "surface": "Hermanus",
+          "normalized": "Hermanus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "Dominus",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_midea",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0180"
+      }
+    },
+    {
+      "person_id": "tea_c12_0190_001",
+      "doc_id": "tea_c12_0190",
+      "name": {
+        "given_name": {
+          "surface": "Floravantus",
+          "normalized": "Floravantus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "Dominus",
+          "normalized": "dominus"
+        },
+        "profession": {
+          "surface": "castaldio",
+          "normalized": "castaldio"
+        }
+      },
+      "origin_place_id": "tea_loc_rubino",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0190"
+      },
+      "notes": "Feudo: notaria del castrum de Rubino (diritto di rogare e riscuotere decima)."
+    },
+    {
+      "person_id": "tea_c12_0190_002",
+      "doc_id": "tea_c12_0190",
+      "name": {
+        "given_name": {
+          "surface": "Raymondo",
+          "normalized": "Raymundus",
+          "case": "ablative"
+        },
+        "title": {
+          "surface": "domino",
+          "normalized": "dominus"
+        },
+        "profession": {
+          "surface": "patriarcha Aquilegensi, Istrie atque Carniole marchione",
+          "normalized": "patriarcha"
+        }
+      },
+      "origin_place_id": null,
+      "role": {
+        "function": "grantor",
+        "doc_id": "tea_c12_0190"
+      },
+      "notes": "Patriarca Raimondo della Torre (1273-1299). da verificare: non è una persona 'normale' ma l'autorità concedente."
+    },
+    {
+      "person_id": "tea_c12_0193_001",
+      "doc_id": "tea_c12_0193",
+      "name": {
+        "given_name": {
+          "surface": "Vidulinus",
+          "normalized": "Vidulinus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "Domini",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_maniaco",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0193"
+      }
+    },
+    {
+      "person_id": "tea_c12_0193_002",
+      "doc_id": "tea_c12_0193",
+      "name": {
+        "given_name": {
+          "surface": "Iussa",
+          "normalized": "Iussa",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_maniaco",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0193"
+      },
+      "notes": "Fratello di Vidulinus. Origine de Maniaco dalla rubrica 'fratrum de Maniaco'."
+    },
+    {
+      "person_id": "tea_c12_0194_001",
+      "doc_id": "tea_c12_0194",
+      "name": {
+        "given_name": {
+          "surface": "Warnerius",
+          "normalized": "Warnerius",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_maniaco",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0194"
+      },
+      "notes": "Rubrica: 'domini Warnerii condam domini Wanamici'. Corpo: 'Warnerius filius condam domini Bonamici'. DISCREPANZA: Wanamici (rubrica) vs Bonamici (corpo). Da verificare quale sia corretto."
+    },
+    {
+      "person_id": "tea_c12_0194_002",
+      "doc_id": "tea_c12_0194",
+      "name": {
+        "given_name": {
+          "surface": "Dolcettum",
+          "normalized": "Dolcettus",
+          "case": "accusative"
+        },
+        "title": {
+          "surface": "dominum",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": null,
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0194"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Ex rettore del donicale in Canipe: 'olim rectum per dominum Dolcettum et nunc regitur per eius heredes'. Ora gestito dai suoi eredi (non nominati)."
+    },
+    {
+      "person_id": "tea_c12_0195_001",
+      "doc_id": "tea_c12_0195",
+      "name": {
+        "given_name": {
+          "surface": "Warnerius",
+          "normalized": "Warnerius",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "Dominus",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_maniaco",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0195"
+      },
+      "notes": "Agisce pro se et fratribus suis Bonamico et Odorico."
+    },
+    {
+      "person_id": "tea_c12_0195_002",
+      "doc_id": "tea_c12_0195",
+      "name": {
+        "given_name": {
+          "surface": "Bonamico",
+          "normalized": "Bonamicus",
+          "case": "dative"
+        }
+      },
+      "origin_place_id": "tea_loc_maniaco",
+      "role": {
+        "function": "co-feudatory",
+        "doc_id": "tea_c12_0195"
+      },
+      "review_flags": [
+        "implicit_patronymic"
+      ],
+      "notes": "Fratello di Warnerius, quindi figlio del fu dominus Mathias de Maniaco. Origine e patronimico inferiti dal contesto (pro se et fratribus suis)."
+    },
+    {
+      "person_id": "tea_c12_0195_003",
+      "doc_id": "tea_c12_0195",
+      "name": {
+        "given_name": {
+          "surface": "Odorico",
+          "normalized": "Odoricus",
+          "case": "dative"
+        }
+      },
+      "origin_place_id": "tea_loc_maniaco",
+      "role": {
+        "function": "co-feudatory",
+        "doc_id": "tea_c12_0195"
+      },
+      "review_flags": [
+        "implicit_patronymic"
+      ],
+      "notes": "Fratello di Warnerius, quindi figlio del fu dominus Mathias de Maniaco. Origine e patronimico inferiti dal contesto."
+    },
+    {
+      "person_id": "tea_c12_0203_001",
+      "doc_id": "tea_c12_0203",
+      "name": {
+        "given_name": {
+          "surface": "Wolricus",
+          "normalized": "Wolricus",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_gallano",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0203"
+      },
+      "notes": "Agisce pro se et domo sua. Variante ortografica: Wolricus (rec. 203) = Volricus (rec. 204)."
+    },
+    {
+      "person_id": "tea_c12_0204_001",
+      "doc_id": "tea_c12_0204",
+      "name": {
+        "given_name": {
+          "surface": "Volricus",
+          "normalized": "Volricus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "Dominus",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_gallano",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0204"
+      },
+      "notes": "Stesso individuo di rec. 203? Wolricus/Volricus condam domini Radii de Gallano. Qui ha titolo dominus, nella rec. 203 no. Forse due recognitiones per feudi diversi."
+    },
+    {
+      "person_id": "tea_c12_0207_001",
+      "doc_id": "tea_c12_0207",
+      "name": {
+        "given_name": {
+          "surface": "Bregand",
+          "normalized": "Bregand",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_toglano",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0207"
+      },
+      "notes": "Rubrica: 'Bumim de Toglan'. Corpo: 'Bunin(i) de Toglano'. Discrepanza: Bumim vs Bunin(i). Stessa tipologia di errore scribale della rec. 194."
+    },
+    {
+      "person_id": "tea_c12_0216_001",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Vlunigus",
+          "normalized": "Vlunigus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "Dominus",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_glemona",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0216"
+      }
+    },
+    {
+      "person_id": "tea_c12_0216_002",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Mathias",
+          "normalized": "Mathias",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_glemona",
+      "role": {
+        "function": "co-feudatory",
+        "doc_id": "tea_c12_0216"
+      },
+      "notes": "Nepos di Vlunigus. Origine Glemona inferita dallo zio/nonno."
+    },
+    {
+      "person_id": "tea_c12_0216_003",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Marinum",
+          "normalized": "Marinus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Rettore in villa de Vinay (Carnea)"
+    },
+    {
+      "person_id": "tea_c12_0216_004",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Martinum",
+          "normalized": "Martinus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Rettore con Philippum in villa de Lauch"
+    },
+    {
+      "person_id": "tea_c12_0216_005",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Philippum",
+          "normalized": "Philippus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Rettore con Martinum in villa de Lauch"
+    },
+    {
+      "person_id": "tea_c12_0216_006",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Iacobum",
+          "normalized": "Iacobus",
+          "case": "accusative"
+        },
+        "surname": {
+          "surface": "de Villa",
+          "normalized": "de Villa",
+          "type": "de_la"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Rettore in villa de Lauch (secondo manso)"
+    },
+    {
+      "person_id": "tea_c12_0216_007",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Viscam",
+          "normalized": "Visca",
+          "case": "accusative"
+        },
+        "surname": {
+          "surface": "de Mion",
+          "normalized": "de Mion",
+          "type": "de_la"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Rettore in villa de Mion"
+    },
+    {
+      "person_id": "tea_c12_0216_008",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Liuttum",
+          "normalized": "Liuttus",
+          "case": "accusative"
+        },
+        "profession": {
+          "surface": "tabernarium",
+          "normalized": "tabernarius"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Rettore in villa de Ovaro. Professione: tabernarius (oste)."
+    },
+    {
+      "person_id": "tea_c12_0216_009",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Thomasium",
+          "normalized": "Thomasius",
+          "case": "accusative"
+        },
+        "profession": {
+          "surface": "iuratum",
+          "normalized": "iuratus"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Rettore in canale Padrartio. Qualifica: iuratus."
+    },
+    {
+      "person_id": "tea_c12_0216_010",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Iacobum",
+          "normalized": "Iacobus",
+          "case": "accusative"
+        },
+        "surname": {
+          "surface": "de Trois",
+          "normalized": "de Trois",
+          "type": "de_la"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ]
+    },
+    {
+      "person_id": "tea_c12_0216_011",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Laçarum",
+          "normalized": "Lazarus",
+          "case": "accusative"
+        },
+        "byname": {
+          "surface": "Pol(y)",
+          "normalized": "Poly"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Rettore in villa de Li(niun)t"
+    },
+    {
+      "person_id": "tea_c12_0216_012",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Sicherium",
+          "normalized": "Sicherius",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Primo rettore in Lumeracho"
+    },
+    {
+      "person_id": "tea_c12_0216_013",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Iacobum",
+          "normalized": "Iacobus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Secondo rettore in Lumeracho. Omonimo di 216_006 e 216_010."
+    },
+    {
+      "person_id": "tea_c12_0216_014",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Bunitti",
+          "normalized": "Bunittus",
+          "case": "genitive"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Terzo rettore in Lumeracho. Caso genitivo anomalo (regitur per Bunitti)."
+    },
+    {
+      "person_id": "tea_c12_0216_015",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Buçin",
+          "normalized": "Buçinus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Rettore con Lenam in Lumeracho"
+    },
+    {
+      "person_id": "tea_c12_0216_016",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Lenam",
+          "normalized": "Lena",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Rettore con Buçin in Lumeracho"
+    },
+    {
+      "person_id": "tea_c12_0216_017",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Ioaconis",
+          "normalized": "Ioaconus",
+          "case": "genitive"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Quinto rettore in Lumeracho. Caso genitivo."
+    },
+    {
+      "person_id": "tea_c12_0216_018",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Martinum",
+          "normalized": "Martinus",
+          "case": "accusative"
+        },
+        "profession": {
+          "surface": "iuratum",
+          "normalized": "iuratus"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Primo rettore in villa de Goriars. Qualifica: iuratus."
+    },
+    {
+      "person_id": "tea_c12_0216_019",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Iohannem",
+          "normalized": "Iohannes",
+          "case": "accusative"
+        },
+        "byname": {
+          "surface": "Zusam",
+          "normalized": "Zusa"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Rettore in villa de Goriars"
+    },
+    {
+      "person_id": "tea_c12_0216_020",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Martham",
+          "normalized": "Martha",
+          "case": "accusative"
+        },
+        "byname": {
+          "surface": "viduam",
+          "normalized": "vidua"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Rettrice in Goriars. Donna, vedova. 'Vidua' è stato civile, non soprannome — da verificare se va in byname o in notes."
+    },
+    {
+      "person_id": "tea_c12_0216_021",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Dominicum",
+          "normalized": "Dominicus",
+          "case": "accusative"
+        },
+        "surname": {
+          "surface": "de Paludo",
+          "normalized": "de Paludo",
+          "type": "de_la"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ]
+    },
+    {
+      "person_id": "tea_c12_0216_022",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Petrum",
+          "normalized": "Petrus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "In Goriars"
+    },
+    {
+      "person_id": "tea_c12_0216_023",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Iacobum",
+          "normalized": "Iacobus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "In Waldo, villa de Caons"
+    },
+    {
+      "person_id": "tea_c12_0216_024",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Folchomar",
+          "normalized": "Folchomar",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "In villa de Basedo. Nome germanico."
+    },
+    {
+      "person_id": "tea_c12_0216_025",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Morandellum",
+          "normalized": "Morandellus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Rettore con Bunittum in villa de Cisterna"
+    },
+    {
+      "person_id": "tea_c12_0216_026",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Bunittum",
+          "normalized": "Bunittus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Rettore con Morandellum in villa de Cisterna. Omonimo di 216_014?"
+    },
+    {
+      "person_id": "tea_c12_0216_027",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Iacobum",
+          "normalized": "Iacobus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Primo rettore in villa de Perchuit"
+    },
+    {
+      "person_id": "tea_c12_0216_028",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Martinum",
+          "normalized": "Martinus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Secondo rettore in Perchuit"
+    },
+    {
+      "person_id": "tea_c12_0216_029",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Zuanuttum",
+          "normalized": "Zuanuttus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Terzo rettore in Perchuit. Nome volgare friulano."
+    },
+    {
+      "person_id": "tea_c12_0216_030",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Marcam",
+          "normalized": "Marca",
+          "case": "accusative"
+        },
+        "byname": {
+          "surface": "mulierem",
+          "normalized": "mulier"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Prima rettrice in villa de Altaviça. Donna ('mulier'). 'Mulier' è specificazione di genere."
+    },
+    {
+      "person_id": "tea_c12_0216_031",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Stanium",
+          "normalized": "Stanius",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Secondo rettore in Altaviça"
+    },
+    {
+      "person_id": "tea_c12_0216_032",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Bonich",
+          "normalized": "Bonich",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Terzo rettore in Altaviça. Nome probabilmente slavo."
+    },
+    {
+      "person_id": "tea_c12_0216_033",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Strianam",
+          "normalized": "Striana",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Quarto rettore in Altaviça. Nome probabilmente femminile."
+    },
+    {
+      "person_id": "tea_c12_0216_034",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Di(un)ert",
+          "normalized": "Diunert",
+          "case": "nominative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "1° rettore in Luminacho. Nome germanico. Lettura incerta."
+    },
+    {
+      "person_id": "tea_c12_0216_035",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Vianam",
+          "normalized": "Viana",
+          "case": "accusative"
+        },
+        "byname": {
+          "surface": "mulierem",
+          "normalized": "mulier"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "2° rettrice in Luminacho. Donna."
+    },
+    {
+      "person_id": "tea_c12_0216_036",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Andream",
+          "normalized": "Andreas",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "3° Luminacho"
+    },
+    {
+      "person_id": "tea_c12_0216_037",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Raynerum",
+          "normalized": "Raynerus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "4° Luminacho"
+    },
+    {
+      "person_id": "tea_c12_0216_038",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Petrum",
+          "normalized": "Petrus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "5° Luminacho"
+    },
+    {
+      "person_id": "tea_c12_0216_039",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Antonium",
+          "normalized": "Antonius",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "6° Luminacho"
+    },
+    {
+      "person_id": "tea_c12_0216_040",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Piçolum",
+          "normalized": "Piçolus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "7° Luminacho. Nome volgare (piccolo)."
+    },
+    {
+      "person_id": "tea_c12_0216_041",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Rosam",
+          "normalized": "Rosa",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "8° Luminacho. Probabile donna."
+    },
+    {
+      "person_id": "tea_c12_0216_042",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Franduttum",
+          "normalized": "Franduttus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "9° Luminacho"
+    },
+    {
+      "person_id": "tea_c12_0216_043",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Florianum",
+          "normalized": "Florianus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "10° Luminacho"
+    },
+    {
+      "person_id": "tea_c12_0216_044",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Mutam",
+          "normalized": "Muta",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "11° Luminacho. Probabile donna."
+    },
+    {
+      "person_id": "tea_c12_0216_045",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Dardon",
+          "normalized": "Dardon",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "12° Luminacho"
+    },
+    {
+      "person_id": "tea_c12_0216_046",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Culianum",
+          "normalized": "Culianus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "In villa de Sodelliano"
+    },
+    {
+      "person_id": "tea_c12_0216_047",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "L(iu)s",
+          "normalized": "Lius",
+          "case": "nominative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi",
+        "uncertain_reading"
+      ],
+      "notes": "In Cuardo, villa de Osaies. Lettura incerta."
+    },
+    {
+      "person_id": "tea_c12_0216_048",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "filium Usagini",
+          "normalized": "[Nome non specificato]",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi",
+        "anaphoric_reference",
+        "implicit_patronymic"
+      ],
+      "notes": "In Osaies. PERSONA ANONIMA: identificata solo come 'filium Usagini'. Padre: Usaginus (stato: da verificare)."
+    },
+    {
+      "person_id": "tea_c12_0216_049",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Filinum",
+          "normalized": "Filinus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "In Osaies"
+    },
+    {
+      "person_id": "tea_c12_0216_050",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Iacobum",
+          "normalized": "Iacobus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "In villa de Plueria"
+    },
+    {
+      "person_id": "tea_c12_0216_051",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Bernardum",
+          "normalized": "Bernardus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "In Plueria"
+    },
+    {
+      "person_id": "tea_c12_0216_052",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Sigardum",
+          "normalized": "Sigardus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "In Plueria. Nome germanico."
+    },
+    {
+      "person_id": "tea_c12_0216_053",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Zurcum",
+          "normalized": "Zurcus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "In villa de Liaries"
+    },
+    {
+      "person_id": "tea_c12_0216_054",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Waltherum",
+          "normalized": "Waltherus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "In Liaries. Nome germanico. Omonimo di 216_058."
+    },
+    {
+      "person_id": "tea_c12_0216_055",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Pid(un)tum",
+          "normalized": "Piduntus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi",
+        "uncertain_reading"
+      ],
+      "notes": "In Liaries. Lettura incerta."
+    },
+    {
+      "person_id": "tea_c12_0216_056",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Laurencium",
+          "normalized": "Laurencius",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "In Liaries"
+    },
+    {
+      "person_id": "tea_c12_0216_057",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Walterum",
+          "normalized": "Walterus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "In Liaries. Secondo Walterus. Variante di Waltherus (216_054)?"
+    },
+    {
+      "person_id": "tea_c12_0216_058",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Wernerum",
+          "normalized": "Wernerus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "In villa de Loçon"
+    },
+    {
+      "person_id": "tea_c12_0216_059",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Puponem",
+          "normalized": "Pupo",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "In Loçon"
+    },
+    {
+      "person_id": "tea_c12_0216_060",
+      "doc_id": "tea_c12_0216",
+      "name": {
+        "given_name": {
+          "surface": "Wecellum",
+          "normalized": "Wecellus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0216"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "In Loçon. Nome germanico."
+    },
+    {
+      "person_id": "tea_c12_0217_001",
+      "doc_id": "tea_c12_0217",
+      "name": {
+        "given_name": {
+          "surface": "Wolfcherus",
+          "normalized": "Wolfcherus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "Dominus",
+          "normalized": "dominus"
+        },
+        "profession": {
+          "surface": "Sancte Aquilegensis sedis patriarcha",
+          "normalized": "patriarcha"
+        }
+      },
+      "role": {
+        "function": "grantor",
+        "doc_id": "tea_c12_0217"
+      },
+      "notes": "Patriarca Wolfchero di Erla (1204-1218)."
+    },
+    {
+      "person_id": "tea_c12_0217_002",
+      "doc_id": "tea_c12_0217",
+      "name": {
+        "given_name": {
+          "surface": "Ottonem",
+          "normalized": "Otto",
+          "case": "accusative"
+        },
+        "title": {
+          "surface": "dominum",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_glemona",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0217"
+      },
+      "notes": "Riceve il lago di Cavazzo in permutatio. Cede mansi presso castrum de Pregiat, in Genesoy, e in castro/villa de Tiven."
+    },
+    {
+      "person_id": "tea_c12_0217_003",
+      "doc_id": "tea_c12_0217",
+      "name": {
+        "given_name": {
+          "surface": "Gabriel",
+          "normalized": "Gabriel",
+          "case": "nominative"
+        },
+        "profession": {
+          "surface": "notarius",
+          "normalized": "notarius"
+        }
+      },
+      "origin_place_id": null,
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0217"
+      },
+      "notes": "Notaio rogante. da verificare: nel testo non è esplicito se è di Cremona — controllare se 'Gabriel notarius de Cremona' appare nella rec. 250."
+    },
+    {
+      "person_id": "tea_c12_0228_001",
+      "doc_id": "tea_c12_0228",
+      "name": {
+        "given_name": {
+          "surface": "Leonardus",
+          "normalized": "Leonardus",
+          "case": "nominative"
+        },
+        "byname": {
+          "surface": "dictus Cossenus",
+          "normalized": "dictus Cossenus"
+        }
+      },
+      "origin_place_id": "tea_loc_gayo",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0228"
+      },
+      "notes": "CASO CRITICO: 'filius olim domini de Gayo'. Il nome proprio del padre MANCA. Il testo dice solo 'olim domini' senza nome. Il padre è identificato solo dal titolo e dall'origine."
+    },
+    {
+      "person_id": "tea_c12_0232_001",
+      "doc_id": "tea_c12_0232",
+      "name": {
+        "given_name": {
+          "surface": "Rodulfus",
+          "normalized": "Rodulfus",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_quals",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0232"
+      },
+      "notes": "Feudo insolito: diritto di raccogliere legna nel bosco di Attens, escluse querce e castagni. Data molto antica: 1205."
+    },
+    {
+      "person_id": "tea_c12_0238_001",
+      "doc_id": "tea_c12_0238",
+      "name": {
+        "given_name": {
+          "surface": "Liottus",
+          "normalized": "Liottus",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_buya",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0238"
+      },
+      "notes": "Lavora personalmente il manso: 'rectum et laboratum per predictum Liottum'."
+    },
+    {
+      "person_id": "tea_c12_0239_001",
+      "doc_id": "tea_c12_0239",
+      "name": {
+        "given_name": {
+          "surface": "Vocellus",
+          "normalized": "Vocellus",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_forgaria",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0239"
+      }
+    },
+    {
+      "person_id": "tea_c12_0239_002",
+      "doc_id": "tea_c12_0239",
+      "name": {
+        "given_name": {
+          "surface": "Walrapus",
+          "normalized": "Walrapus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "dominus",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": null,
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0239"
+      },
+      "notes": "Venditore della decima: 'dominus Walrapus vendidit avo suo'. Ha venduto la decima al nonno di Vocellus. Walrapus de Bragulino? Da verificare con rec. 403 e 450."
+    },
+    {
+      "person_id": "tea_c12_0241_001",
+      "doc_id": "tea_c12_0241",
+      "name": {
+        "given_name": {
+          "surface": "Iohannes",
+          "normalized": "Iohannes",
+          "case": "nominative"
+        },
+        "profession": {
+          "surface": "notarius",
+          "normalized": "notarius"
+        }
+      },
+      "origin_place_id": null,
+      "residence_place_id": null,
+      "role": {
+        "function": "procurator",
+        "doc_id": "tea_c12_0241"
+      },
+      "notes": "Habitator di Artuicus de Castello. Refuta una casa a Marano."
+    },
+    {
+      "person_id": "tea_c12_0241_002",
+      "doc_id": "tea_c12_0241",
+      "name": {
+        "given_name": {
+          "surface": "Artuici",
+          "normalized": "Artuicus",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domini",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_castello",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0241"
+      },
+      "notes": "Nobilis vir. Iohannes è suo habitator."
+    },
+    {
+      "person_id": "tea_c12_0241_003",
+      "doc_id": "tea_c12_0241",
+      "name": {
+        "given_name": {
+          "surface": "Reynardi",
+          "normalized": "Reynardus",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domini",
+          "normalized": "dominus"
+        },
+        "profession": {
+          "surface": "patriarche Aquilegensis",
+          "normalized": "patriarcha"
+        }
+      },
+      "role": {
+        "function": "grantor",
+        "doc_id": "tea_c12_0241"
+      },
+      "notes": "Patriarca Raimondo della Torre (1273-1299). da verificare: Reynardus nel testo — errore per Raymundus?"
+    },
+    {
+      "person_id": "tea_c12_0241_004",
+      "doc_id": "tea_c12_0241",
+      "name": {
+        "given_name": {
+          "surface": "Dalmisani",
+          "normalized": "Dalmisanus",
+          "case": "genitive"
+        }
+      },
+      "origin_place_id": "tea_loc_marano",
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0241"
+      },
+      "review_flags": [],
+      "notes": "Confinante: 'domus Dalmisani mediante androna'. Origine Marano inferita dal contesto (casa a Marano)."
+    },
+    {
+      "person_id": "tea_c12_0241_005",
+      "doc_id": "tea_c12_0241",
+      "name": {
+        "given_name": {
+          "surface": "Ianini",
+          "normalized": "Ianinus",
+          "case": "genitive"
+        }
+      },
+      "origin_place_id": "tea_loc_marano",
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0241"
+      },
+      "notes": "Confinante: 'domus Ianini filii condam Angeli Penetaldi de Marano'."
+    },
+    {
+      "person_id": "tea_c12_0241_006",
+      "doc_id": "tea_c12_0241",
+      "name": {
+        "given_name": {
+          "surface": "Iacobi",
+          "normalized": "Iacobus",
+          "case": "genitive"
+        },
+        "byname": {
+          "surface": "Sclavi",
+          "normalized": "Sclavus"
+        }
+      },
+      "origin_place_id": "tea_loc_villanova",
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0241"
+      },
+      "notes": "Precedente proprietario della casa: 'que domus fuit Iacobi Sclavi de Villanova'."
+    },
+    {
+      "person_id": "tea_c12_0241_007",
+      "doc_id": "tea_c12_0241",
+      "name": {
+        "given_name": {
+          "surface": "Vitalucio",
+          "normalized": "Vitalucius",
+          "case": "dative"
+        }
+      },
+      "origin_place_id": "tea_loc_malisana",
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0241"
+      },
+      "notes": "Nuovo livellario della casa: investito a livello, deve pagare 8 Aquilegenses annui."
+    },
+    {
+      "person_id": "tea_c12_0243_001",
+      "doc_id": "tea_c12_0243",
+      "name": {
+        "given_name": {
+          "surface": "Tomasinus",
+          "normalized": "Tomasinus",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_vilessio",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0243"
+      }
+    },
+    {
+      "person_id": "tea_c12_0250_001",
+      "doc_id": "tea_c12_0250",
+      "name": {
+        "given_name": {
+          "surface": "Hermannus",
+          "normalized": "Hermannus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "Dominus",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_carnea",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0250"
+      },
+      "notes": "Due recognitiones per lo stesso feudo (castrum Ivelini): una dal patriarca Pagano, una dal patriarca Bertrandus."
+    },
+    {
+      "person_id": "tea_c12_0250_002",
+      "doc_id": "tea_c12_0250",
+      "name": {
+        "given_name": {
+          "surface": "Pagano",
+          "normalized": "Paganus",
+          "case": "ablative"
+        },
+        "title": {
+          "surface": "domino",
+          "normalized": "dominus"
+        },
+        "profession": {
+          "surface": "patriarcha",
+          "normalized": "patriarcha"
+        }
+      },
+      "role": {
+        "function": "grantor",
+        "doc_id": "tea_c12_0250"
+      },
+      "notes": "Patriarca Pagano della Torre (1319-1332)."
+    },
+    {
+      "person_id": "tea_c12_0250_003",
+      "doc_id": "tea_c12_0250",
+      "name": {
+        "given_name": {
+          "surface": "Gabriel",
+          "normalized": "Gabriel",
+          "case": "nominative"
+        },
+        "profession": {
+          "surface": "notarius",
+          "normalized": "notarius"
+        }
+      },
+      "origin_place_id": "tea_loc_cremona",
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0250"
+      },
+      "notes": "Gabriel notarius de Cremona. Notaio rogante per il primo atto."
+    },
+    {
+      "person_id": "tea_c12_0250_004",
+      "doc_id": "tea_c12_0250",
+      "name": {
+        "given_name": {
+          "surface": "Bertrando",
+          "normalized": "Bertrandus",
+          "case": "ablative"
+        },
+        "title": {
+          "surface": "domino",
+          "normalized": "dominus"
+        },
+        "profession": {
+          "surface": "patriarche",
+          "normalized": "patriarcha"
+        }
+      },
+      "role": {
+        "function": "grantor",
+        "doc_id": "tea_c12_0250"
+      },
+      "notes": "Patriarca Bertrando di San Genesio (1334-1350)."
+    },
+    {
+      "person_id": "tea_c12_0250_005",
+      "doc_id": "tea_c12_0250",
+      "name": {
+        "given_name": {
+          "surface": "Gubertinus",
+          "normalized": "Gubertinus",
+          "case": "nominative"
+        },
+        "profession": {
+          "surface": "notarius",
+          "normalized": "notarius"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0250"
+      },
+      "notes": "Gubertinus notarius. Notaio rogante per il secondo atto. Probabilmente Gubertino da Novate (da verificare: Brunettin 2018, De Vitt 2022)."
+    },
+    {
+      "person_id": "tea_c12_0280_001",
+      "doc_id": "tea_c12_0280",
+      "name": {
+        "given_name": {
+          "surface": "Sardius",
+          "normalized": "Sardius",
+          "case": "nominative"
+        },
+        "surname": {
+          "surface": "de Sardio",
+          "normalized": "de Sardio",
+          "type": "de_la"
+        }
+      },
+      "origin_place_id": "tea_loc_iustinopolis",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0280"
+      },
+      "notes": "Agisce pro se ac principale per i fratelli Gregorius, Iohannes, Almericus. Cognome familiare: de Sardio. Il feudo è villa Trebesegneberd nel distretto di Iustinopolis, ora occupata."
+    },
+    {
+      "person_id": "tea_c12_0280_002",
+      "doc_id": "tea_c12_0280",
+      "name": {
+        "given_name": {
+          "surface": "Gregorio",
+          "normalized": "Gregorius",
+          "case": "ablative"
+        }
+      },
+      "origin_place_id": "tea_loc_iustinopolis",
+      "role": {
+        "function": "co-feudatory",
+        "doc_id": "tea_c12_0280"
+      },
+      "review_flags": [
+        "implicit_patronymic"
+      ],
+      "notes": "Fratello di Sardius, quindi filius condam domini Almerici militis de Sardio."
+    },
+    {
+      "person_id": "tea_c12_0280_003",
+      "doc_id": "tea_c12_0280",
+      "name": {
+        "given_name": {
+          "surface": "Iohanne",
+          "normalized": "Iohannes",
+          "case": "ablative"
+        }
+      },
+      "origin_place_id": "tea_loc_iustinopolis",
+      "role": {
+        "function": "co-feudatory",
+        "doc_id": "tea_c12_0280"
+      },
+      "review_flags": [
+        "implicit_patronymic"
+      ],
+      "notes": "Fratello di Sardius."
+    },
+    {
+      "person_id": "tea_c12_0280_004",
+      "doc_id": "tea_c12_0280",
+      "name": {
+        "given_name": {
+          "surface": "Almerico",
+          "normalized": "Almericus",
+          "case": "ablative"
+        }
+      },
+      "origin_place_id": "tea_loc_iustinopolis",
+      "role": {
+        "function": "co-feudatory",
+        "doc_id": "tea_c12_0280"
+      },
+      "review_flags": [
+        "implicit_patronymic"
+      ],
+      "notes": "Fratello di Sardius. Omonimo del padre defunto — porta il nome del nonno/padre."
+    },
+    {
+      "person_id": "tea_c12_0281_001",
+      "doc_id": "tea_c12_0281",
+      "name": {
+        "given_name": {
+          "surface": "Vincherus",
+          "normalized": "Vincherus",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_arinspergo",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0281"
+      }
+    },
+    {
+      "person_id": "tea_c12_0281_002",
+      "doc_id": "tea_c12_0281",
+      "name": {
+        "given_name": {
+          "surface": "Vuelum",
+          "normalized": "Vuelus",
+          "case": "accusative"
+        }
+      },
+      "origin_place_id": "tea_loc_arinspergo",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0281"
+      },
+      "notes": "'de eodem loco' = Arinspergo. Origine propagata."
+    },
+    {
+      "person_id": "tea_c12_0289_001",
+      "doc_id": "tea_c12_0289",
+      "name": {
+        "given_name": {
+          "surface": "Merchlinus",
+          "normalized": "Merchlinus",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_hyco",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0289"
+      },
+      "notes": "OMONIMIA PADRE-FIGLIO: Merchlinus filius condam Merchlini. Stesso nome."
+    },
+    {
+      "person_id": "tea_c12_0289_002",
+      "doc_id": "tea_c12_0289",
+      "name": {
+        "given_name": {
+          "surface": "Henricum",
+          "normalized": "Henricus",
+          "case": "accusative"
+        },
+        "surname": {
+          "surface": "de Versia",
+          "normalized": "de Versia",
+          "type": "de_la"
+        }
+      },
+      "role": {
+        "function": "procurator",
+        "doc_id": "tea_c12_0289"
+      }
+    },
+    {
+      "person_id": "tea_c12_0289_003",
+      "doc_id": "tea_c12_0289",
+      "name": {
+        "given_name": {
+          "surface": "Hertuicum",
+          "normalized": "Hertuicus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0289"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Coltivatore con fratello Iohannes sub Griç."
+    },
+    {
+      "person_id": "tea_c12_0289_004",
+      "doc_id": "tea_c12_0289",
+      "name": {
+        "given_name": {
+          "surface": "Iohannem",
+          "normalized": "Iohannes",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0289"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Fratello di Hertuicus."
+    },
+    {
+      "person_id": "tea_c12_0289_005",
+      "doc_id": "tea_c12_0289",
+      "name": {
+        "given_name": {
+          "surface": "Sytygoy",
+          "normalized": "Sytygoy",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0289"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Indicato con 'quem nomine' — nome slavo."
+    },
+    {
+      "person_id": "tea_c12_0289_006",
+      "doc_id": "tea_c12_0289",
+      "name": {
+        "given_name": {
+          "surface": "Nedel",
+          "normalized": "Nedel",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0289"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ]
+    },
+    {
+      "person_id": "tea_c12_0289_007",
+      "doc_id": "tea_c12_0289",
+      "name": {
+        "given_name": {
+          "surface": "filium Artuici",
+          "normalized": "[Nome non specificato]",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0289"
+      },
+      "review_flags": [
+        "rector_mansi",
+        "anaphoric_reference"
+      ],
+      "notes": "PERSONA ANONIMA: 'per filium Artuici'. Il figlio non ha nome."
+    },
+    {
+      "person_id": "tea_c12_0289_008",
+      "doc_id": "tea_c12_0289",
+      "name": {
+        "given_name": {
+          "surface": "Leonardum",
+          "normalized": "Leonardus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0289"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Apud Sanctum Vitum."
+    },
+    {
+      "person_id": "tea_c12_0296_001",
+      "doc_id": "tea_c12_0296",
+      "name": {
+        "given_name": {
+          "surface": "Ortolfus",
+          "normalized": "Ortolfus",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_renchemberch",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0296"
+      }
+    },
+    {
+      "person_id": "tea_c12_0296_002",
+      "doc_id": "tea_c12_0296",
+      "name": {
+        "given_name": {
+          "surface": "Leupoldus",
+          "normalized": "Leupoldus",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_renchemberch",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0296"
+      }
+    },
+    {
+      "person_id": "tea_c12_0296_003",
+      "doc_id": "tea_c12_0296",
+      "name": {
+        "given_name": {
+          "surface": "Bertrandus",
+          "normalized": "Bertrandus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "dominus",
+          "normalized": "dominus"
+        },
+        "profession": {
+          "surface": "patriarcha",
+          "normalized": "patriarcha"
+        }
+      },
+      "role": {
+        "function": "grantor",
+        "doc_id": "tea_c12_0296"
+      },
+      "notes": "Patriarca Bertrando di San Genesio (1334-1350)."
+    },
+    {
+      "person_id": "tea_c12_0296_004",
+      "doc_id": "tea_c12_0296",
+      "name": {
+        "given_name": {
+          "surface": "Grifo",
+          "normalized": "Grifo",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "dominus",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_reuchemberg",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0296"
+      },
+      "notes": "Condam — defunto. Precedente detentore dei feudi."
+    },
+    {
+      "person_id": "tea_c12_0303_001",
+      "doc_id": "tea_c12_0303",
+      "name": {
+        "given_name": {
+          "surface": "Iohannes",
+          "normalized": "Iohannes",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "dominus",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_cucanea",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0303"
+      }
+    },
+    {
+      "person_id": "tea_c12_0303_002",
+      "doc_id": "tea_c12_0303",
+      "name": {
+        "given_name": {
+          "surface": "Gregorii",
+          "normalized": "Gregorius",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domini",
+          "normalized": "dominus"
+        },
+        "profession": {
+          "surface": "patriarche",
+          "normalized": "patriarcha"
+        }
+      },
+      "role": {
+        "function": "grantor",
+        "doc_id": "tea_c12_0303"
+      },
+      "notes": "Patriarca Gregorio di Montelongo (1251-1269)."
+    },
+    {
+      "person_id": "tea_c12_0306_001",
+      "doc_id": "tea_c12_0306",
+      "name": {
+        "given_name": {
+          "surface": "Gregorius",
+          "normalized": "Gregorius",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "dominus",
+          "normalized": "dominus"
+        },
+        "profession": {
+          "surface": "patriarcha",
+          "normalized": "patriarcha"
+        }
+      },
+      "role": {
+        "function": "grantor",
+        "doc_id": "tea_c12_0306"
+      },
+      "notes": "Patriarca Gregorio di Montelongo."
+    },
+    {
+      "person_id": "tea_c12_0306_002",
+      "doc_id": "tea_c12_0306",
+      "name": {
+        "given_name": {
+          "surface": "Castonem",
+          "normalized": "Casto",
+          "case": "accusative"
+        },
+        "profession": {
+          "surface": "castellanum",
+          "normalized": "castellanus"
+        }
+      },
+      "origin_place_id": "tea_loc_graetz",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0306"
+      },
+      "notes": "Castellanus del patriarca a Graetz."
+    },
+    {
+      "person_id": "tea_c12_0306_003",
+      "doc_id": "tea_c12_0306",
+      "name": {
+        "given_name": {
+          "surface": "Ottonem",
+          "normalized": "Otto",
+          "case": "accusative"
+        },
+        "title": {
+          "surface": "dominum",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_tranberch",
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0306"
+      },
+      "notes": "Nobilis vir, capitaneus contrate de Graetz. Aveva impegnato i mansi per 20 marche."
+    },
+    {
+      "person_id": "tea_c12_0319_001",
+      "doc_id": "tea_c12_0319",
+      "name": {
+        "given_name": {
+          "surface": "Raymundus",
+          "normalized": "Raymundus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "dominus",
+          "normalized": "dominus"
+        },
+        "profession": {
+          "surface": "patriarcha",
+          "normalized": "patriarcha"
+        }
+      },
+      "role": {
+        "function": "grantor",
+        "doc_id": "tea_c12_0319"
+      },
+      "notes": "Patriarca Raimondo della Torre (1273-1299)."
+    },
+    {
+      "person_id": "tea_c12_0319_002",
+      "doc_id": "tea_c12_0319",
+      "name": {
+        "given_name": {
+          "surface": "Zachariam",
+          "normalized": "Zacharias",
+          "case": "accusative"
+        }
+      },
+      "origin_place_id": "tea_loc_sanctus_daniel",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0319"
+      },
+      "notes": "Feudo ereditario ('pater et antecessores eius'). Lavora in donicali."
+    },
+    {
+      "person_id": "tea_c12_0324_001",
+      "doc_id": "tea_c12_0324",
+      "name": {
+        "given_name": {
+          "surface": "Peregrinum",
+          "normalized": "Peregrinus",
+          "case": "accusative"
+        },
+        "title": {
+          "surface": "magistrum",
+          "normalized": "magister"
+        },
+        "profession": {
+          "surface": "plebanum plebis Sancti Michaelis de Iuna",
+          "normalized": "plebanus"
+        }
+      },
+      "role": {
+        "function": "procurator",
+        "doc_id": "tea_c12_0324"
+      },
+      "notes": "Pievano di S. Michele de Iuna. Agisce per conto dei parenti."
+    },
+    {
+      "person_id": "tea_c12_0324_002",
+      "doc_id": "tea_c12_0324",
+      "name": {
+        "given_name": {
+          "surface": "Herardi",
+          "normalized": "Herardus",
+          "case": "genitive"
+        },
+        "surname": {
+          "surface": "de Lapiach",
+          "normalized": "de Lapiach",
+          "type": "de_la"
+        }
+      },
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0324"
+      },
+      "notes": "Cognatus di Peregrinus."
+    },
+    {
+      "person_id": "tea_c12_0324_003",
+      "doc_id": "tea_c12_0324",
+      "name": {
+        "given_name": {
+          "surface": "Valkerini",
+          "normalized": "Valkerinus",
+          "case": "genitive"
+        }
+      },
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0324"
+      },
+      "notes": "Figlio di Herardus, nepos di Peregrinus."
+    },
+    {
+      "person_id": "tea_c12_0324_004",
+      "doc_id": "tea_c12_0324",
+      "name": {
+        "given_name": {
+          "surface": "Georgii",
+          "normalized": "Georgius",
+          "case": "genitive"
+        }
+      },
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0324"
+      },
+      "notes": "Figlio di Herardus, nepos di Peregrinus."
+    },
+    {
+      "person_id": "tea_c12_0324_005",
+      "doc_id": "tea_c12_0324",
+      "name": {
+        "given_name": {
+          "surface": "Wariendus",
+          "normalized": "Wariendus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "dominus",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_stayn",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0324"
+      },
+      "notes": "Condam — defunto. Precedente detentore dell'habitantia in castro Werdenech."
+    },
+    {
+      "person_id": "tea_c12_0326_001",
+      "doc_id": "tea_c12_0326",
+      "name": {
+        "given_name": {
+          "surface": "Henricus",
+          "normalized": "Henricus",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_civitas",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0326"
+      },
+      "notes": "Refuta due mansi, che il patriarca reinveste a Gregorius."
+    },
+    {
+      "person_id": "tea_c12_0326_002",
+      "doc_id": "tea_c12_0326",
+      "name": {
+        "given_name": {
+          "surface": "Gregorium",
+          "normalized": "Gregorius",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0326"
+      },
+      "notes": "Riceve l'investitura dei mansi refutati da Henricus."
+    },
+    {
+      "person_id": "tea_c12_0327_001",
+      "doc_id": "tea_c12_0327",
+      "name": {
+        "given_name": {
+          "surface": "Savius",
+          "normalized": "Savius",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_glemona",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0327"
+      },
+      "notes": "Fratello di Novellus."
+    },
+    {
+      "person_id": "tea_c12_0327_002",
+      "doc_id": "tea_c12_0327",
+      "name": {
+        "given_name": {
+          "surface": "Novellus",
+          "normalized": "Novellus",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_glemona",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0327"
+      },
+      "notes": "Fratello di Savius."
+    },
+    {
+      "person_id": "tea_c12_0330_001",
+      "doc_id": "tea_c12_0330",
+      "name": {
+        "given_name": {
+          "surface": "Achilottum",
+          "normalized": "Achilottus",
+          "case": "accusative"
+        },
+        "title": {
+          "surface": "dominum",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_sacilo",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0330"
+      }
+    },
+    {
+      "person_id": "tea_c12_0330_002",
+      "doc_id": "tea_c12_0330",
+      "name": {
+        "given_name": {
+          "surface": "Maynardi",
+          "normalized": "Maynardus",
+          "case": "genitive"
+        }
+      },
+      "origin_place_id": "tea_loc_sacilo",
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0330"
+      },
+      "notes": "'de dicto loco' = de Sacilo. Origine risolta dall'anafora. Confinante."
+    },
+    {
+      "person_id": "tea_c12_0330_003",
+      "doc_id": "tea_c12_0330",
+      "name": {
+        "given_name": {
+          "surface": "Guillelmi",
+          "normalized": "Guillelmus",
+          "case": "genitive"
+        }
+      },
+      "origin_place_id": "tea_loc_sacilo",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0330"
+      },
+      "notes": "Condam — defunto. Il manso gli era scaduto per morte ('per morte Guillelmi condam Leazarii de Sacilo')."
+    },
+    {
+      "person_id": "tea_c12_0343_001",
+      "doc_id": "tea_c12_0343",
+      "name": {
+        "given_name": {
+          "surface": "Brunum",
+          "normalized": "Brunus",
+          "case": "accusative"
+        },
+        "title": {
+          "surface": "dominum",
+          "normalized": "dominus"
+        },
+        "profession": {
+          "surface": "Olomucensem episcopum",
+          "normalized": "episcopus Olomucensis"
+        }
+      },
+      "role": {
+        "function": "procurator",
+        "doc_id": "tea_c12_0343"
+      },
+      "notes": "Vescovo di Olomouc, capitaneus del re di Boemia. Agisce per conto del re."
+    },
+    {
+      "person_id": "tea_c12_0343_002",
+      "doc_id": "tea_c12_0343",
+      "name": {
+        "given_name": {
+          "surface": "O.",
+          "normalized": "Otacharus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "dominus",
+          "normalized": "dominus"
+        },
+        "profession": {
+          "surface": "rex Boemie",
+          "normalized": "rex Boemiae"
+        }
+      },
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0343"
+      },
+      "notes": "Ottokar/Otacharus II re di Boemia e Stiria (1253-1278). Iniziale O. nel testo. Riceve l'officium pincernatus (coppierato)."
+    },
+    {
+      "person_id": "tea_c12_0343_003",
+      "doc_id": "tea_c12_0343",
+      "name": {
+        "given_name": {
+          "surface": "Fridericus",
+          "normalized": "Fridericus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "dominus",
+          "normalized": "dominus"
+        },
+        "profession": {
+          "surface": "dux Austrie",
+          "normalized": "dux Austriae"
+        }
+      },
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0343"
+      },
+      "notes": "Bone memorie — defunto. Federico il Bellicoso, ultimo duca Babenberg (†1246). Precedente detentore del feudo del pincernatus."
+    },
+    {
+      "person_id": "tea_c12_0361_001",
+      "doc_id": "tea_c12_0361",
+      "name": {
+        "given_name": {
+          "surface": "Radius",
+          "normalized": "Radius",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "dominus",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_gallano",
+      "role": {
+        "function": "procurator",
+        "doc_id": "tea_c12_0361"
+      },
+      "notes": "Ha commissione da Clzoy."
+    },
+    {
+      "person_id": "tea_c12_0361_002",
+      "doc_id": "tea_c12_0361",
+      "name": {
+        "given_name": {
+          "surface": "Clzoy",
+          "normalized": "Clzoy",
+          "case": "ablative"
+        }
+      },
+      "origin_place_id": "tea_loc_gallano",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0361"
+      },
+      "notes": "Figlio di domina Galiana e dominus Gregorius de Gallano. Proprietario della serva Mar(mu)za."
+    },
+    {
+      "person_id": "tea_c12_0361_003",
+      "doc_id": "tea_c12_0361",
+      "name": {
+        "given_name": {
+          "surface": "Galiane",
+          "normalized": "Galiana",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domine",
+          "normalized": "domina"
+        }
+      },
+      "origin_place_id": "tea_loc_gallano",
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0361"
+      },
+      "notes": "Madre di Clzoy. Titolo domina: donna di rango."
+    },
+    {
+      "person_id": "tea_c12_0361_004",
+      "doc_id": "tea_c12_0361",
+      "name": {
+        "given_name": {
+          "surface": "Gregorii",
+          "normalized": "Gregorius",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domini",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_gallano",
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0361"
+      },
+      "notes": "Padre di Clzoy."
+    },
+    {
+      "person_id": "tea_c12_0361_005",
+      "doc_id": "tea_c12_0361",
+      "name": {
+        "given_name": {
+          "surface": "Mar(mu)zam",
+          "normalized": "Marmuza",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0361"
+      },
+      "review_flags": [
+        "uncertain_reading"
+      ],
+      "notes": "Serva manomessa (manumissa). Figlia di olim Gasluta. Lettura incerta: Mar(mu)za."
+    },
+    {
+      "person_id": "tea_c12_0361_006",
+      "doc_id": "tea_c12_0361",
+      "name": {
+        "given_name": {
+          "surface": "Gaslute",
+          "normalized": "Gasluta",
+          "case": "genitive"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0361"
+      },
+      "notes": "Olim — defunta. Madre di Mar(mu)za."
+    },
+    {
+      "person_id": "tea_c12_0365_001",
+      "doc_id": "tea_c12_0365",
+      "name": {
+        "given_name": {
+          "surface": "Hermannus",
+          "normalized": "Hermannus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "dominus",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_pinzano",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0365"
+      }
+    },
+    {
+      "person_id": "tea_c12_0365_002",
+      "doc_id": "tea_c12_0365",
+      "name": {
+        "given_name": {
+          "surface": "Thomasino",
+          "normalized": "Thomasinus",
+          "case": "dative"
+        }
+      },
+      "origin_place_id": "tea_loc_pinzano",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0365"
+      }
+    },
+    {
+      "person_id": "tea_c12_0371_001",
+      "doc_id": "tea_c12_0371",
+      "name": {
+        "given_name": {
+          "surface": "Petrum",
+          "normalized": "Petrus",
+          "case": "accusative"
+        },
+        "title": {
+          "surface": "dominum",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_attemps",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0371"
+      }
+    },
+    {
+      "person_id": "tea_c12_0371_002",
+      "doc_id": "tea_c12_0371",
+      "name": {
+        "given_name": {
+          "surface": "Dietalmus",
+          "normalized": "Dietalmus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "dominus",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_cavoryaco",
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0371"
+      },
+      "notes": "Precedente detentore dei redditi."
+    },
+    {
+      "person_id": "tea_c12_0382_001",
+      "doc_id": "tea_c12_0382",
+      "name": {
+        "given_name": {
+          "surface": "Leonardus",
+          "normalized": "Leonardus",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_brazacho",
+      "role": {
+        "function": "procurator",
+        "doc_id": "tea_c12_0382"
+      },
+      "notes": "De Brazacho superiori. Nuntius constitutus — procuratore designato."
+    },
+    {
+      "person_id": "tea_c12_0382_002",
+      "doc_id": "tea_c12_0382",
+      "name": {
+        "given_name": {
+          "surface": "Artisuttum",
+          "normalized": "Artisuttus",
+          "case": "accusative"
+        }
+      },
+      "origin_place_id": "tea_loc_gruans",
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0382"
+      },
+      "notes": "Olim servus di Henzius de Faganea, nunc manumissus. Servo manomesso, consegnato al patriarca come homo Aquilegensis ecclesie."
+    },
+    {
+      "person_id": "tea_c12_0382_003",
+      "doc_id": "tea_c12_0382",
+      "name": {
+        "given_name": {
+          "surface": "Henzii",
+          "normalized": "Henzius",
+          "case": "genitive"
+        }
+      },
+      "origin_place_id": "tea_loc_faganea",
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0382"
+      },
+      "notes": "Proprietario e manomissore di Artisuttus e Bonafides. Nel 382bis: dominum Henzium."
+    },
+    {
+      "person_id": "tea_c12_0382_004",
+      "doc_id": "tea_c12_0382",
+      "name": {
+        "given_name": {
+          "surface": "Bonafidem",
+          "normalized": "Bonafides",
+          "case": "accusative"
+        },
+        "byname": {
+          "surface": "dictam Pr(e)mosam",
+          "normalized": "dicta Premosa"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0382"
+      },
+      "review_flags": [
+        "uncertain_reading"
+      ],
+      "notes": "Uxor di Artisuttus (nel testo: 'dicti Atisutti' — variante ortografica). Anche lei serva manomessa da dominus Henzius."
+    },
+    {
+      "person_id": "tea_c12_0395_001",
+      "doc_id": "tea_c12_0395",
+      "name": {
+        "given_name": {
+          "surface": "Federico",
+          "normalized": "Federicus",
+          "case": "ablative"
+        },
+        "title": {
+          "surface": "domino",
+          "normalized": "dominus"
+        },
+        "profession": {
+          "surface": "gastaldione Utini",
+          "normalized": "gastaldio"
+        }
+      },
+      "origin_place_id": "tea_loc_colmalisio",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0395"
+      }
+    },
+    {
+      "person_id": "tea_c12_0395_002",
+      "doc_id": "tea_c12_0395",
+      "name": {
+        "given_name": {
+          "surface": "Russittum",
+          "normalized": "Russittus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0395"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Rettore del manso in Utino."
+    },
+    {
+      "person_id": "tea_c12_0397_001",
+      "doc_id": "tea_c12_0397",
+      "name": {
+        "given_name": {
+          "surface": "Dietmarus",
+          "normalized": "Dietmarus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "dominus",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_faganea",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0397"
+      },
+      "notes": "Permutatio: cede beni a Fontanabona, riceve manso a Faganea."
+    },
+    {
+      "person_id": "tea_c12_0397_002",
+      "doc_id": "tea_c12_0397",
+      "name": {
+        "given_name": {
+          "surface": "Zachulum",
+          "normalized": "Zachulus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0397"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Rettore del manso in villa de Faganea."
+    },
+    {
+      "person_id": "tea_c12_0402_001",
+      "doc_id": "tea_c12_0402",
+      "name": {
+        "given_name": {
+          "surface": "Meg(n)ardus",
+          "normalized": "Megnardus",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_castilerio",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0402"
+      },
+      "review_flags": [
+        "uncertain_reading"
+      ]
+    },
+    {
+      "person_id": "tea_c12_0402_002",
+      "doc_id": "tea_c12_0402",
+      "name": {
+        "given_name": {
+          "surface": "Dirindonum",
+          "normalized": "Dirindone",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0402"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Rettore in loco Agra."
+    },
+    {
+      "person_id": "tea_c12_0402_003",
+      "doc_id": "tea_c12_0402",
+      "name": {
+        "given_name": {
+          "surface": "Rivison",
+          "normalized": "Rivison",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0402"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "Rettore ultra Cormon."
+    },
+    {
+      "person_id": "tea_c12_0403_001",
+      "doc_id": "tea_c12_0403",
+      "name": {
+        "given_name": {
+          "surface": "Walrappus",
+          "normalized": "Walrappus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "dominus",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_bragulino",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0403"
+      },
+      "notes": "Stesso Walrapus/Volrapus della Tabula (c. 63) e delle rec. 239, 450. Qui manomette servi de masnata."
+    },
+    {
+      "person_id": "tea_c12_0403_002",
+      "doc_id": "tea_c12_0403",
+      "name": {
+        "given_name": {
+          "surface": "Varnerium",
+          "normalized": "Varnerius",
+          "case": "accusative"
+        }
+      },
+      "origin_place_id": "tea_loc_gurgo",
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0403"
+      },
+      "notes": "Servo manomesso. Filius quondam Varnerii de Gurgo — omonimia padre-figlio."
+    },
+    {
+      "person_id": "tea_c12_0403_003",
+      "doc_id": "tea_c12_0403",
+      "name": {
+        "given_name": {
+          "surface": "Bonemblantum",
+          "normalized": "Bonemblantus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0403"
+      },
+      "notes": "Figlio (filium) di Varnerius. Servo manomesso."
+    },
+    {
+      "person_id": "tea_c12_0403_004",
+      "doc_id": "tea_c12_0403",
+      "name": {
+        "given_name": {
+          "surface": "Datam",
+          "normalized": "Data",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0403"
+      },
+      "notes": "Figlia (filia) di Varnerius. Serva manomessa. Nome femminile."
+    },
+    {
+      "person_id": "tea_c12_0403_005",
+      "doc_id": "tea_c12_0403",
+      "name": {
+        "given_name": {
+          "surface": "Michilinam",
+          "normalized": "Michilina",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0403"
+      },
+      "notes": "Figlia di Varnerius. Serva manomessa."
+    },
+    {
+      "person_id": "tea_c12_0403_006",
+      "doc_id": "tea_c12_0403",
+      "name": {
+        "given_name": {
+          "surface": "Lucardam",
+          "normalized": "Lucarda",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0403"
+      },
+      "notes": "Serva manomessa. Rapporto con Varnerius non specificato."
+    },
+    {
+      "person_id": "tea_c12_0403_007",
+      "doc_id": "tea_c12_0403",
+      "name": {
+        "given_name": {
+          "surface": "Adaleytam",
+          "normalized": "Adaleyta",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0403"
+      },
+      "notes": "Serva manomessa."
+    },
+    {
+      "person_id": "tea_c12_0403_008",
+      "doc_id": "tea_c12_0403",
+      "name": {
+        "given_name": {
+          "surface": "Lazaram",
+          "normalized": "Lazara",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0403"
+      },
+      "notes": "Madre (matrem) di Varnerius. Serva manomessa. Il testo dice 'matrem memorati Warnerii'."
+    },
+    {
+      "person_id": "tea_c12_0407_001",
+      "doc_id": "tea_c12_0407",
+      "name": {
+        "given_name": {
+          "surface": "Phylippinum",
+          "normalized": "Phylippinus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0407"
+      },
+      "notes": "'Natus Iacobi de Laturre' — usa natus invece di filius."
+    },
+    {
+      "person_id": "tea_c12_0407_002",
+      "doc_id": "tea_c12_0407",
+      "name": {
+        "given_name": {
+          "surface": "Benevenutum",
+          "normalized": "Benevenutus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0407"
+      },
+      "review_flags": [
+        "rector_mansi"
+      ],
+      "notes": "'quondam Dodi' — patronimico. Padre Dodus defunto."
+    },
+    {
+      "person_id": "tea_c12_0407_003",
+      "doc_id": "tea_c12_0407",
+      "name": {
+        "given_name": {
+          "surface": "Bertrami",
+          "normalized": "Bertramus",
+          "case": "genitive"
+        },
+        "byname": {
+          "surface": "Cesi",
+          "normalized": "Cesus"
+        }
+      },
+      "origin_place_id": "tea_loc_sacilo",
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0407"
+      },
+      "notes": "Olim potestas Sacili — ex podestà di Sacile. Defunto ('per mortem Bertrami'). Il manso era scaduto al patriarca per la sua morte."
+    },
+    {
+      "person_id": "tea_c12_0413_001",
+      "doc_id": "tea_c12_0413",
+      "name": {
+        "given_name": {
+          "surface": "Petrus",
+          "normalized": "Petrus",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_attemps",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0413"
+      }
+    },
+    {
+      "person_id": "tea_c12_0416_001",
+      "doc_id": "tea_c12_0416",
+      "name": {
+        "given_name": {
+          "surface": "Gebhardum",
+          "normalized": "Gebhardus",
+          "case": "accusative"
+        },
+        "byname": {
+          "surface": "dictum Pa(nin)am",
+          "normalized": "dictus Panina"
+        }
+      },
+      "origin_place_id": "tea_loc_weldes",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0416"
+      },
+      "review_flags": [
+        "uncertain_reading"
+      ],
+      "notes": "Riceve habitantia castri Liecthemberch nomine uxoris sue. Nome della moglie non specificato."
+    },
+    {
+      "person_id": "tea_c12_0416_002",
+      "doc_id": "tea_c12_0416",
+      "name": {
+        "given_name": {
+          "surface": "Rochlepum",
+          "normalized": "Rochlepus",
+          "case": "accusative"
+        }
+      },
+      "origin_place_id": "tea_loc_weldes",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0416"
+      },
+      "notes": "Anche lui riceve nomine uxoris sue."
+    },
+    {
+      "person_id": "tea_c12_0416_003",
+      "doc_id": "tea_c12_0416",
+      "name": {
+        "given_name": {
+          "surface": "P(reter)lini",
+          "normalized": "Preterlinus",
+          "case": "genitive"
+        }
+      },
+      "origin_place_id": "tea_loc_liecthemberch",
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0416"
+      },
+      "review_flags": [
+        "uncertain_reading"
+      ],
+      "notes": "Defunto ('per mortem'). Precedente habitator del castello. Lettura molto incerta."
+    },
+    {
+      "person_id": "tea_c12_0418_001",
+      "doc_id": "tea_c12_0418",
+      "name": {
+        "given_name": {
+          "surface": "Paesius",
+          "normalized": "Paesius",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_civitas",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0418"
+      }
+    },
+    {
+      "person_id": "tea_c12_0418_002",
+      "doc_id": "tea_c12_0418",
+      "name": {
+        "given_name": {
+          "surface": "Ulrici",
+          "normalized": "Ulricus",
+          "case": "genitive"
+        },
+        "profession": {
+          "surface": "prepositi Sancti Petri in Carnea",
+          "normalized": "prepositus"
+        }
+      },
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0418"
+      },
+      "notes": "Preposito di San Pietro in Carnea. Riceve l'investitura della decima refutata da Paesius."
+    },
+    {
+      "person_id": "tea_c12_0418_003",
+      "doc_id": "tea_c12_0418",
+      "name": {
+        "given_name": {
+          "surface": "Galvani",
+          "normalized": "Galvanus",
+          "case": "genitive"
+        },
+        "byname": {
+          "surface": "dicti Paesii",
+          "normalized": "dictus Paesius"
+        }
+      },
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0418"
+      },
+      "notes": "Figlio — 'filii'. Soprannome ereditato dal padre? 'Galvanus dictus Paesius filius' — da verificare struttura."
+    },
+    {
+      "person_id": "tea_c12_0422_001",
+      "doc_id": "tea_c12_0422",
+      "name": {
+        "given_name": {
+          "surface": "Henricus",
+          "normalized": "Henricus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "dominus",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_glemona",
+      "role": {
+        "function": "procurator",
+        "doc_id": "tea_c12_0422"
+      }
+    },
+    {
+      "person_id": "tea_c12_0422_002",
+      "doc_id": "tea_c12_0422",
+      "name": {
+        "given_name": {
+          "surface": "Ild(ini)dam",
+          "normalized": "Ildinda",
+          "case": "accusative"
+        },
+        "title": {
+          "surface": "dominam",
+          "normalized": "domina"
+        }
+      },
+      "origin_place_id": "tea_loc_monteregali",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0422"
+      },
+      "review_flags": [
+        "uncertain_reading"
+      ],
+      "notes": "Relicta (vedova) di dominus Martinus de Monteregali."
+    },
+    {
+      "person_id": "tea_c12_0422_003",
+      "doc_id": "tea_c12_0422",
+      "name": {
+        "given_name": {
+          "surface": "Franciscum",
+          "normalized": "Franciscus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0422"
+      },
+      "notes": "Servo liberato (a vinculo servitutis liberatos per dominam Ildrudem)."
+    },
+    {
+      "person_id": "tea_c12_0422_004",
+      "doc_id": "tea_c12_0422",
+      "name": {
+        "given_name": {
+          "surface": "Suo(mer)burch",
+          "normalized": "Suomerburch",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0422"
+      },
+      "review_flags": [
+        "uncertain_reading"
+      ],
+      "notes": "Servo liberato. Figlio di dominus Mathias de Prampergo. Nome germanico."
+    },
+    {
+      "person_id": "tea_c12_0422_005",
+      "doc_id": "tea_c12_0422",
+      "name": {
+        "given_name": {
+          "surface": "Alsubettam",
+          "normalized": "Alsubetta",
+          "case": "accusative"
+        }
+      },
+      "origin_place_id": "tea_loc_monteregali",
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0422"
+      },
+      "notes": "Serva liberata. Filia Warneri dicti Giansiel de Monteregali."
+    },
+    {
+      "person_id": "tea_c12_0438_001",
+      "doc_id": "tea_c12_0438",
+      "name": {
+        "given_name": {
+          "surface": "Inguillolfus",
+          "normalized": "Inguillolfus",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_canipa",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0438"
+      },
+      "notes": "Padre vivente: filius domini Sclavi (no condam). Nome germanico."
+    },
+    {
+      "person_id": "tea_c12_0447_001",
+      "doc_id": "tea_c12_0447",
+      "name": {
+        "given_name": {
+          "surface": "Walterus",
+          "normalized": "Walterus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "magister",
+          "normalized": "magister"
+        },
+        "profession": {
+          "surface": "notarius de Civitate Austria, canonicus Civitatensis",
+          "normalized": "notarius, canonicus"
+        }
+      },
+      "origin_place_id": "tea_loc_civitas",
+      "role": {
+        "function": "procurator",
+        "doc_id": "tea_c12_0447"
+      },
+      "notes": "Agisce per conto di Rodulphus iunior de Savorgnan."
+    },
+    {
+      "person_id": "tea_c12_0447_002",
+      "doc_id": "tea_c12_0447",
+      "name": {
+        "given_name": {
+          "surface": "Rodulpho",
+          "normalized": "Rodulphus",
+          "case": "ablative"
+        },
+        "byname": {
+          "surface": "iuniore",
+          "normalized": "iunior"
+        }
+      },
+      "origin_place_id": "tea_loc_savorgnan",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0447"
+      },
+      "notes": "'Iunior' distingue da un omonimo senior. Famiglia dei Savorgnan."
+    },
+    {
+      "person_id": "tea_c12_0447_003",
+      "doc_id": "tea_c12_0447",
+      "name": {
+        "given_name": {
+          "surface": "S(iniv)issiam",
+          "normalized": "Sinivissia",
+          "case": "accusative"
+        }
+      },
+      "origin_place_id": "tea_loc_sedili",
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0447"
+      },
+      "review_flags": [
+        "uncertain_reading"
+      ],
+      "notes": "Serva refutata. Madre di 7 figli."
+    },
+    {
+      "person_id": "tea_c12_0447_004",
+      "doc_id": "tea_c12_0447",
+      "name": {
+        "given_name": {
+          "surface": "Iohannem",
+          "normalized": "Iohannes",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0447"
+      },
+      "notes": "Figlio di Sinivissia. Servo."
+    },
+    {
+      "person_id": "tea_c12_0447_005",
+      "doc_id": "tea_c12_0447",
+      "name": {
+        "given_name": {
+          "surface": "Martinum",
+          "normalized": "Martinus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0447"
+      },
+      "notes": "Figlio di Sinivissia."
+    },
+    {
+      "person_id": "tea_c12_0447_006",
+      "doc_id": "tea_c12_0447",
+      "name": {
+        "given_name": {
+          "surface": "Nicolaum",
+          "normalized": "Nicolaus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0447"
+      },
+      "notes": "Figlio di Sinivissia."
+    },
+    {
+      "person_id": "tea_c12_0447_007",
+      "doc_id": "tea_c12_0447",
+      "name": {
+        "given_name": {
+          "surface": "Adheleytam",
+          "normalized": "Adheleyta",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0447"
+      },
+      "notes": "Figlia di Sinivissia."
+    },
+    {
+      "person_id": "tea_c12_0447_008",
+      "doc_id": "tea_c12_0447",
+      "name": {
+        "given_name": {
+          "surface": "Foscam",
+          "normalized": "Fosca",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0447"
+      },
+      "notes": "Figlia di Sinivissia."
+    },
+    {
+      "person_id": "tea_c12_0447_009",
+      "doc_id": "tea_c12_0447",
+      "name": {
+        "given_name": {
+          "surface": "Elenam",
+          "normalized": "Elena",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0447"
+      },
+      "notes": "Figlia di Sinivissia."
+    },
+    {
+      "person_id": "tea_c12_0447_010",
+      "doc_id": "tea_c12_0447",
+      "name": {
+        "given_name": {
+          "surface": "Iustam",
+          "normalized": "Iusta",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0447"
+      },
+      "notes": "Figlia di Sinivissia."
+    },
+    {
+      "person_id": "tea_c12_0447_011",
+      "doc_id": "tea_c12_0447",
+      "name": {
+        "given_name": {
+          "surface": "Mayucium",
+          "normalized": "Mayucius",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0447"
+      },
+      "notes": "Figlio di Adheleyta, nipote di Sinivissia. Servo."
+    },
+    {
+      "person_id": "tea_c12_0447_012",
+      "doc_id": "tea_c12_0447",
+      "name": {
+        "given_name": {
+          "surface": "Iacobum",
+          "normalized": "Iacobus",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0447"
+      },
+      "notes": "Figlio di Adheleyta, nipote di Sinivissia."
+    },
+    {
+      "person_id": "tea_c12_0450_001",
+      "doc_id": "tea_c12_0450",
+      "name": {
+        "given_name": {
+          "surface": "Walrappus",
+          "normalized": "Walrappus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "dominus",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_bragulino",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0450"
+      },
+      "notes": "Terza occorrenza: rec. 239, 403, 450. Refuta una decima a Calambri."
+    },
+    {
+      "person_id": "tea_c12_0451_001",
+      "doc_id": "tea_c12_0451",
+      "name": {
+        "given_name": {
+          "surface": "Marchabrunus",
+          "normalized": "Marchabrunus",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_sanctus_vitus",
+      "role": {
+        "function": "procurator",
+        "doc_id": "tea_c12_0451"
+      }
+    },
+    {
+      "person_id": "tea_c12_0451_002",
+      "doc_id": "tea_c12_0451",
+      "name": {
+        "given_name": {
+          "surface": "Castellinum",
+          "normalized": "Castellinus",
+          "case": "accusative"
+        },
+        "byname": {
+          "surface": "Malacridam",
+          "normalized": "Malacrida"
+        }
+      },
+      "origin_place_id": "tea_loc_mediolano",
+      "role": {
+        "function": "procurator",
+        "doc_id": "tea_c12_0451"
+      },
+      "notes": "De Mediolano (Milano), habitator Sancti Viti. Procuratore del patriarca. Malacrida: cognome milanese."
+    },
+    {
+      "person_id": "tea_c12_0451_003",
+      "doc_id": "tea_c12_0451",
+      "name": {
+        "given_name": {
+          "surface": "Iacobus",
+          "normalized": "Iacobus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "dominus",
+          "normalized": "dominus"
+        },
+        "profession": {
+          "surface": "episcopus Concordiensis",
+          "normalized": "episcopus"
+        }
+      },
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0451"
+      },
+      "notes": "Vescovo di Concordia. Trattamento della giurisdizione temporale dell'episcopato."
+    },
+    {
+      "person_id": "tea_c12_0461_001",
+      "doc_id": "tea_c12_0461",
+      "name": {
+        "given_name": {
+          "surface": "Mengossium",
+          "normalized": "Mengossius",
+          "case": "accusative"
+        }
+      },
+      "origin_place_id": "tea_loc_novo",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0461"
+      },
+      "notes": "'De Novo' — da verificare: Castel Nuovo? 'De eodem loco' nella rubrica conferma che padre e figlio sono entrambi de Novo."
+    },
+    {
+      "person_id": "tea_c12_0461_002",
+      "doc_id": "tea_c12_0461",
+      "name": {
+        "given_name": {
+          "surface": "Ardi(co)nis",
+          "normalized": "Ardico",
+          "case": "genitive"
+        }
+      },
+      "origin_place_id": "tea_loc_urbano",
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0461"
+      },
+      "review_flags": [
+        "uncertain_reading"
+      ],
+      "notes": "Defunto ('per mortem'). Habitator di Castrum Veneris. L'habitantia è vacante per la sua morte."
+    },
+    {
+      "person_id": "tea_c12_0485_001",
+      "doc_id": "tea_c12_0485",
+      "name": {
+        "given_name": {
+          "surface": "Fridericus",
+          "normalized": "Fridericus",
+          "case": "nominative"
+        },
+        "title": {
+          "surface": "dominus",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_petovia",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0485"
+      },
+      "notes": "Fratello di dominus Federicus de Petovia. VARIANTE ONOMASTICA: Fridericus/Federicus per due fratelli diversi!"
+    },
+    {
+      "person_id": "tea_c12_0485_002",
+      "doc_id": "tea_c12_0485",
+      "name": {
+        "given_name": {
+          "surface": "Federici",
+          "normalized": "Federicus",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domini",
+          "normalized": "dominus"
+        }
+      },
+      "origin_place_id": "tea_loc_petovia",
+      "role": {
+        "function": "witness",
+        "doc_id": "tea_c12_0485"
+      },
+      "notes": "Fratello di Fridericus. Stesso nome in variante diversa? O due persone distinte? da verificare."
+    },
+    {
+      "person_id": "tea_c12_0492_001",
+      "doc_id": "tea_c12_0492",
+      "name": {
+        "given_name": {
+          "surface": "Hernestus",
+          "normalized": "Hernestus",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_olznich",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0492"
+      }
+    },
+    {
+      "person_id": "tea_c12_0492_002",
+      "doc_id": "tea_c12_0492",
+      "name": {
+        "given_name": {
+          "surface": "Hermannus",
+          "normalized": "Hermannus",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_aych",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0492"
+      }
+    },
+    {
+      "person_id": "tea_c12_0492_003",
+      "doc_id": "tea_c12_0492",
+      "name": {
+        "given_name": {
+          "surface": "Otto",
+          "normalized": "Otto",
+          "case": "nominative"
+        }
+      },
+      "origin_place_id": "tea_loc_aych",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0492"
+      }
+    },
+    {
+      "person_id": "tea_c12_0492_004",
+      "doc_id": "tea_c12_0492",
+      "name": {
+        "given_name": {
+          "surface": "filium Pozinani",
+          "normalized": "[Nome non specificato]",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0492"
+      },
+      "review_flags": [
+        "rector_mansi",
+        "anaphoric_reference"
+      ],
+      "notes": "PERSONA ANONIMA: 'rectum per filium Pozinani'. Il figlio non ha nome."
+    },
+    {
+      "person_id": "tea_c12_0492_005",
+      "doc_id": "tea_c12_0492",
+      "name": {
+        "given_name": {
+          "surface": "Al(et)am",
+          "normalized": "Aleta",
+          "case": "accusative"
+        }
+      },
+      "role": {
+        "function": "tenant",
+        "doc_id": "tea_c12_0492"
+      },
+      "review_flags": [
+        "rector_mansi",
+        "uncertain_reading"
+      ],
+      "notes": "Rettrice del manso in Aych. Probabile donna. Lettura incerta."
+    },
+    {
+      "person_id": "tea_c12_0503_001",
+      "doc_id": "tea_c12_0503",
+      "name": {
+        "given_name": {
+          "surface": "Almericum",
+          "normalized": "Almericus",
+          "case": "accusative"
+        }
+      },
+      "origin_place_id": "tea_loc_pirano",
+      "role": {
+        "function": "feudatory",
+        "doc_id": "tea_c12_0503"
+      },
+      "notes": "De Pirano — Pirano d'Istria! Feudo nella contrata Suzulum presso ecclesia Sancti Odorlici."
+    }
+  ],
+  "kinship_relations": [
+    {
+      "relation_id": "tea_c12_0175_kin_001",
+      "person_id": "tea_c12_0175_001",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filius condam Odolrici",
+        "components": {
+          "kin_term": "filius",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "condam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "attestation_year": 1300,
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Odolrici",
+          "normalized": "Odolricus",
+          "case": "genitive"
+        },
+        "origin_toponym": "Liuntis"
+      }
+    },
+    {
+      "relation_id": "tea_c12_0175_kin_002",
+      "person_id": "tea_c12_0175_004",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "Odorlici",
+        "components": {
+          "kin_term": "[implicit]",
+          "kin_term_lemma": "filius",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "child_of"
+      },
+      "attestation_year": 1300,
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Odorlici",
+          "normalized": "Odolricus",
+          "case": "genitive"
+        }
+      },
+      "review_flags": [
+        "implicit_patronymic"
+      ],
+      "notes": "Patronimico implicito: 'Iacobum Odorlici' senza filius né condam. Padre presumibilmente vivente."
+    },
+    {
+      "relation_id": "tea_c12_0175_kin_003",
+      "person_id": "tea_c12_0175_001",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "consanguineis suis",
+        "components": {
+          "kin_term": "consanguineis",
+          "kin_term_lemma": "consanguineus",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "consanguineus"
+      },
+      "attestation_year": 1300,
+      "review_flags": [
+        "anaphoric_reference"
+      ],
+      "notes": "Consanguinei non nominati. Blasius agisce anche per loro conto."
+    },
+    {
+      "relation_id": "tea_c12_0178_kin_001",
+      "person_id": "tea_c12_0178_002",
+      "linked_person_id": "tea_c12_0178_001",
+      "relation": {
+        "surface": "eius fratre",
+        "components": {
+          "kin_term": "fratre",
+          "kin_term_lemma": "frater",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "sibling_of"
+      },
+      "attestation_year": 1300,
+      "notes": "Dominicus è fratello di Franciscus. 'eius' si riferisce a Franciscus."
+    },
+    {
+      "relation_id": "tea_c12_0193_kin_001",
+      "person_id": "tea_c12_0193_001",
+      "linked_person_id": "tea_c12_0193_002",
+      "relation": {
+        "surface": "fratres",
+        "components": {
+          "kin_term": "fratres",
+          "kin_term_lemma": "frater",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "sibling_of"
+      },
+      "attestation_year": 1279,
+      "notes": "Vidulinus e Iussa sono fratelli tra loro."
+    },
+    {
+      "relation_id": "tea_c12_0194_kin_001",
+      "person_id": "tea_c12_0194_001",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filius condam domini Bonamici",
+        "components": {
+          "kin_term": "filius",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "condam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "attestation_year": 1300,
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Bonamici",
+          "normalized": "Bonamicus",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domini",
+          "normalized": "dominus"
+        },
+        "origin_toponym": "Maniaco"
+      },
+      "notes": "ATTENZIONE: la rubrica dice 'Wanamici', il corpo dice 'Bonamici'. Discrepanza da verificare sul manoscritto."
+    },
+    {
+      "relation_id": "tea_c12_0195_kin_001",
+      "person_id": "tea_c12_0195_001",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filius condam domini Mathie",
+        "components": {
+          "kin_term": "filius",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "condam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "attestation_year": 1275,
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Mathie",
+          "normalized": "Mathias",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domini",
+          "normalized": "dominus"
+        },
+        "origin_toponym": "Maniaco"
+      }
+    },
+    {
+      "relation_id": "tea_c12_0195_kin_002",
+      "person_id": "tea_c12_0195_002",
+      "linked_person_id": "tea_c12_0195_001",
+      "relation": {
+        "surface": "fratribus suis",
+        "components": {
+          "kin_term": "fratribus",
+          "kin_term_lemma": "frater",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "sibling_of"
+      },
+      "attestation_year": 1275,
+      "notes": "Bonamico è fratello di Warnerius, quindi anche filius condam domini Mathie de Maniaco."
+    },
+    {
+      "relation_id": "tea_c12_0195_kin_003",
+      "person_id": "tea_c12_0195_003",
+      "linked_person_id": "tea_c12_0195_001",
+      "relation": {
+        "surface": "fratribus suis",
+        "components": {
+          "kin_term": "fratribus",
+          "kin_term_lemma": "frater",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "sibling_of"
+      },
+      "attestation_year": 1275,
+      "notes": "Odorico è fratello di Warnerius, quindi anche filius condam domini Mathie de Maniaco."
+    },
+    {
+      "relation_id": "tea_c12_0203_kin_001",
+      "person_id": "tea_c12_0203_001",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filius olim domini Radii",
+        "components": {
+          "kin_term": "filius",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "olim",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "attestation_year": 1282,
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Radii",
+          "normalized": "Radius",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domini",
+          "normalized": "dominus"
+        },
+        "origin_toponym": "Gallano"
+      }
+    },
+    {
+      "relation_id": "tea_c12_0204_kin_001",
+      "person_id": "tea_c12_0204_001",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "condam domini Radii",
+        "components": {
+          "kin_term": "[implicit]",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "condam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "attestation_year": 1300,
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Radii",
+          "normalized": "Radius",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domini",
+          "normalized": "dominus"
+        },
+        "origin_toponym": "Gallano"
+      },
+      "review_flags": [
+        "implicit_patronymic"
+      ],
+      "notes": "Il corpo non usa 'filius' ma solo 'condam domini Radii'. Il termine filius è presente solo nella rubrica."
+    },
+    {
+      "relation_id": "tea_c12_0207_kin_001",
+      "person_id": "tea_c12_0207_001",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filius olim domini Bunin(i)",
+        "components": {
+          "kin_term": "filius",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "olim",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "attestation_year": 1275,
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Bunin(i)",
+          "normalized": "Buninus",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domini",
+          "normalized": "dominus"
+        },
+        "origin_toponym": "Toglano"
+      },
+      "notes": "Rubrica: 'Bumim'. Corpo: 'Bunin(i)'. Forma corretta: Buninus (dal corpo)."
+    },
+    {
+      "relation_id": "tea_c12_0216_kin_001",
+      "person_id": "tea_c12_0216_002",
+      "linked_person_id": "tea_c12_0216_001",
+      "relation": {
+        "surface": "nepos eius",
+        "components": {
+          "kin_term": "nepos",
+          "kin_term_lemma": "nepos",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "grandchild_of"
+      },
+      "attestation_year": 1275,
+      "notes": "Mathias è nepos di Vlunigus. Nepos può significare nipote (di nonno) o nipote (di zio). Da verificare il grado esatto."
+    },
+    {
+      "relation_id": "tea_c12_0216_kin_002",
+      "person_id": "tea_c12_0216_048",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filium Usagini",
+        "components": {
+          "kin_term": "filium",
+          "kin_term_lemma": "filius",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "child_of"
+      },
+      "attestation_year": 1275,
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Usagini",
+          "normalized": "Usaginus",
+          "case": "genitive"
+        }
+      },
+      "review_flags": [
+        "anaphoric_reference"
+      ],
+      "notes": "PERSONA ANONIMA: il figlio non ha nome proprio, è identificato solo come 'filium Usagini'. Padre Usaginus vivente (nessun condam)."
+    },
+    {
+      "relation_id": "tea_c12_0228_kin_001",
+      "person_id": "tea_c12_0228_001",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filius olim domini",
+        "components": {
+          "kin_term": "filius",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "olim",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "attestation_year": 1275,
+      "related_person_inline": {
+        "given_name": {
+          "surface": "[manca]",
+          "normalized": "[Nome non specificato]",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domini",
+          "normalized": "dominus"
+        },
+        "origin_toponym": "Gayo"
+      },
+      "review_flags": [
+        "anaphoric_reference"
+      ],
+      "notes": "CASO ANOMALO: il padre non ha nome. Il testo dice 'filius olim domini de Gayo'. Manca il nome proprio del padre — solo titolo e origine."
+    },
+    {
+      "relation_id": "tea_c12_0239_kin_001",
+      "person_id": "tea_c12_0239_001",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "avo suo",
+        "components": {
+          "kin_term": "avo",
+          "kin_term_lemma": "avus",
+          "status_marker": null,
+          "related_person_status": "deceased"
+        },
+        "relation_type": "grandchild_of"
+      },
+      "attestation_year": 1275,
+      "related_person_inline": {
+        "given_name": {
+          "surface": "[manca]",
+          "normalized": "[Nome non specificato]"
+        }
+      },
+      "review_flags": [
+        "anaphoric_reference"
+      ],
+      "notes": "Nonno anonimo: 'dominus Walrapus vendidit avo suo'. Lo status deceased è inferito (vendita al nonno di Vocellus, quindi almeno una generazione prima)."
+    },
+    {
+      "relation_id": "tea_c12_0241_kin_001",
+      "person_id": "tea_c12_0241_005",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filii condam Angeli Penetaldi",
+        "components": {
+          "kin_term": "filii",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "condam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "attestation_year": 1293,
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Angeli",
+          "normalized": "Angelus",
+          "case": "genitive"
+        },
+        "byname": {
+          "surface": "Penetaldi",
+          "normalized": "Penetaldus"
+        },
+        "origin_toponym": "Marano"
+      },
+      "notes": "Ianinus filius condam Angeli Penetaldi de Marano. Penetaldus è probabilmente un secondo nome o soprannome del padre."
+    },
+    {
+      "relation_id": "tea_c12_0243_kin_001",
+      "person_id": "tea_c12_0243_001",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filius condam domini Lupoldi",
+        "components": {
+          "kin_term": "filius",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "condam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "attestation_year": 1300,
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Lupoldi",
+          "normalized": "Lupoldus",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domini",
+          "normalized": "dominus"
+        },
+        "origin_toponym": "Vilessio"
+      }
+    },
+    {
+      "relation_id": "tea_c12_0280_kin_001",
+      "person_id": "tea_c12_0280_001",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filii condam domini Almerici militis",
+        "components": {
+          "kin_term": "filii",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "condam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Almerici",
+          "normalized": "Almericus",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domini",
+          "normalized": "dominus"
+        },
+        "byname": {
+          "surface": "militis",
+          "normalized": "miles"
+        },
+        "origin_toponym": "Iustinopolis"
+      }
+    },
+    {
+      "relation_id": "tea_c12_0280_kin_002",
+      "person_id": "tea_c12_0280_002",
+      "linked_person_id": "tea_c12_0280_001",
+      "relation": {
+        "surface": "fratribus suis",
+        "components": {
+          "kin_term": "fratribus",
+          "kin_term_lemma": "frater",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "sibling_of"
+      },
+      "notes": "Gregorius è fratello di Sardius → anche filius condam domini Almerici militis de Sardio."
+    },
+    {
+      "relation_id": "tea_c12_0280_kin_003",
+      "person_id": "tea_c12_0280_003",
+      "linked_person_id": "tea_c12_0280_001",
+      "relation": {
+        "surface": "fratribus suis",
+        "components": {
+          "kin_term": "fratribus",
+          "kin_term_lemma": "frater",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "sibling_of"
+      }
+    },
+    {
+      "relation_id": "tea_c12_0281_kin_001",
+      "person_id": "tea_c12_0281_002",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filius condam Lupoldi",
+        "components": {
+          "kin_term": "filius",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "condam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Lupoldi",
+          "normalized": "Lupoldus",
+          "case": "genitive"
+        }
+      }
+    },
+    {
+      "relation_id": "tea_c12_0289_kin_001",
+      "person_id": "tea_c12_0289_001",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filius condam Merchlini",
+        "components": {
+          "kin_term": "filius",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "condam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Merchlini",
+          "normalized": "Merchlinus",
+          "case": "genitive"
+        },
+        "origin_toponym": "Hyco"
+      },
+      "notes": "OMONIMIA: padre e figlio si chiamano entrambi Merchlinus."
+    },
+    {
+      "relation_id": "tea_c12_0289_kin_002",
+      "person_id": "tea_c12_0289_003",
+      "linked_person_id": "tea_c12_0289_004",
+      "relation": {
+        "surface": "fratres",
+        "components": {
+          "kin_term": "fratres",
+          "kin_term_lemma": "frater",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "sibling_of"
+      },
+      "notes": "Hertuicus et Iohannes fratres — coltivatori sub Griç."
+    },
+    {
+      "relation_id": "tea_c12_0289_kin_003",
+      "person_id": "tea_c12_0289_007",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filium Artuici",
+        "components": {
+          "kin_term": "filium",
+          "kin_term_lemma": "filius",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Artuici",
+          "normalized": "Artuicus",
+          "case": "genitive"
+        }
+      },
+      "review_flags": [
+        "anaphoric_reference"
+      ],
+      "notes": "PERSONA ANONIMA: 'per filium Artuici'. Il figlio non ha nome. Padre Artuicus vivente."
+    },
+    {
+      "relation_id": "tea_c12_0324_kin_001",
+      "person_id": "tea_c12_0324_002",
+      "linked_person_id": "tea_c12_0324_001",
+      "relation": {
+        "surface": "cognati",
+        "components": {
+          "kin_term": "cognati",
+          "kin_term_lemma": "cognatus",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "in_law"
+      },
+      "notes": "Herardus è cognatus di Peregrinus. 'Cognatus' nel latino medievale = parente per matrimonio (cognato)."
+    },
+    {
+      "relation_id": "tea_c12_0324_kin_002",
+      "person_id": "tea_c12_0324_003",
+      "linked_person_id": "tea_c12_0324_002",
+      "relation": {
+        "surface": "filiorum eius",
+        "components": {
+          "kin_term": "filiorum",
+          "kin_term_lemma": "filius",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "child_of"
+      },
+      "notes": "Valkerinus è figlio di Herardus e nepos di Peregrinus."
+    },
+    {
+      "relation_id": "tea_c12_0326_kin_001",
+      "person_id": "tea_c12_0326_001",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filius condam domini Nactuli",
+        "components": {
+          "kin_term": "filius",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "condam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Nactuli",
+          "normalized": "Nactulus",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domini",
+          "normalized": "dominus"
+        },
+        "origin_toponym": "Civitate"
+      }
+    },
+    {
+      "relation_id": "tea_c12_0326_kin_002",
+      "person_id": "tea_c12_0326_002",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filium condam magistri Henrici",
+        "components": {
+          "kin_term": "filium",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "condam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Henrici",
+          "normalized": "Henricus",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "magistri",
+          "normalized": "magister"
+        }
+      },
+      "notes": "Gregorius filius condam magistri Henrici. Il padre ha titolo magister, non dominus."
+    },
+    {
+      "relation_id": "tea_c12_0327_kin_001",
+      "person_id": "tea_c12_0327_001",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filii condam Maynardi Walengine",
+        "components": {
+          "kin_term": "filii",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "condam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Maynardi",
+          "normalized": "Maynardus",
+          "case": "genitive"
+        },
+        "byname": {
+          "surface": "Walengine",
+          "normalized": "Walengina"
+        },
+        "origin_toponym": "Glemona"
+      },
+      "notes": "Savius e Novellus fratres, filii condam Maynardi Walengine. 'Walengine' è soprannome del padre defunto."
+    },
+    {
+      "relation_id": "tea_c12_0330_kin_001",
+      "person_id": "tea_c12_0330_003",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "condam Leazarii",
+        "components": {
+          "kin_term": "[implicit]",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "condam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Leazarii",
+          "normalized": "Leazarius",
+          "case": "genitive"
+        },
+        "origin_toponym": "Sacilo"
+      },
+      "review_flags": [
+        "implicit_patronymic"
+      ],
+      "notes": "'Guillelmi condam Leazarii de Sacilo' — patronimico implicito senza 'filius'."
+    },
+    {
+      "relation_id": "tea_c12_0361_kin_001",
+      "person_id": "tea_c12_0361_002",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filio condam domine Galiane et domini Gregorii",
+        "components": {
+          "kin_term": "filio",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "condam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Galiane",
+          "normalized": "Galiana",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domine",
+          "normalized": "domina"
+        }
+      },
+      "notes": "CASO RARO: doppia filiazione esplicita. 'filio condam domine Galiane et domini Gregorii de Gallano'. Entrambi i genitori nominati. Il condam si applica a entrambi? da verificare."
+    },
+    {
+      "relation_id": "tea_c12_0361_kin_002",
+      "person_id": "tea_c12_0361_005",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filiam olim Gaslute",
+        "components": {
+          "kin_term": "filiam",
+          "kin_term_lemma": "filia",
+          "status_marker": {
+            "surface": "olim",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Gaslute",
+          "normalized": "Gasluta",
+          "case": "genitive"
+        }
+      },
+      "notes": "Mar(mu)za è figlia della defunta (olim) Gasluta."
+    },
+    {
+      "relation_id": "tea_c12_0365_kin_001",
+      "person_id": "tea_c12_0365_002",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filio condam Sigelpretti",
+        "components": {
+          "kin_term": "filio",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "condam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Sigelpretti",
+          "normalized": "Sigelprettus",
+          "case": "genitive"
+        },
+        "origin_toponym": "Pinzano"
+      }
+    },
+    {
+      "relation_id": "tea_c12_0382_kin_001",
+      "person_id": "tea_c12_0382_004",
+      "linked_person_id": "tea_c12_0382_002",
+      "relation": {
+        "surface": "uxorem dicti Atisutti",
+        "components": {
+          "kin_term": "uxorem",
+          "kin_term_lemma": "uxor",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "spouse_of"
+      },
+      "notes": "Bonafides è moglie di Artisuttus (variante: Atisutti)."
+    },
+    {
+      "relation_id": "tea_c12_0402_kin_001",
+      "person_id": "tea_c12_0402_001",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filius condam domini Bartholomei",
+        "components": {
+          "kin_term": "filius",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "condam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Bartholomei",
+          "normalized": "Bartholomeus",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domini",
+          "normalized": "dominus"
+        },
+        "origin_toponym": "Castilerio"
+      }
+    },
+    {
+      "relation_id": "tea_c12_0403_kin_001",
+      "person_id": "tea_c12_0403_002",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filium quondam Varnerii",
+        "components": {
+          "kin_term": "filium",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "quondam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Varnerii",
+          "normalized": "Varnerius",
+          "case": "genitive"
+        },
+        "origin_toponym": "Gurgo"
+      },
+      "notes": "Omonimia padre-figlio: Varnerius filius quondam Varnerii de Gurgo."
+    },
+    {
+      "relation_id": "tea_c12_0403_kin_002",
+      "person_id": "tea_c12_0403_008",
+      "linked_person_id": "tea_c12_0403_002",
+      "relation": {
+        "surface": "matrem memorati Warnerii",
+        "components": {
+          "kin_term": "matrem",
+          "kin_term_lemma": "mater",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "parent_of"
+      },
+      "notes": "Lazara è madre di Varnerius. Relazione madre→figlio."
+    },
+    {
+      "relation_id": "tea_c12_0407_kin_001",
+      "person_id": "tea_c12_0407_001",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "natus Iacobi",
+        "components": {
+          "kin_term": "natus",
+          "kin_term_lemma": "natus",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Iacobi",
+          "normalized": "Iacobus",
+          "case": "genitive"
+        },
+        "origin_toponym": "Laturre"
+      },
+      "notes": "Usa 'natus' invece di 'filius'. Padre vivente (nessun condam). da verificare: 'natus' ha sfumatura diversa da 'filius'?"
+    },
+    {
+      "relation_id": "tea_c12_0407_kin_002",
+      "person_id": "tea_c12_0407_002",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "quondam Dodi",
+        "components": {
+          "kin_term": "[implicit]",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "quondam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Dodi",
+          "normalized": "Dodus",
+          "case": "genitive"
+        }
+      },
+      "review_flags": [
+        "implicit_patronymic"
+      ],
+      "notes": "Benevenutus quondam Dodi — patronimico implicito senza filius."
+    },
+    {
+      "relation_id": "tea_c12_0418_kin_001",
+      "person_id": "tea_c12_0418_001",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filius quondam Galvani",
+        "components": {
+          "kin_term": "filius",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "quondam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Galvani",
+          "normalized": "Galvanus",
+          "case": "genitive"
+        },
+        "origin_toponym": "Civitate"
+      }
+    },
+    {
+      "relation_id": "tea_c12_0422_kin_001",
+      "person_id": "tea_c12_0422_001",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filius quondam domini Leonardi",
+        "components": {
+          "kin_term": "filius",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "quondam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Leonardi",
+          "normalized": "Leonardus",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domini",
+          "normalized": "dominus"
+        },
+        "origin_toponym": "Glemona"
+      }
+    },
+    {
+      "relation_id": "tea_c12_0422_kin_002",
+      "person_id": "tea_c12_0422_002",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "relictam quondam domini Martini",
+        "components": {
+          "kin_term": "relictam",
+          "kin_term_lemma": "relicta",
+          "status_marker": {
+            "surface": "quondam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "widow_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Martini",
+          "normalized": "Martinus",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domini",
+          "normalized": "dominus"
+        },
+        "origin_toponym": "Monteregali"
+      }
+    },
+    {
+      "relation_id": "tea_c12_0422_kin_003",
+      "person_id": "tea_c12_0422_004",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filium domini Mathie",
+        "components": {
+          "kin_term": "filium",
+          "kin_term_lemma": "filius",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Mathie",
+          "normalized": "Mathias",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domini",
+          "normalized": "dominus"
+        },
+        "origin_toponym": "Prampergo"
+      },
+      "notes": "Padre vivente (nessun condam)."
+    },
+    {
+      "relation_id": "tea_c12_0422_kin_004",
+      "person_id": "tea_c12_0422_005",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filiam Warneri dicti Giansiel",
+        "components": {
+          "kin_term": "filiam",
+          "kin_term_lemma": "filia",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Warneri",
+          "normalized": "Warnerus",
+          "case": "genitive"
+        },
+        "byname": {
+          "surface": "dicti Giansiel",
+          "normalized": "dictus Giansiel"
+        },
+        "origin_toponym": "Monteregali"
+      },
+      "notes": "Alsubetta figlia di Warnerus detto Giansiel de Monteregali. Padre vivente."
+    },
+    {
+      "relation_id": "tea_c12_0438_kin_001",
+      "person_id": "tea_c12_0438_001",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filius domini Sclavi",
+        "components": {
+          "kin_term": "filius",
+          "kin_term_lemma": "filius",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Sclavi",
+          "normalized": "Sclavus",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domini",
+          "normalized": "dominus"
+        },
+        "origin_toponym": "Canipa"
+      },
+      "notes": "Padre VIVENTE (nessun condam). Confronto con rec. successive per verificare se Sclavus muore."
+    },
+    {
+      "relation_id": "tea_c12_0461_kin_001",
+      "person_id": "tea_c12_0461_001",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filium quondam domini Morandi",
+        "components": {
+          "kin_term": "filium",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "quondam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Morandi",
+          "normalized": "Morandus",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domini",
+          "normalized": "dominus"
+        },
+        "origin_toponym": "Novo"
+      }
+    },
+    {
+      "relation_id": "tea_c12_0485_kin_001",
+      "person_id": "tea_c12_0485_001",
+      "linked_person_id": "tea_c12_0485_002",
+      "relation": {
+        "surface": "frater domini Federici",
+        "components": {
+          "kin_term": "frater",
+          "kin_term_lemma": "frater",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "sibling_of"
+      },
+      "notes": "Fridericus è fratello di Federicus. CASO CRITICO: stesso nome in due varianti ortografiche (Fridericus/Federicus) per due persone diverse. Da non confondere in normalizzazione!"
+    },
+    {
+      "relation_id": "tea_c12_0492_kin_001",
+      "person_id": "tea_c12_0492_004",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filium Pozinani",
+        "components": {
+          "kin_term": "filium",
+          "kin_term_lemma": "filius",
+          "status_marker": null,
+          "related_person_status": "living"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Pozinani",
+          "normalized": "Pozinanus",
+          "case": "genitive"
+        }
+      },
+      "review_flags": [
+        "anaphoric_reference"
+      ],
+      "notes": "PERSONA ANONIMA: il figlio di Pozinanus non ha nome."
+    },
+    {
+      "relation_id": "tea_c12_0503_kin_001",
+      "person_id": "tea_c12_0503_001",
+      "linked_person_id": null,
+      "relation": {
+        "surface": "filium quondam domini Dietmari",
+        "components": {
+          "kin_term": "filium",
+          "kin_term_lemma": "filius",
+          "status_marker": {
+            "surface": "quondam",
+            "normalized": "quondam"
+          },
+          "related_person_status": "deceased"
+        },
+        "relation_type": "child_of"
+      },
+      "related_person_inline": {
+        "given_name": {
+          "surface": "Dietmari",
+          "normalized": "Dietmarus",
+          "case": "genitive"
+        },
+        "title": {
+          "surface": "domini",
+          "normalized": "dominus"
+        },
+        "origin_toponym": "Pirano"
+      },
+      "notes": "Almericus de Pirano. Nella Tabula: 'Americi condam domini Dyetmari de Pirano investitio de feudis suis in Pirano .68.'"
+    }
+  ],
+  "places": [
+    {
+      "place_id": "tea_loc_tricano",
+      "toponym_document": "Tricano",
+      "toponym_modern": "Tricesimo",
+      "province": "Udine",
+      "place_type": null
+    },
+    {
+      "place_id": "tea_loc_liuntis",
+      "toponym_document": "Liuntis",
+      "toponym_modern": "Leonacco",
+      "province": "Udine",
+      "primary_district": "Patria del Friuli",
+      "place_type": "villa",
+      "specification": "Variante: Liuncis, Lunincis"
+    },
+    {
+      "place_id": "tea_loc_revosa",
+      "toponym_document": "Revosa",
+      "toponym_modern": null,
+      "province": null,
+      "place_type": null,
+      "specification": "da verificare identificazione moderna"
+    },
+    {
+      "place_id": "tea_loc_midea",
+      "toponym_document": "Midea",
+      "toponym_modern": null,
+      "province": null,
+      "place_type": null,
+      "specification": "da verificare"
+    },
+    {
+      "place_id": "tea_loc_rubino",
+      "toponym_document": "Rubino",
+      "toponym_modern": null,
+      "province": null,
+      "place_type": "castrum"
+    },
+    {
+      "place_id": "tea_loc_maniaco",
+      "toponym_document": "Maniaco",
+      "toponym_modern": "Maniago",
+      "province": "Pordenone",
+      "place_type": "castrum"
+    },
+    {
+      "place_id": "tea_loc_gallano",
+      "toponym_document": "Gallano",
+      "toponym_modern": null,
+      "province": null,
+      "place_type": null,
+      "specification": "da verificare"
+    },
+    {
+      "place_id": "tea_loc_toglano",
+      "toponym_document": "Toglano",
+      "toponym_modern": "Togliano",
+      "province": "Udine",
+      "place_type": "villa",
+      "specification": "Variante: Toglan (rubrica)"
+    },
+    {
+      "place_id": "tea_loc_glemona",
+      "toponym_document": "Glemona",
+      "toponym_modern": "Gemona del Friuli",
+      "province": "Udine",
+      "place_type": "castrum"
+    },
+    {
+      "place_id": "tea_loc_gayo",
+      "toponym_document": "Gayo",
+      "toponym_modern": null,
+      "province": null,
+      "specification": "da verificare. Forse Gaio (Spilimbergo)?"
+    },
+    {
+      "place_id": "tea_loc_quals",
+      "toponym_document": "Quals",
+      "toponym_modern": null,
+      "province": null,
+      "specification": "da verificare"
+    },
+    {
+      "place_id": "tea_loc_buya",
+      "toponym_document": "Buya",
+      "toponym_modern": "Buia",
+      "province": "Udine",
+      "place_type": "villa"
+    },
+    {
+      "place_id": "tea_loc_forgaria",
+      "toponym_document": "Forgaria",
+      "toponym_modern": "Forgaria nel Friuli",
+      "province": "Udine"
+    },
+    {
+      "place_id": "tea_loc_castello",
+      "toponym_document": "Castello",
+      "toponym_modern": null,
+      "specification": "da verificare: Castello di? Artuicus de Castello potrebbe essere Castello di Porpetto o altro."
+    },
+    {
+      "place_id": "tea_loc_marano",
+      "toponym_document": "Marano",
+      "toponym_modern": "Marano Lagunare",
+      "province": "Udine"
+    },
+    {
+      "place_id": "tea_loc_villanova",
+      "toponym_document": "Villanova",
+      "toponym_modern": null,
+      "specification": "da verificare: Villanova vicino a Marano?"
+    },
+    {
+      "place_id": "tea_loc_malisana",
+      "toponym_document": "Malisana",
+      "toponym_modern": null,
+      "province": null,
+      "specification": "da verificare"
+    },
+    {
+      "place_id": "tea_loc_vilessio",
+      "toponym_document": "Vilessio",
+      "toponym_modern": null,
+      "province": null,
+      "specification": "da verificare"
+    },
+    {
+      "place_id": "tea_loc_carnea",
+      "toponym_document": "Carnea",
+      "toponym_modern": "Carnia",
+      "province": "Udine",
+      "place_type": null,
+      "specification": "Regione storica, non singola villa"
+    },
+    {
+      "place_id": "tea_loc_cremona",
+      "toponym_document": "Cremona",
+      "toponym_modern": "Cremona",
+      "province": "Cremona"
+    },
+    {
+      "place_id": "tea_loc_iustinopolis",
+      "toponym_document": "Iustinopoli",
+      "toponym_modern": "Koper / Capodistria",
+      "province": "Slovenia",
+      "place_type": "castrum",
+      "specification": "Città episcopale istriana sotto il Patriarcato"
+    },
+    {
+      "place_id": "tea_loc_arinspergo",
+      "toponym_document": "Arinspergo",
+      "toponym_modern": null,
+      "specification": "da verificare. Area slovena/carinziana?"
+    },
+    {
+      "place_id": "tea_loc_hyco",
+      "toponym_document": "Hyco",
+      "toponym_modern": null,
+      "specification": "da verificare"
+    },
+    {
+      "place_id": "tea_loc_renchemberch",
+      "toponym_document": "Renchemberch",
+      "toponym_modern": null,
+      "specification": "Variante: Ronchenberch (rubrica). da verificare"
+    },
+    {
+      "place_id": "tea_loc_reuchemberg",
+      "toponym_document": "Reuchemberg",
+      "toponym_modern": null,
+      "specification": "Forse variante di Renchemberch? da verificare"
+    },
+    {
+      "place_id": "tea_loc_cucanea",
+      "toponym_document": "Cucanea",
+      "toponym_modern": null,
+      "specification": "da verificare"
+    },
+    {
+      "place_id": "tea_loc_graetz",
+      "toponym_document": "Graetz",
+      "toponym_modern": "Graz",
+      "province": "Stiria/Austria",
+      "place_type": "castrum"
+    },
+    {
+      "place_id": "tea_loc_tranberch",
+      "toponym_document": "Tranberch",
+      "toponym_modern": null,
+      "specification": "da verificare. Area stiriana."
+    },
+    {
+      "place_id": "tea_loc_sanctus_daniel",
+      "toponym_document": "Sancto Daniele",
+      "toponym_modern": "San Daniele del Friuli",
+      "province": "Udine"
+    },
+    {
+      "place_id": "tea_loc_stayn",
+      "toponym_document": "Stayn",
+      "toponym_modern": null,
+      "specification": "da verificare. Area carinziana?"
+    },
+    {
+      "place_id": "tea_loc_civitas",
+      "toponym_document": "Civitate",
+      "toponym_modern": "Cividale del Friuli",
+      "province": "Udine",
+      "specification": "Civitas Austriae = Cividale"
+    },
+    {
+      "place_id": "tea_loc_sacilo",
+      "toponym_document": "Sacilo",
+      "toponym_modern": "Sacile",
+      "province": "Pordenone"
+    },
+    {
+      "place_id": "tea_loc_pinzano",
+      "toponym_document": "Pinzano",
+      "toponym_modern": "Pinzano al Tagliamento",
+      "province": "Pordenone"
+    },
+    {
+      "place_id": "tea_loc_attemps",
+      "toponym_document": "Attemps",
+      "toponym_modern": "Attimis",
+      "province": "Udine",
+      "place_type": "castrum"
+    },
+    {
+      "place_id": "tea_loc_cavoryaco",
+      "toponym_document": "Cavoryaco",
+      "toponym_modern": null,
+      "specification": "da verificare"
+    },
+    {
+      "place_id": "tea_loc_brazacho",
+      "toponym_document": "Brazacho superiori",
+      "toponym_modern": null,
+      "specification": "da verificare. Brazzacco superiore?"
+    },
+    {
+      "place_id": "tea_loc_gruans",
+      "toponym_document": "Gruans",
+      "toponym_modern": null,
+      "specification": "da verificare"
+    },
+    {
+      "place_id": "tea_loc_faganea",
+      "toponym_document": "Faganea",
+      "toponym_modern": "Fagagna",
+      "province": "Udine",
+      "place_type": "castrum"
+    },
+    {
+      "place_id": "tea_loc_colmalisio",
+      "toponym_document": "Colmalisio",
+      "toponym_modern": null,
+      "specification": "da verificare"
+    },
+    {
+      "place_id": "tea_loc_castilerio",
+      "toponym_document": "Castilerio",
+      "toponym_modern": "Castions di Strada?",
+      "specification": "da verificare"
+    },
+    {
+      "place_id": "tea_loc_bragulino",
+      "toponym_document": "Bragulino",
+      "toponym_modern": null,
+      "specification": "da verificare"
+    },
+    {
+      "place_id": "tea_loc_gurgo",
+      "toponym_document": "Gurgo",
+      "toponym_modern": null,
+      "specification": "da verificare"
+    },
+    {
+      "place_id": "tea_loc_laturre",
+      "toponym_document": "Laturre",
+      "toponym_modern": null,
+      "specification": "da verificare. La Torre?"
+    },
+    {
+      "place_id": "tea_loc_weldes",
+      "toponym_document": "Weldes",
+      "toponym_modern": "Bled",
+      "province": "Slovenia",
+      "specification": "Carniola"
+    },
+    {
+      "place_id": "tea_loc_liecthemberch",
+      "toponym_document": "Liecthemberch",
+      "toponym_modern": "Lichtenberg?",
+      "specification": "da verificare. Castrum in area carniola/stiriana."
+    },
+    {
+      "place_id": "tea_loc_monteregali",
+      "toponym_document": "Monteregali",
+      "toponym_modern": null,
+      "specification": "da verificare"
+    },
+    {
+      "place_id": "tea_loc_prampergo",
+      "toponym_document": "Prampergo",
+      "toponym_modern": "Prampergo (Tavagnacco)?",
+      "province": "Udine",
+      "specification": "da verificare"
+    },
+    {
+      "place_id": "tea_loc_canipa",
+      "toponym_document": "Canipa",
+      "toponym_modern": null,
+      "specification": "da verificare"
+    },
+    {
+      "place_id": "tea_loc_savorgnan",
+      "toponym_document": "Savor(g)nano",
+      "toponym_modern": "Savorgnan",
+      "province": "Udine"
+    },
+    {
+      "place_id": "tea_loc_sedili",
+      "toponym_document": "Sedili",
+      "toponym_modern": null,
+      "specification": "da verificare"
+    },
+    {
+      "place_id": "tea_loc_sanctus_vitus",
+      "toponym_document": "Sancto Vito",
+      "toponym_modern": "San Vito al Tagliamento",
+      "province": "Pordenone"
+    },
+    {
+      "place_id": "tea_loc_mediolano",
+      "toponym_document": "Mediolano",
+      "toponym_modern": "Milano",
+      "province": "Milano"
+    },
+    {
+      "place_id": "tea_loc_novo",
+      "toponym_document": "Novo",
+      "toponym_modern": null,
+      "specification": "da verificare. Castel Nuovo?"
+    },
+    {
+      "place_id": "tea_loc_urbano",
+      "toponym_document": "Urbano",
+      "toponym_modern": null,
+      "specification": "da verificare"
+    },
+    {
+      "place_id": "tea_loc_petovia",
+      "toponym_document": "Petovia",
+      "toponym_modern": "Ptuj",
+      "province": "Slovenia",
+      "specification": "Città in Stiria inferiore / Slovenia"
+    },
+    {
+      "place_id": "tea_loc_olznich",
+      "toponym_document": "Olznich",
+      "toponym_modern": null,
+      "specification": "da verificare. Area carinziana/stiriana."
+    },
+    {
+      "place_id": "tea_loc_aych",
+      "toponym_document": "Aych",
+      "toponym_modern": null,
+      "specification": "da verificare"
+    },
+    {
+      "place_id": "tea_loc_pirano",
+      "toponym_document": "Pirano",
+      "toponym_modern": "Piran / Pirano",
+      "province": "Slovenia",
+      "specification": "Città costiera istriana"
+    }
+  ]
+}

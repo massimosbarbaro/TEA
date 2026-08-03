@@ -1,0 +1,1721 @@
+[
+ {
+  "text_id": "tea_c12_0174",
+  "predictions": [
+   {
+    "surface": "Iacobi de",
+    "label": "PERS",
+    "start": 20,
+    "end": 29,
+    "score": 0.7881736159324646
+   },
+   {
+    "surface": "Iacobus de",
+    "label": "PERS",
+    "start": 47,
+    "end": 57,
+    "score": 0.9169684648513794
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0175",
+  "predictions": [
+   {
+    "surface": "Odolrici de",
+    "label": "PERS",
+    "start": 34,
+    "end": 45,
+    "score": 0.970822811126709
+   },
+   {
+    "surface": "Odolrici de",
+    "label": "PERS",
+    "start": 106,
+    "end": 117,
+    "score": 0.7408024072647095
+   },
+   {
+    "surface": "Iacobum Odorlici",
+    "label": "PERS",
+    "start": 381,
+    "end": 397,
+    "score": 0.7677295804023743
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0178",
+  "predictions": [
+   {
+    "surface": "Dominico dicto Nigro",
+    "label": "PERS",
+    "start": 87,
+    "end": 107,
+    "score": 0.9616835713386536
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0180",
+  "predictions": [
+   {
+    "surface": "Hermanni de",
+    "label": "PERS",
+    "start": 27,
+    "end": 38,
+    "score": 0.9469346404075623
+   },
+   {
+    "surface": "Hermanus de",
+    "label": "PERS",
+    "start": 54,
+    "end": 65,
+    "score": 0.5837717056274414
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0190",
+  "predictions": []
+ },
+ {
+  "text_id": "tea_c12_0193",
+  "predictions": [
+   {
+    "surface": "Vidulini",
+    "label": "PERS",
+    "start": 30,
+    "end": 38,
+    "score": 0.6054292321205139
+   },
+   {
+    "surface": "Iusse",
+    "label": "PERS",
+    "start": 42,
+    "end": 47,
+    "score": 0.802041232585907
+   },
+   {
+    "surface": "Iussa",
+    "label": "PERS",
+    "start": 88,
+    "end": 93,
+    "score": 0.8718122243881226
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0194",
+  "predictions": [
+   {
+    "surface": "Warnerii",
+    "label": "PERS",
+    "start": 27,
+    "end": 35,
+    "score": 0.5181560516357422
+   },
+   {
+    "surface": "Wanamici de",
+    "label": "PERS",
+    "start": 50,
+    "end": 61,
+    "score": 0.6838926672935486
+   },
+   {
+    "surface": "Bonamici de",
+    "label": "PERS",
+    "start": 102,
+    "end": 113,
+    "score": 0.6059615612030029
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0195",
+  "predictions": [
+   {
+    "surface": "Warnerii",
+    "label": "PERS",
+    "start": 27,
+    "end": 35,
+    "score": 0.5894119739532471
+   },
+   {
+    "surface": "Mathie de",
+    "label": "PERS",
+    "start": 50,
+    "end": 59,
+    "score": 0.5566515326499939
+   },
+   {
+    "surface": "Mathie de",
+    "label": "PERS",
+    "start": 108,
+    "end": 117,
+    "score": 0.7724596858024597
+   },
+   {
+    "surface": "Bonamico",
+    "label": "PERS",
+    "start": 152,
+    "end": 160,
+    "score": 0.47248443961143494
+   },
+   {
+    "surface": "Odorico",
+    "label": "PERS",
+    "start": 164,
+    "end": 171,
+    "score": 0.6920223832130432
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0203",
+  "predictions": [
+   {
+    "surface": "Wolrici",
+    "label": "PERS",
+    "start": 20,
+    "end": 27,
+    "score": 0.7380427122116089
+   },
+   {
+    "surface": "Radii de",
+    "label": "PERS",
+    "start": 42,
+    "end": 50,
+    "score": 0.6782928705215454
+   },
+   {
+    "surface": "Radii de",
+    "label": "PERS",
+    "start": 88,
+    "end": 96,
+    "score": 0.8977483510971069
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0204",
+  "predictions": [
+   {
+    "surface": "Volrici",
+    "label": "PERS",
+    "start": 27,
+    "end": 34,
+    "score": 0.6992986798286438
+   },
+   {
+    "surface": "Radii de",
+    "label": "PERS",
+    "start": 49,
+    "end": 57,
+    "score": 0.5842335224151611
+   },
+   {
+    "surface": "Radii de",
+    "label": "PERS",
+    "start": 98,
+    "end": 106,
+    "score": 0.5736784934997559
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0207",
+  "predictions": [
+   {
+    "surface": "Bregand",
+    "label": "PERS",
+    "start": 20,
+    "end": 27,
+    "score": 0.6983947157859802
+   },
+   {
+    "surface": "Bumim de",
+    "label": "PERS",
+    "start": 42,
+    "end": 50,
+    "score": 0.9985054731369019
+   },
+   {
+    "surface": "Bunin(i) de",
+    "label": "PERS",
+    "start": 86,
+    "end": 97,
+    "score": 0.830741286277771
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0216",
+  "predictions": [
+   {
+    "surface": "Wlunigi de",
+    "label": "PERS",
+    "start": 27,
+    "end": 37,
+    "score": 0.7243465185165405
+   },
+   {
+    "surface": "Mathie",
+    "label": "PERS",
+    "start": 49,
+    "end": 55,
+    "score": 0.6598818302154541
+   },
+   {
+    "surface": "Vlunigus de",
+    "label": "PERS",
+    "start": 81,
+    "end": 92,
+    "score": 0.9927507638931274
+   },
+   {
+    "surface": "Mathias",
+    "label": "PERS",
+    "start": 104,
+    "end": 111,
+    "score": 0.9998345375061035
+   },
+   {
+    "surface": "Martinum",
+    "label": "PERS",
+    "start": 306,
+    "end": 314,
+    "score": 0.6894979476928711
+   },
+   {
+    "surface": "Philippum",
+    "label": "PERS",
+    "start": 318,
+    "end": 327,
+    "score": 0.6422648429870605
+   },
+   {
+    "surface": "Iacobum de",
+    "label": "PERS",
+    "start": 363,
+    "end": 373,
+    "score": 0.7975017428398132
+   },
+   {
+    "surface": "Viscam de",
+    "label": "PERS",
+    "start": 432,
+    "end": 441,
+    "score": 0.6276081800460815
+   },
+   {
+    "surface": "Thomasium",
+    "label": "PERS",
+    "start": 575,
+    "end": 584,
+    "score": 0.659240186214447
+   },
+   {
+    "surface": "Iacobum de",
+    "label": "PERS",
+    "start": 629,
+    "end": 639,
+    "score": 0.857066810131073
+   },
+   {
+    "surface": "Iacobum",
+    "label": "PERS",
+    "start": 1051,
+    "end": 1058,
+    "score": 0.583705723285675
+   },
+   {
+    "surface": "Bunitti",
+    "label": "PERS",
+    "start": 1098,
+    "end": 1105,
+    "score": 0.6606064438819885
+   },
+   {
+    "surface": "Buçin",
+    "label": "PERS",
+    "start": 1140,
+    "end": 1145,
+    "score": 0.6864178776741028
+   },
+   {
+    "surface": "Ioaconis",
+    "label": "PERS",
+    "start": 1189,
+    "end": 1197,
+    "score": 0.7310110330581665
+   },
+   {
+    "surface": "Iohannem Zusam",
+    "label": "PERS",
+    "start": 1323,
+    "end": 1337,
+    "score": 0.9702563881874084
+   },
+   {
+    "surface": "Dominicum de",
+    "label": "PERS",
+    "start": 1422,
+    "end": 1434,
+    "score": 0.9779826402664185
+   },
+   {
+    "surface": "Iacobum",
+    "label": "PERS",
+    "start": 1603,
+    "end": 1610,
+    "score": 0.4856082797050476
+   },
+   {
+    "surface": "Folchomar",
+    "label": "PERS",
+    "start": 1665,
+    "end": 1674,
+    "score": 0.8087374567985535
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0217",
+  "predictions": [
+   {
+    "surface": "Ottoni de",
+    "label": "PERS",
+    "start": 76,
+    "end": 85,
+    "score": 0.7033223509788513
+   },
+   {
+    "surface": "Ottonem de",
+    "label": "PERS",
+    "start": 281,
+    "end": 291,
+    "score": 0.9870469570159912
+   },
+   {
+    "surface": "Otto",
+    "label": "PERS",
+    "start": 412,
+    "end": 416,
+    "score": 0.9998717308044434
+   },
+   {
+    "surface": "Otto",
+    "label": "PERS",
+    "start": 558,
+    "end": 562,
+    "score": 0.999889612197876
+   },
+   {
+    "surface": "Ottone",
+    "label": "PERS",
+    "start": 875,
+    "end": 881,
+    "score": 0.90509033203125
+   },
+   {
+    "surface": "Otto",
+    "label": "PERS",
+    "start": 947,
+    "end": 951,
+    "score": 0.9997765421867371
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0228",
+  "predictions": [
+   {
+    "surface": "Leonardi dicti Cosseni",
+    "label": "PERS",
+    "start": 20,
+    "end": 42,
+    "score": 0.9647098183631897
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0232",
+  "predictions": [
+   {
+    "surface": "Rodulfi de",
+    "label": "PERS",
+    "start": 20,
+    "end": 30,
+    "score": 0.7371206879615784
+   },
+   {
+    "surface": "Rodulfus de",
+    "label": "PERS",
+    "start": 38,
+    "end": 49,
+    "score": 0.9724825024604797
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0238",
+  "predictions": [
+   {
+    "surface": "Liotti de",
+    "label": "PERS",
+    "start": 20,
+    "end": 29,
+    "score": 0.9900228381156921
+   },
+   {
+    "surface": "Liottus de",
+    "label": "PERS",
+    "start": 36,
+    "end": 46,
+    "score": 0.8449422121047974
+   },
+   {
+    "surface": "Liottum",
+    "label": "PERS",
+    "start": 228,
+    "end": 235,
+    "score": 0.7491304874420166
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0239",
+  "predictions": [
+   {
+    "surface": "Vocellus de",
+    "label": "PERS",
+    "start": 43,
+    "end": 54,
+    "score": 0.9899616241455078
+   },
+   {
+    "surface": "Walrapus",
+    "label": "PERS",
+    "start": 263,
+    "end": 271,
+    "score": 0.6891977787017822
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0241",
+  "predictions": [
+   {
+    "surface": "Iohannem",
+    "label": "PERS",
+    "start": 39,
+    "end": 47,
+    "score": 0.96477872133255
+   },
+   {
+    "surface": "Artuici de",
+    "label": "PERS",
+    "start": 76,
+    "end": 86,
+    "score": 0.5176852345466614
+   },
+   {
+    "surface": "Iohannes",
+    "label": "PERS",
+    "start": 97,
+    "end": 105,
+    "score": 0.8140554428100586
+   },
+   {
+    "surface": "Artuici de",
+    "label": "PERS",
+    "start": 145,
+    "end": 155,
+    "score": 0.5651516318321228
+   },
+   {
+    "surface": "Reynardi",
+    "label": "PERS",
+    "start": 218,
+    "end": 226,
+    "score": 0.9816393852233887
+   },
+   {
+    "surface": "Ianini",
+    "label": "PERS",
+    "start": 477,
+    "end": 483,
+    "score": 0.4390266537666321
+   },
+   {
+    "surface": "Angeli Penetaldi de",
+    "label": "PERS",
+    "start": 497,
+    "end": 516,
+    "score": 0.6371077299118042
+   },
+   {
+    "surface": "Iacobi Sclavi",
+    "label": "PERS",
+    "start": 570,
+    "end": 583,
+    "score": 0.7484472990036011
+   },
+   {
+    "surface": "Iohanni",
+    "label": "PERS",
+    "start": 643,
+    "end": 650,
+    "score": 0.618843138217926
+   },
+   {
+    "surface": "Vitalucio de",
+    "label": "PERS",
+    "start": 856,
+    "end": 868,
+    "score": 0.9677504301071167
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0243",
+  "predictions": [
+   {
+    "surface": "Tomasini",
+    "label": "PERS",
+    "start": 20,
+    "end": 28,
+    "score": 0.5350058674812317
+   },
+   {
+    "surface": "Lupoldi de",
+    "label": "PERS",
+    "start": 43,
+    "end": 53,
+    "score": 0.5001437067985535
+   },
+   {
+    "surface": "Lupoldi de",
+    "label": "PERS",
+    "start": 95,
+    "end": 105,
+    "score": 0.7969287037849426
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0250",
+  "predictions": [
+   {
+    "surface": "Hermannus de",
+    "label": "PERS",
+    "start": 8,
+    "end": 20,
+    "score": 0.9325823187828064
+   },
+   {
+    "surface": "Pagano",
+    "label": "PERS",
+    "start": 106,
+    "end": 112,
+    "score": 0.9778981804847717
+   },
+   {
+    "surface": "Gabriel",
+    "label": "PERS",
+    "start": 140,
+    "end": 147,
+    "score": 0.9999281167984009
+   },
+   {
+    "surface": "Bertrando",
+    "label": "PERS",
+    "start": 287,
+    "end": 296,
+    "score": 0.9985872507095337
+   },
+   {
+    "surface": "Gubertinus",
+    "label": "PERS",
+    "start": 454,
+    "end": 464,
+    "score": 0.9875434637069702
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0280",
+  "predictions": [
+   {
+    "surface": "Almerici",
+    "label": "PERS",
+    "start": 47,
+    "end": 55,
+    "score": 0.4187106788158417
+   },
+   {
+    "surface": "Almerici",
+    "label": "PERS",
+    "start": 119,
+    "end": 127,
+    "score": 0.5168514847755432
+   },
+   {
+    "surface": "Gregorio",
+    "label": "PERS",
+    "start": 182,
+    "end": 190,
+    "score": 0.6313927173614502
+   },
+   {
+    "surface": "Iohanne",
+    "label": "PERS",
+    "start": 192,
+    "end": 199,
+    "score": 0.9967139959335327
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0281",
+  "predictions": [
+   {
+    "surface": "Vincheri de",
+    "label": "PERS",
+    "start": 20,
+    "end": 31,
+    "score": 0.6995859742164612
+   },
+   {
+    "surface": "Vuelum",
+    "label": "PERS",
+    "start": 46,
+    "end": 52,
+    "score": 0.7333488464355469
+   },
+   {
+    "surface": "Lupoldi",
+    "label": "PERS",
+    "start": 80,
+    "end": 87,
+    "score": 0.397774338722229
+   },
+   {
+    "surface": "Vincherus de",
+    "label": "PERS",
+    "start": 89,
+    "end": 101,
+    "score": 0.9697526693344116
+   },
+   {
+    "surface": "Vuelum",
+    "label": "PERS",
+    "start": 116,
+    "end": 122,
+    "score": 0.8401563167572021
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0289",
+  "predictions": [
+   {
+    "surface": "Merchilini",
+    "label": "PERS",
+    "start": 20,
+    "end": 30,
+    "score": 0.5116119384765625
+   },
+   {
+    "surface": "Merchilini de",
+    "label": "PERS",
+    "start": 44,
+    "end": 57,
+    "score": 0.5063573122024536
+   },
+   {
+    "surface": "Merchlini de",
+    "label": "PERS",
+    "start": 89,
+    "end": 101,
+    "score": 0.598050057888031
+   },
+   {
+    "surface": "Henricum de",
+    "label": "PERS",
+    "start": 161,
+    "end": 172,
+    "score": 0.7243098616600037
+   },
+   {
+    "surface": "Iohannem",
+    "label": "PERS",
+    "start": 332,
+    "end": 340,
+    "score": 0.5815329551696777
+   },
+   {
+    "surface": "Nedel",
+    "label": "PERS",
+    "start": 424,
+    "end": 429,
+    "score": 0.9920686483383179
+   },
+   {
+    "surface": "Artuici",
+    "label": "PERS",
+    "start": 444,
+    "end": 451,
+    "score": 0.5755593776702881
+   },
+   {
+    "surface": "Merchilini",
+    "label": "PERS",
+    "start": 549,
+    "end": 559,
+    "score": 0.5598781704902649
+   },
+   {
+    "surface": "Merchilinus",
+    "label": "PERS",
+    "start": 584,
+    "end": 595,
+    "score": 0.6195456981658936
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0296",
+  "predictions": [
+   {
+    "surface": "Ortolfo",
+    "label": "PERS",
+    "start": 29,
+    "end": 36,
+    "score": 0.8756031394004822
+   },
+   {
+    "surface": "Lupoldo de",
+    "label": "PERS",
+    "start": 40,
+    "end": 50,
+    "score": 0.9858424067497253
+   },
+   {
+    "surface": "Ortolfus",
+    "label": "PERS",
+    "start": 93,
+    "end": 101,
+    "score": 0.9669085144996643
+   },
+   {
+    "surface": "Leupoldus de",
+    "label": "PERS",
+    "start": 105,
+    "end": 117,
+    "score": 0.9930433034896851
+   },
+   {
+    "surface": "Bertrandus",
+    "label": "PERS",
+    "start": 199,
+    "end": 209,
+    "score": 0.7074404358863831
+   },
+   {
+    "surface": "Grifo de",
+    "label": "PERS",
+    "start": 467,
+    "end": 475,
+    "score": 0.5070106387138367
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0303",
+  "predictions": [
+   {
+    "surface": "Iohannem de",
+    "label": "PERS",
+    "start": 35,
+    "end": 46,
+    "score": 0.6622707843780518
+   },
+   {
+    "surface": "Iohannes de",
+    "label": "PERS",
+    "start": 126,
+    "end": 137,
+    "score": 0.9741449952125549
+   },
+   {
+    "surface": "Iohannem",
+    "label": "PERS",
+    "start": 352,
+    "end": 360,
+    "score": 0.9962834715843201
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0306",
+  "predictions": [
+   {
+    "surface": "Ottonem de",
+    "label": "PERS",
+    "start": 348,
+    "end": 358,
+    "score": 0.8960697650909424
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0319",
+  "predictions": [
+   {
+    "surface": "Zacharie de",
+    "label": "PERS",
+    "start": 21,
+    "end": 32,
+    "score": 0.9780591726303101
+   },
+   {
+    "surface": "Zachariam de",
+    "label": "PERS",
+    "start": 105,
+    "end": 117,
+    "score": 0.6859272718429565
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0324",
+  "predictions": [
+   {
+    "surface": "Herardi de",
+    "label": "PERS",
+    "start": 218,
+    "end": 228,
+    "score": 0.9991233944892883
+   },
+   {
+    "surface": "Valkerini",
+    "label": "PERS",
+    "start": 248,
+    "end": 257,
+    "score": 0.9564200043678284
+   },
+   {
+    "surface": "Georgii",
+    "label": "PERS",
+    "start": 261,
+    "end": 268,
+    "score": 0.6327500939369202
+   },
+   {
+    "surface": "Peregrini",
+    "label": "PERS",
+    "start": 309,
+    "end": 318,
+    "score": 0.7760567665100098
+   },
+   {
+    "surface": "Wariendus de",
+    "label": "PERS",
+    "start": 388,
+    "end": 400,
+    "score": 0.7355462908744812
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0326",
+  "predictions": [
+   {
+    "surface": "Nactuli de",
+    "label": "PERS",
+    "start": 55,
+    "end": 65,
+    "score": 0.6598979830741882
+   },
+   {
+    "surface": "Nactuli de",
+    "label": "PERS",
+    "start": 166,
+    "end": 176,
+    "score": 0.5070109367370605
+   },
+   {
+    "surface": "Henrici",
+    "label": "PERS",
+    "start": 451,
+    "end": 458,
+    "score": 0.8578214645385742
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0327",
+  "predictions": [
+   {
+    "surface": "Savium",
+    "label": "PERS",
+    "start": 27,
+    "end": 33,
+    "score": 0.6153770089149475
+   },
+   {
+    "surface": "Maynardi de",
+    "label": "PERS",
+    "start": 53,
+    "end": 64,
+    "score": 0.501966655254364
+   },
+   {
+    "surface": "Maynardi Walengine de",
+    "label": "PERS",
+    "start": 181,
+    "end": 202,
+    "score": 0.6484804749488831
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0330",
+  "predictions": [
+   {
+    "surface": "Archilotto de",
+    "label": "PERS",
+    "start": 28,
+    "end": 41,
+    "score": 0.626571536064148
+   },
+   {
+    "surface": "Achilottum de",
+    "label": "PERS",
+    "start": 114,
+    "end": 127,
+    "score": 0.68215411901474
+   },
+   {
+    "surface": "Maynardi",
+    "label": "PERS",
+    "start": 193,
+    "end": 201,
+    "score": 0.5720873475074768
+   },
+   {
+    "surface": "Guillelmi",
+    "label": "PERS",
+    "start": 246,
+    "end": 255,
+    "score": 0.993595540523529
+   },
+   {
+    "surface": "Leazarii de",
+    "label": "PERS",
+    "start": 263,
+    "end": 274,
+    "score": 0.6809507012367249
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0343",
+  "predictions": []
+ },
+ {
+  "text_id": "tea_c12_0361",
+  "predictions": [
+   {
+    "surface": "Radius de",
+    "label": "PERS",
+    "start": 24,
+    "end": 33,
+    "score": 0.9971412420272827
+   },
+   {
+    "surface": "Galiane",
+    "label": "PERS",
+    "start": 91,
+    "end": 98,
+    "score": 0.6086869835853577
+   },
+   {
+    "surface": "Gregorii de",
+    "label": "PERS",
+    "start": 109,
+    "end": 120,
+    "score": 0.8873493075370789
+   },
+   {
+    "surface": "Marmu)zam",
+    "label": "PERS",
+    "start": 130,
+    "end": 140,
+    "score": 0.5958631038665771
+   },
+   {
+    "surface": "Gaslute",
+    "label": "PERS",
+    "start": 154,
+    "end": 161,
+    "score": 0.6051235198974609
+   },
+   {
+    "surface": "Clezoy",
+    "label": "PERS",
+    "start": 185,
+    "end": 191,
+    "score": 0.6111445426940918
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0365",
+  "predictions": [
+   {
+    "surface": "Hermannus de",
+    "label": "PERS",
+    "start": 24,
+    "end": 36,
+    "score": 0.5699748992919922
+   },
+   {
+    "surface": "Thomasino",
+    "label": "PERS",
+    "start": 95,
+    "end": 104,
+    "score": 0.8544290065765381
+   },
+   {
+    "surface": "Sigelpretti de",
+    "label": "PERS",
+    "start": 118,
+    "end": 132,
+    "score": 0.515752375125885
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0371",
+  "predictions": [
+   {
+    "surface": "Petrum de",
+    "label": "PERS",
+    "start": 67,
+    "end": 76,
+    "score": 0.9995689988136292
+   },
+   {
+    "surface": "Dietalmus de",
+    "label": "PERS",
+    "start": 187,
+    "end": 199,
+    "score": 0.5338299870491028
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0382",
+  "predictions": [
+   {
+    "surface": "Leonardus de",
+    "label": "PERS",
+    "start": 16,
+    "end": 28,
+    "score": 0.6681957244873047
+   },
+   {
+    "surface": "Artisuttum de",
+    "label": "PERS",
+    "start": 77,
+    "end": 90,
+    "score": 0.6272922158241272
+   },
+   {
+    "surface": "Henzii de",
+    "label": "PERS",
+    "start": 110,
+    "end": 119,
+    "score": 0.9948871731758118
+   },
+   {
+    "surface": "Henzium",
+    "label": "PERS",
+    "start": 360,
+    "end": 367,
+    "score": 0.47663822770118713
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0395",
+  "predictions": [
+   {
+    "surface": "Federico de",
+    "label": "PERS",
+    "start": 28,
+    "end": 39,
+    "score": 0.9993311166763306
+   },
+   {
+    "surface": "Federico de",
+    "label": "PERS",
+    "start": 141,
+    "end": 152,
+    "score": 0.999267041683197
+   },
+   {
+    "surface": "Federicum",
+    "label": "PERS",
+    "start": 681,
+    "end": 690,
+    "score": 0.5931128263473511
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0397",
+  "predictions": [
+   {
+    "surface": "Dietmarus de",
+    "label": "PERS",
+    "start": 96,
+    "end": 108,
+    "score": 0.9808847904205322
+   },
+   {
+    "surface": "Zachulum",
+    "label": "PERS",
+    "start": 561,
+    "end": 569,
+    "score": 0.5239830613136292
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0402",
+  "predictions": [
+   {
+    "surface": "Megn",
+    "label": "PERS",
+    "start": 21,
+    "end": 26,
+    "score": 0.9514800906181335
+   },
+   {
+    "surface": "Bortholomei de",
+    "label": "PERS",
+    "start": 48,
+    "end": 62,
+    "score": 0.5071632862091064
+   },
+   {
+    "surface": "Bartholomei de",
+    "label": "PERS",
+    "start": 150,
+    "end": 164,
+    "score": 0.7392008900642395
+   },
+   {
+    "surface": "Gregorio",
+    "label": "PERS",
+    "start": 214,
+    "end": 222,
+    "score": 0.5326191782951355
+   },
+   {
+    "surface": "Meg(n)ardum",
+    "label": "PERS",
+    "start": 476,
+    "end": 487,
+    "score": 0.6798527240753174
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0403",
+  "predictions": [
+   {
+    "surface": "Walrappum de",
+    "label": "PERS",
+    "start": 26,
+    "end": 38,
+    "score": 0.6266804337501526
+   },
+   {
+    "surface": "Walrappus de",
+    "label": "PERS",
+    "start": 77,
+    "end": 89,
+    "score": 0.5543431639671326
+   },
+   {
+    "surface": "Varnerium",
+    "label": "PERS",
+    "start": 101,
+    "end": 110,
+    "score": 0.5532698035240173
+   },
+   {
+    "surface": "Varnerii de",
+    "label": "PERS",
+    "start": 126,
+    "end": 137,
+    "score": 0.9863380789756775
+   },
+   {
+    "surface": "Varnerii",
+    "label": "PERS",
+    "start": 205,
+    "end": 213,
+    "score": 0.9668442010879517
+   },
+   {
+    "surface": "Lucadam",
+    "label": "PERS",
+    "start": 218,
+    "end": 226,
+    "score": 0.9660020470619202
+   },
+   {
+    "surface": "Adaleytam",
+    "label": "PERS",
+    "start": 230,
+    "end": 239,
+    "score": 0.9575138092041016
+   },
+   {
+    "surface": "Lazaram",
+    "label": "PERS",
+    "start": 243,
+    "end": 250,
+    "score": 0.6979842185974121
+   },
+   {
+    "surface": "Warnerii",
+    "label": "PERS",
+    "start": 268,
+    "end": 276,
+    "score": 0.6935725808143616
+   },
+   {
+    "surface": "Gregorio",
+    "label": "PERS",
+    "start": 347,
+    "end": 355,
+    "score": 0.5987772941589355
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0407",
+  "predictions": [
+   {
+    "surface": "Iacobi de",
+    "label": "PERS",
+    "start": 28,
+    "end": 37,
+    "score": 0.7114683985710144
+   },
+   {
+    "surface": "Phylippinum natum Iacobi de",
+    "label": "PERS",
+    "start": 115,
+    "end": 142,
+    "score": 0.5282721519470215
+   },
+   {
+    "surface": "Dodi",
+    "label": "PERS",
+    "start": 263,
+    "end": 267,
+    "score": 0.9792176485061646
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0413",
+  "predictions": [
+   {
+    "surface": "Petrum de",
+    "label": "PERS",
+    "start": 20,
+    "end": 29,
+    "score": 0.9990249872207642
+   },
+   {
+    "surface": "Petrus de",
+    "label": "PERS",
+    "start": 54,
+    "end": 63,
+    "score": 0.998816728591919
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0416",
+  "predictions": [
+   {
+    "surface": "Gobhardo dicto Pa(nnin)a",
+    "label": "PERS",
+    "start": 18,
+    "end": 42,
+    "score": 0.9425851106643677
+   },
+   {
+    "surface": "Rochlepa de",
+    "label": "PERS",
+    "start": 56,
+    "end": 67,
+    "score": 0.6995565891265869
+   },
+   {
+    "surface": "Raymundus",
+    "label": "PERS",
+    "start": 145,
+    "end": 154,
+    "score": 0.5222091674804688
+   },
+   {
+    "surface": "Gebhardum dictum Pa(nin)am",
+    "label": "PERS",
+    "start": 187,
+    "end": 213,
+    "score": 0.9503737688064575
+   },
+   {
+    "surface": "Rochlepum de",
+    "label": "PERS",
+    "start": 227,
+    "end": 239,
+    "score": 0.9566548466682434
+   },
+   {
+    "surface": "Preter)lini de",
+    "label": "PERS",
+    "start": 302,
+    "end": 317,
+    "score": 0.7202820777893066
+   },
+   {
+    "surface": "Iudeut",
+    "label": "PERS",
+    "start": 410,
+    "end": 416,
+    "score": 0.9422284364700317
+   },
+   {
+    "surface": "Gebhardi",
+    "label": "PERS",
+    "start": 431,
+    "end": 439,
+    "score": 0.5435312986373901
+   },
+   {
+    "surface": "Tugeut",
+    "label": "PERS",
+    "start": 444,
+    "end": 450,
+    "score": 0.9864014983177185
+   },
+   {
+    "surface": "Rochlepi",
+    "label": "PERS",
+    "start": 459,
+    "end": 467,
+    "score": 0.5860800743103027
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0418",
+  "predictions": [
+   {
+    "surface": "Galvani de",
+    "label": "PERS",
+    "start": 44,
+    "end": 54,
+    "score": 0.9992771744728088
+   },
+   {
+    "surface": "Ulrici",
+    "label": "PERS",
+    "start": 79,
+    "end": 85,
+    "score": 0.9119241833686829
+   },
+   {
+    "surface": "Galvani de",
+    "label": "PERS",
+    "start": 200,
+    "end": 210,
+    "score": 0.9988592863082886
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0422",
+  "predictions": [
+   {
+    "surface": "Henricus",
+    "label": "PERS",
+    "start": 39,
+    "end": 47,
+    "score": 0.5245700478553772
+   },
+   {
+    "surface": "Leonardi de",
+    "label": "PERS",
+    "start": 70,
+    "end": 81,
+    "score": 0.9937862157821655
+   },
+   {
+    "surface": "Ild(ini)dam",
+    "label": "PERS",
+    "start": 131,
+    "end": 142,
+    "score": 0.6369094848632812
+   },
+   {
+    "surface": "Martini de",
+    "label": "PERS",
+    "start": 168,
+    "end": 178,
+    "score": 0.9374151825904846
+   },
+   {
+    "surface": "Franciscum",
+    "label": "PERS",
+    "start": 195,
+    "end": 205,
+    "score": 0.5469943881034851
+   },
+   {
+    "surface": "Mathie de",
+    "label": "PERS",
+    "start": 237,
+    "end": 246,
+    "score": 0.7750968337059021
+   },
+   {
+    "surface": "Alsubettam",
+    "label": "PERS",
+    "start": 258,
+    "end": 268,
+    "score": 0.6377021074295044
+   },
+   {
+    "surface": "Warneri dicti Giansiel de",
+    "label": "PERS",
+    "start": 276,
+    "end": 301,
+    "score": 0.5000858902931213
+   },
+   {
+    "surface": "Ildrudem",
+    "label": "PERS",
+    "start": 357,
+    "end": 365,
+    "score": 0.8392497301101685
+   },
+   {
+    "surface": "Franciscum",
+    "label": "PERS",
+    "start": 367,
+    "end": 377,
+    "score": 0.6393239498138428
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0438",
+  "predictions": [
+   {
+    "surface": "Sclavi de",
+    "label": "PERS",
+    "start": 43,
+    "end": 52,
+    "score": 0.56215500831604
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0447",
+  "predictions": [
+   {
+    "surface": "Rodulpho",
+    "label": "PERS",
+    "start": 129,
+    "end": 137,
+    "score": 0.9732841849327087
+   },
+   {
+    "surface": "Iohannem",
+    "label": "PERS",
+    "start": 254,
+    "end": 262,
+    "score": 0.9990898370742798
+   },
+   {
+    "surface": "Martinum",
+    "label": "PERS",
+    "start": 264,
+    "end": 272,
+    "score": 0.46666502952575684
+   },
+   {
+    "surface": "Adheleytam",
+    "label": "PERS",
+    "start": 296,
+    "end": 306,
+    "score": 0.9729510545730591
+   },
+   {
+    "surface": "Focam",
+    "label": "PERS",
+    "start": 308,
+    "end": 314,
+    "score": 0.9971478581428528
+   },
+   {
+    "surface": "Sinivissie",
+    "label": "PERS",
+    "start": 346,
+    "end": 356,
+    "score": 0.9212400317192078
+   },
+   {
+    "surface": "Mayucium",
+    "label": "PERS",
+    "start": 366,
+    "end": 374,
+    "score": 0.6408448219299316
+   },
+   {
+    "surface": "Rodulphy",
+    "label": "PERS",
+    "start": 455,
+    "end": 463,
+    "score": 0.8770738840103149
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0450",
+  "predictions": [
+   {
+    "surface": "Walrappus de",
+    "label": "PERS",
+    "start": 24,
+    "end": 36,
+    "score": 0.8671462535858154
+   },
+   {
+    "surface": "Walrappo",
+    "label": "PERS",
+    "start": 316,
+    "end": 324,
+    "score": 0.4937344193458557
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0451",
+  "predictions": [
+   {
+    "surface": "Malacridam de",
+    "label": "PERS",
+    "start": 136,
+    "end": 149,
+    "score": 0.8685274124145508
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0461",
+  "predictions": [
+   {
+    "surface": "Mengossium de",
+    "label": "PERS",
+    "start": 49,
+    "end": 62,
+    "score": 0.4240572154521942
+   },
+   {
+    "surface": "Morandi",
+    "label": "PERS",
+    "start": 90,
+    "end": 97,
+    "score": 0.5890618562698364
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0485",
+  "predictions": [
+   {
+    "surface": "Fridericus de",
+    "label": "PERS",
+    "start": 35,
+    "end": 48,
+    "score": 0.9932270646095276
+   },
+   {
+    "surface": "Federici de",
+    "label": "PERS",
+    "start": 72,
+    "end": 83,
+    "score": 0.9817512631416321
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0492",
+  "predictions": [
+   {
+    "surface": "Hernestus de",
+    "label": "PERS",
+    "start": 21,
+    "end": 33,
+    "score": 0.9990435242652893
+   },
+   {
+    "surface": "Pozinani",
+    "label": "PERS",
+    "start": 93,
+    "end": 101,
+    "score": 0.8792315125465393
+   },
+   {
+    "surface": "Otto de",
+    "label": "PERS",
+    "start": 119,
+    "end": 126,
+    "score": 0.9994465708732605
+   },
+   {
+    "surface": "Herborti de",
+    "label": "PERS",
+    "start": 430,
+    "end": 441,
+    "score": 0.6282089352607727
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0503",
+  "predictions": [
+   {
+    "surface": "Dietmari de",
+    "label": "PERS",
+    "start": 95,
+    "end": 106,
+    "score": 0.9982463121414185
+   }
+  ]
+ }
+]

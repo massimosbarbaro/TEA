@@ -1,0 +1,204 @@
+[
+ {
+  "text_id": "tea_c15_1277",
+  "predictions": [
+   {
+    "surface": "Petrum Cacarul",
+    "label": "PERS",
+    "start": 196,
+    "end": 210,
+    "score": 0.8999735116958618
+   },
+   {
+    "surface": "Leonardum de",
+    "label": "PERS",
+    "start": 287,
+    "end": 299,
+    "score": 0.9330717325210571
+   },
+   {
+    "surface": "Odoricum Pauli",
+    "label": "PERS",
+    "start": 335,
+    "end": 349,
+    "score": 0.7638424634933472
+   },
+   {
+    "surface": "Nenel Lugaf",
+    "label": "PERS",
+    "start": 469,
+    "end": 480,
+    "score": 0.8431430459022522
+   },
+   {
+    "surface": "Martinum Lufac",
+    "label": "PERS",
+    "start": 509,
+    "end": 523,
+    "score": 0.9789455533027649
+   },
+   {
+    "surface": "Iohannem Pichamel",
+    "label": "PERS",
+    "start": 586,
+    "end": 603,
+    "score": 0.9696616530418396
+   },
+   {
+    "surface": "Iohannem",
+    "label": "PERS",
+    "start": 1097,
+    "end": 1105,
+    "score": 0.675603985786438
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0443",
+  "predictions": [
+   {
+    "surface": "Raynardi de",
+    "label": "PERS",
+    "start": 39,
+    "end": 50,
+    "score": 0.6243544220924377
+   },
+   {
+    "surface": "Iuan",
+    "label": "PERS",
+    "start": 270,
+    "end": 274,
+    "score": 0.9889121055603027
+   },
+   {
+    "surface": "Sfetez",
+    "label": "PERS",
+    "start": 278,
+    "end": 284,
+    "score": 0.5138604640960693
+   },
+   {
+    "surface": "Iohannem",
+    "label": "PERS",
+    "start": 397,
+    "end": 405,
+    "score": 0.985551118850708
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c11_0097",
+  "predictions": [
+   {
+    "surface": "Togne de",
+    "label": "PERS",
+    "start": 11,
+    "end": 19,
+    "score": 0.9901767373085022
+   },
+   {
+    "surface": "Togna",
+    "label": "PERS",
+    "start": 34,
+    "end": 39,
+    "score": 0.7873585224151611
+   },
+   {
+    "surface": "Iohannis Passudi de",
+    "label": "PERS",
+    "start": 52,
+    "end": 71,
+    "score": 0.8649454712867737
+   },
+   {
+    "surface": "Bonsenplanti",
+    "label": "PERS",
+    "start": 700,
+    "end": 712,
+    "score": 0.7654785513877869
+   },
+   {
+    "surface": "Leonardum de",
+    "label": "PERS",
+    "start": 949,
+    "end": 961,
+    "score": 0.897275984287262
+   },
+   {
+    "surface": "Morassium de",
+    "label": "PERS",
+    "start": 1069,
+    "end": 1081,
+    "score": 0.8178244829177856
+   },
+   {
+    "surface": "Çanini",
+    "label": "PERS",
+    "start": 1243,
+    "end": 1249,
+    "score": 0.858998715877533
+   },
+   {
+    "surface": "Bonsemplanti",
+    "label": "PERS",
+    "start": 1277,
+    "end": 1289,
+    "score": 0.790572464466095
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c11_0101",
+  "predictions": [
+   {
+    "surface": "Artusii de",
+    "label": "PERS",
+    "start": 42,
+    "end": 52,
+    "score": 0.6202719211578369
+   },
+   {
+    "surface": "Artusii de",
+    "label": "PERS",
+    "start": 79,
+    "end": 89,
+    "score": 0.6289601922035217
+   },
+   {
+    "surface": "Petri de",
+    "label": "PERS",
+    "start": 317,
+    "end": 325,
+    "score": 0.9997304081916809
+   },
+   {
+    "surface": "Petri Cargnelli",
+    "label": "PERS",
+    "start": 606,
+    "end": 621,
+    "score": 0.9967516660690308
+   },
+   {
+    "surface": "Iohannem",
+    "label": "PERS",
+    "start": 681,
+    "end": 689,
+    "score": 0.8678892850875854
+   },
+   {
+    "surface": "Albiuci de",
+    "label": "PERS",
+    "start": 702,
+    "end": 712,
+    "score": 0.8292262554168701
+   },
+   {
+    "surface": "Iohannem Muçonum",
+    "label": "PERS",
+    "start": 767,
+    "end": 783,
+    "score": 0.6276962757110596
+   }
+  ]
+ }
+]

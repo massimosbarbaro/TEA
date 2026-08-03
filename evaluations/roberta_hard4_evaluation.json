@@ -1,0 +1,372 @@
+{
+  "overall": {
+    "precision": 0.2717,
+    "recall": 0.4717,
+    "f1": 0.3448,
+    "tp": 25,
+    "fp": 67,
+    "fn": 28,
+    "gold_total": 53,
+    "predicted_total": 92
+  },
+  "by_category": {
+    "rector_tenant": {
+      "total": 53,
+      "found": 25,
+      "recall": 0.4717
+    }
+  },
+  "by_recognitio": [
+    {
+      "text_id": "tea_c11_0097",
+      "gold_count": 3,
+      "predicted_count": 27,
+      "tp": 3,
+      "fp": 24,
+      "fn": 0,
+      "precision": 0.111,
+      "recall": 1.0,
+      "f1": 0.2
+    },
+    {
+      "text_id": "tea_c11_0101",
+      "gold_count": 7,
+      "predicted_count": 20,
+      "tp": 4,
+      "fp": 16,
+      "fn": 3,
+      "precision": 0.2,
+      "recall": 0.571,
+      "f1": 0.296
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "gold_count": 15,
+      "predicted_count": 29,
+      "tp": 11,
+      "fp": 18,
+      "fn": 4,
+      "precision": 0.379,
+      "recall": 0.733,
+      "f1": 0.5
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "gold_count": 28,
+      "predicted_count": 16,
+      "tp": 7,
+      "fp": 9,
+      "fn": 21,
+      "precision": 0.438,
+      "recall": 0.25,
+      "f1": 0.318
+    }
+  ],
+  "false_negatives": [
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Cudelarum",
+      "normalized": "Cudelarum",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Piliut",
+      "normalized": "Piliut",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Odoricum",
+      "normalized": "Odoricus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Pasculinum",
+      "normalized": "Pasculinus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Gayam",
+      "normalized": "Gaya",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Culossium",
+      "normalized": "Culossius",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Cosettum",
+      "normalized": "Cosettus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Priulum",
+      "normalized": "Priulus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Marcum",
+      "normalized": "Marcus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Leonardum",
+      "normalized": "Leonardus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Yatil",
+      "normalized": "Yatil",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Miculum",
+      "normalized": "Miculus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Portolanum",
+      "normalized": "Portolanus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Sclavum",
+      "normalized": "Sclavus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Barbiruttum",
+      "normalized": "Barbiruttus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Ingustim",
+      "normalized": "Ingustim",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Menza",
+      "normalized": "Menza",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Iohannem",
+      "normalized": "Iohannes",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Nyon",
+      "normalized": "Nyon",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Crisman",
+      "normalized": "Crisman",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "missed": "Mathiam",
+      "normalized": "Mathia",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "missed": "Colop",
+      "normalized": "Colop",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "missed": "Olivam",
+      "normalized": "Oliva",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "missed": "Inuzam",
+      "normalized": "Inuza",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "missed": "Conas",
+      "normalized": "Conas",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c11_0101",
+      "missed": "Citay",
+      "normalized": "Citay",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c11_0101",
+      "missed": "Wiglam",
+      "normalized": "Wigla",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c11_0101",
+      "missed": "Iohannem",
+      "normalized": "Iohannes",
+      "category": "rector_tenant"
+    }
+  ],
+  "false_positives": [
+    {
+      "text_id": "tea_c15_1277",
+      "spurious": "yda",
+      "score": 0.9996861219406128
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "spurious": "O",
+      "score": 0.9803876876831055
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "spurious": "doricum Pauli",
+      "score": 0.7638424634933472
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "spurious": "Nenel Lugaf",
+      "score": 0.8431430459022522
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "spurious": "Io",
+      "score": 0.9998902082443237
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "spurious": "hannem Pichamel",
+      "score": 0.9696616530418396
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "spurious": "Leonardum Lucy",
+      "score": 0.998117208480835
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "spurious": "Io",
+      "score": 0.9962445497512817
+    },
+    {
+      "text_id": "tea_c15_1277",
+      "spurious": "nem",
+      "score": 0.675603985786438
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "spurious": "Io",
+      "score": 0.999704897403717
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "spurious": "Ray",
+      "score": 0.9996968507766724
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "spurious": "n",
+      "score": 0.8815550208091736
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "spurious": "ardi de",
+      "score": 0.6243544220924377
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "spurious": "yda",
+      "score": 0.9950881600379944
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "spurious": "din",
+      "score": 0.8231314420700073
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "spurious": "I",
+      "score": 0.9972948431968689
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "spurious": "S",
+      "score": 0.9866242408752441
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "spurious": "ez",
+      "score": 0.5138604640960693
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "spurious": "Io",
+      "score": 0.9998987913131714
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "spurious": "han",
+      "score": 0.999675989151001
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "spurious": "nem",
+      "score": 0.985551118850708
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "spurious": "Bu",
+      "score": 0.6358088254928589
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "spurious": "go",
+      "score": 0.8276700973510742
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "spurious": "In",
+      "score": 0.7974889874458313
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "spurious": "ssi",
+      "score": 0.7154658436775208
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "spurious": "Henric",
+      "score": 0.9998331069946289
+    },
+    {
+      "text_id": "tea_c12_0443",
+      "spurious": "Ian",
+      "score": 0.990985631942749
+    }
+  ]
+}

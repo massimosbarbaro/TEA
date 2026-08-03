@@ -1,0 +1,985 @@
+{
+  "overall": {
+    "precision": 0.2449,
+    "recall": 0.7311,
+    "f1": 0.3669,
+    "tp": 155,
+    "fp": 478,
+    "fn": 57,
+    "gold_total": 212,
+    "predicted_total": 633
+  },
+  "by_category": {
+    "authority": {
+      "total": 9,
+      "found": 9,
+      "recall": 1.0
+    },
+    "feudatory": {
+      "total": 71,
+      "found": 68,
+      "recall": 0.9577
+    },
+    "implicit_context": {
+      "total": 5,
+      "found": 4,
+      "recall": 0.8
+    },
+    "other": {
+      "total": 42,
+      "found": 39,
+      "recall": 0.9286
+    },
+    "procurator": {
+      "total": 10,
+      "found": 8,
+      "recall": 0.8
+    },
+    "rector_tenant": {
+      "total": 75,
+      "found": 27,
+      "recall": 0.36
+    }
+  },
+  "by_recognitio": [
+    {
+      "text_id": "tea_c12_0174",
+      "gold_count": 1,
+      "predicted_count": 4,
+      "tp": 1,
+      "fp": 3,
+      "fn": 0,
+      "precision": 0.25,
+      "recall": 1.0,
+      "f1": 0.4
+    },
+    {
+      "text_id": "tea_c12_0175",
+      "gold_count": 4,
+      "predicted_count": 13,
+      "tp": 4,
+      "fp": 9,
+      "fn": 0,
+      "precision": 0.308,
+      "recall": 1.0,
+      "f1": 0.471
+    },
+    {
+      "text_id": "tea_c12_0178",
+      "gold_count": 2,
+      "predicted_count": 4,
+      "tp": 2,
+      "fp": 2,
+      "fn": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.667
+    },
+    {
+      "text_id": "tea_c12_0180",
+      "gold_count": 1,
+      "predicted_count": 5,
+      "tp": 1,
+      "fp": 4,
+      "fn": 0,
+      "precision": 0.2,
+      "recall": 1.0,
+      "f1": 0.333
+    },
+    {
+      "text_id": "tea_c12_0190",
+      "gold_count": 2,
+      "predicted_count": 4,
+      "tp": 2,
+      "fp": 2,
+      "fn": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.667
+    },
+    {
+      "text_id": "tea_c12_0193",
+      "gold_count": 2,
+      "predicted_count": 8,
+      "tp": 2,
+      "fp": 6,
+      "fn": 0,
+      "precision": 0.25,
+      "recall": 1.0,
+      "f1": 0.4
+    },
+    {
+      "text_id": "tea_c12_0194",
+      "gold_count": 2,
+      "predicted_count": 8,
+      "tp": 1,
+      "fp": 7,
+      "fn": 1,
+      "precision": 0.125,
+      "recall": 0.5,
+      "f1": 0.2
+    },
+    {
+      "text_id": "tea_c12_0195",
+      "gold_count": 3,
+      "predicted_count": 10,
+      "tp": 3,
+      "fp": 7,
+      "fn": 0,
+      "precision": 0.3,
+      "recall": 1.0,
+      "f1": 0.462
+    },
+    {
+      "text_id": "tea_c12_0203",
+      "gold_count": 1,
+      "predicted_count": 8,
+      "tp": 1,
+      "fp": 7,
+      "fn": 0,
+      "precision": 0.125,
+      "recall": 1.0,
+      "f1": 0.222
+    },
+    {
+      "text_id": "tea_c12_0204",
+      "gold_count": 1,
+      "predicted_count": 10,
+      "tp": 1,
+      "fp": 9,
+      "fn": 0,
+      "precision": 0.1,
+      "recall": 1.0,
+      "f1": 0.182
+    },
+    {
+      "text_id": "tea_c12_0207",
+      "gold_count": 1,
+      "predicted_count": 10,
+      "tp": 1,
+      "fp": 9,
+      "fn": 0,
+      "precision": 0.1,
+      "recall": 1.0,
+      "f1": 0.182
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "gold_count": 60,
+      "predicted_count": 40,
+      "tp": 19,
+      "fp": 21,
+      "fn": 41,
+      "precision": 0.475,
+      "recall": 0.317,
+      "f1": 0.38
+    },
+    {
+      "text_id": "tea_c12_0217",
+      "gold_count": 3,
+      "predicted_count": 15,
+      "tp": 2,
+      "fp": 13,
+      "fn": 1,
+      "precision": 0.133,
+      "recall": 0.667,
+      "f1": 0.222
+    },
+    {
+      "text_id": "tea_c12_0228",
+      "gold_count": 1,
+      "predicted_count": 2,
+      "tp": 1,
+      "fp": 1,
+      "fn": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.667
+    },
+    {
+      "text_id": "tea_c12_0232",
+      "gold_count": 1,
+      "predicted_count": 5,
+      "tp": 1,
+      "fp": 4,
+      "fn": 0,
+      "precision": 0.2,
+      "recall": 1.0,
+      "f1": 0.333
+    },
+    {
+      "text_id": "tea_c12_0238",
+      "gold_count": 1,
+      "predicted_count": 9,
+      "tp": 1,
+      "fp": 8,
+      "fn": 0,
+      "precision": 0.111,
+      "recall": 1.0,
+      "f1": 0.2
+    },
+    {
+      "text_id": "tea_c12_0239",
+      "gold_count": 2,
+      "predicted_count": 5,
+      "tp": 2,
+      "fp": 3,
+      "fn": 0,
+      "precision": 0.4,
+      "recall": 1.0,
+      "f1": 0.571
+    },
+    {
+      "text_id": "tea_c12_0241",
+      "gold_count": 7,
+      "predicted_count": 24,
+      "tp": 6,
+      "fp": 18,
+      "fn": 1,
+      "precision": 0.25,
+      "recall": 0.857,
+      "f1": 0.387
+    },
+    {
+      "text_id": "tea_c12_0243",
+      "gold_count": 1,
+      "predicted_count": 9,
+      "tp": 1,
+      "fp": 8,
+      "fn": 0,
+      "precision": 0.111,
+      "recall": 1.0,
+      "f1": 0.2
+    },
+    {
+      "text_id": "tea_c12_0250",
+      "gold_count": 5,
+      "predicted_count": 12,
+      "tp": 5,
+      "fp": 7,
+      "fn": 0,
+      "precision": 0.417,
+      "recall": 1.0,
+      "f1": 0.588
+    },
+    {
+      "text_id": "tea_c12_0280",
+      "gold_count": 4,
+      "predicted_count": 15,
+      "tp": 3,
+      "fp": 12,
+      "fn": 1,
+      "precision": 0.2,
+      "recall": 0.75,
+      "f1": 0.316
+    },
+    {
+      "text_id": "tea_c12_0281",
+      "gold_count": 2,
+      "predicted_count": 19,
+      "tp": 2,
+      "fp": 17,
+      "fn": 0,
+      "precision": 0.105,
+      "recall": 1.0,
+      "f1": 0.19
+    },
+    {
+      "text_id": "tea_c12_0289",
+      "gold_count": 8,
+      "predicted_count": 22,
+      "tp": 7,
+      "fp": 15,
+      "fn": 1,
+      "precision": 0.318,
+      "recall": 0.875,
+      "f1": 0.467
+    },
+    {
+      "text_id": "tea_c12_0296",
+      "gold_count": 4,
+      "predicted_count": 24,
+      "tp": 4,
+      "fp": 20,
+      "fn": 0,
+      "precision": 0.167,
+      "recall": 1.0,
+      "f1": 0.286
+    },
+    {
+      "text_id": "tea_c12_0303",
+      "gold_count": 2,
+      "predicted_count": 13,
+      "tp": 2,
+      "fp": 11,
+      "fn": 0,
+      "precision": 0.154,
+      "recall": 1.0,
+      "f1": 0.267
+    },
+    {
+      "text_id": "tea_c12_0306",
+      "gold_count": 3,
+      "predicted_count": 3,
+      "tp": 2,
+      "fp": 1,
+      "fn": 1,
+      "precision": 0.667,
+      "recall": 0.667,
+      "f1": 0.667
+    },
+    {
+      "text_id": "tea_c12_0319",
+      "gold_count": 2,
+      "predicted_count": 9,
+      "tp": 2,
+      "fp": 7,
+      "fn": 0,
+      "precision": 0.222,
+      "recall": 1.0,
+      "f1": 0.364
+    },
+    {
+      "text_id": "tea_c12_0324",
+      "gold_count": 5,
+      "predicted_count": 15,
+      "tp": 5,
+      "fp": 10,
+      "fn": 0,
+      "precision": 0.333,
+      "recall": 1.0,
+      "f1": 0.5
+    },
+    {
+      "text_id": "tea_c12_0326",
+      "gold_count": 2,
+      "predicted_count": 8,
+      "tp": 2,
+      "fp": 6,
+      "fn": 0,
+      "precision": 0.25,
+      "recall": 1.0,
+      "f1": 0.4
+    },
+    {
+      "text_id": "tea_c12_0327",
+      "gold_count": 2,
+      "predicted_count": 12,
+      "tp": 2,
+      "fp": 10,
+      "fn": 0,
+      "precision": 0.167,
+      "recall": 1.0,
+      "f1": 0.286
+    },
+    {
+      "text_id": "tea_c12_0330",
+      "gold_count": 3,
+      "predicted_count": 14,
+      "tp": 3,
+      "fp": 11,
+      "fn": 0,
+      "precision": 0.214,
+      "recall": 1.0,
+      "f1": 0.353
+    },
+    {
+      "text_id": "tea_c12_0343",
+      "gold_count": 3,
+      "predicted_count": 6,
+      "tp": 2,
+      "fp": 4,
+      "fn": 1,
+      "precision": 0.333,
+      "recall": 0.667,
+      "f1": 0.444
+    },
+    {
+      "text_id": "tea_c12_0361",
+      "gold_count": 6,
+      "predicted_count": 19,
+      "tp": 5,
+      "fp": 14,
+      "fn": 1,
+      "precision": 0.263,
+      "recall": 0.833,
+      "f1": 0.4
+    },
+    {
+      "text_id": "tea_c12_0365",
+      "gold_count": 2,
+      "predicted_count": 8,
+      "tp": 2,
+      "fp": 6,
+      "fn": 0,
+      "precision": 0.25,
+      "recall": 1.0,
+      "f1": 0.4
+    },
+    {
+      "text_id": "tea_c12_0371",
+      "gold_count": 2,
+      "predicted_count": 6,
+      "tp": 2,
+      "fp": 4,
+      "fn": 0,
+      "precision": 0.333,
+      "recall": 1.0,
+      "f1": 0.5
+    },
+    {
+      "text_id": "tea_c12_0382",
+      "gold_count": 4,
+      "predicted_count": 16,
+      "tp": 4,
+      "fp": 12,
+      "fn": 0,
+      "precision": 0.25,
+      "recall": 1.0,
+      "f1": 0.4
+    },
+    {
+      "text_id": "tea_c12_0395",
+      "gold_count": 2,
+      "predicted_count": 6,
+      "tp": 1,
+      "fp": 5,
+      "fn": 1,
+      "precision": 0.167,
+      "recall": 0.5,
+      "f1": 0.25
+    },
+    {
+      "text_id": "tea_c12_0397",
+      "gold_count": 2,
+      "predicted_count": 10,
+      "tp": 2,
+      "fp": 8,
+      "fn": 0,
+      "precision": 0.2,
+      "recall": 1.0,
+      "f1": 0.333
+    },
+    {
+      "text_id": "tea_c12_0402",
+      "gold_count": 3,
+      "predicted_count": 13,
+      "tp": 1,
+      "fp": 12,
+      "fn": 2,
+      "precision": 0.077,
+      "recall": 0.333,
+      "f1": 0.125
+    },
+    {
+      "text_id": "tea_c12_0403",
+      "gold_count": 8,
+      "predicted_count": 30,
+      "tp": 8,
+      "fp": 22,
+      "fn": 0,
+      "precision": 0.267,
+      "recall": 1.0,
+      "f1": 0.421
+    },
+    {
+      "text_id": "tea_c12_0407",
+      "gold_count": 3,
+      "predicted_count": 12,
+      "tp": 2,
+      "fp": 10,
+      "fn": 1,
+      "precision": 0.167,
+      "recall": 0.667,
+      "f1": 0.267
+    },
+    {
+      "text_id": "tea_c12_0413",
+      "gold_count": 1,
+      "predicted_count": 4,
+      "tp": 1,
+      "fp": 3,
+      "fn": 0,
+      "precision": 0.25,
+      "recall": 1.0,
+      "f1": 0.4
+    },
+    {
+      "text_id": "tea_c12_0416",
+      "gold_count": 3,
+      "predicted_count": 25,
+      "tp": 3,
+      "fp": 22,
+      "fn": 0,
+      "precision": 0.12,
+      "recall": 1.0,
+      "f1": 0.214
+    },
+    {
+      "text_id": "tea_c12_0418",
+      "gold_count": 3,
+      "predicted_count": 14,
+      "tp": 3,
+      "fp": 11,
+      "fn": 0,
+      "precision": 0.214,
+      "recall": 1.0,
+      "f1": 0.353
+    },
+    {
+      "text_id": "tea_c12_0422",
+      "gold_count": 5,
+      "predicted_count": 21,
+      "tp": 5,
+      "fp": 16,
+      "fn": 0,
+      "precision": 0.238,
+      "recall": 1.0,
+      "f1": 0.385
+    },
+    {
+      "text_id": "tea_c12_0438",
+      "gold_count": 1,
+      "predicted_count": 8,
+      "tp": 1,
+      "fp": 7,
+      "fn": 0,
+      "precision": 0.125,
+      "recall": 1.0,
+      "f1": 0.222
+    },
+    {
+      "text_id": "tea_c12_0447",
+      "gold_count": 12,
+      "predicted_count": 33,
+      "tp": 12,
+      "fp": 21,
+      "fn": 0,
+      "precision": 0.364,
+      "recall": 1.0,
+      "f1": 0.533
+    },
+    {
+      "text_id": "tea_c12_0450",
+      "gold_count": 1,
+      "predicted_count": 7,
+      "tp": 1,
+      "fp": 6,
+      "fn": 0,
+      "precision": 0.143,
+      "recall": 1.0,
+      "f1": 0.25
+    },
+    {
+      "text_id": "tea_c12_0451",
+      "gold_count": 3,
+      "predicted_count": 3,
+      "tp": 1,
+      "fp": 2,
+      "fn": 2,
+      "precision": 0.333,
+      "recall": 0.333,
+      "f1": 0.333
+    },
+    {
+      "text_id": "tea_c12_0461",
+      "gold_count": 2,
+      "predicted_count": 5,
+      "tp": 1,
+      "fp": 4,
+      "fn": 1,
+      "precision": 0.2,
+      "recall": 0.5,
+      "f1": 0.286
+    },
+    {
+      "text_id": "tea_c12_0485",
+      "gold_count": 2,
+      "predicted_count": 8,
+      "tp": 2,
+      "fp": 6,
+      "fn": 0,
+      "precision": 0.25,
+      "recall": 1.0,
+      "f1": 0.4
+    },
+    {
+      "text_id": "tea_c12_0492",
+      "gold_count": 5,
+      "predicted_count": 14,
+      "tp": 4,
+      "fp": 10,
+      "fn": 1,
+      "precision": 0.286,
+      "recall": 0.8,
+      "f1": 0.421
+    },
+    {
+      "text_id": "tea_c12_0503",
+      "gold_count": 1,
+      "predicted_count": 6,
+      "tp": 1,
+      "fp": 5,
+      "fn": 0,
+      "precision": 0.167,
+      "recall": 1.0,
+      "f1": 0.286
+    }
+  ],
+  "false_negatives": [
+    {
+      "text_id": "tea_c12_0194",
+      "missed": "Dolcettum",
+      "normalized": "Dolcettus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Iacobum",
+      "normalized": "Iacobus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Laçarum",
+      "normalized": "Lazarus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Iacobum",
+      "normalized": "Iacobus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Martinum",
+      "normalized": "Martinus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Iohannem",
+      "normalized": "Iohannes",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Iacobum",
+      "normalized": "Iacobus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Bunittum",
+      "normalized": "Bunittus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Iacobum",
+      "normalized": "Iacobus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Martinum",
+      "normalized": "Martinus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Zuanuttum",
+      "normalized": "Zuanuttus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Marcam",
+      "normalized": "Marca",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Stanium",
+      "normalized": "Stanius",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Bonich",
+      "normalized": "Bonich",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Strianam",
+      "normalized": "Striana",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Di(un)ert",
+      "normalized": "Diunert",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Vianam",
+      "normalized": "Viana",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Andream",
+      "normalized": "Andreas",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Raynerum",
+      "normalized": "Raynerus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Petrum",
+      "normalized": "Petrus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Antonium",
+      "normalized": "Antonius",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Piçolum",
+      "normalized": "Piçolus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Rosam",
+      "normalized": "Rosa",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Franduttum",
+      "normalized": "Franduttus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Florianum",
+      "normalized": "Florianus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Mutam",
+      "normalized": "Muta",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Dardon",
+      "normalized": "Dardon",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Culianum",
+      "normalized": "Culianus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "L(iu)s",
+      "normalized": "Lius",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "filium Usagini",
+      "normalized": "[Nome non specificato]",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Filinum",
+      "normalized": "Filinus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Iacobum",
+      "normalized": "Iacobus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Bernardum",
+      "normalized": "Bernardus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Sigardum",
+      "normalized": "Sigardus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Zurcum",
+      "normalized": "Zurcus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Waltherum",
+      "normalized": "Waltherus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Pid(un)tum",
+      "normalized": "Piduntus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Laurencium",
+      "normalized": "Laurencius",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Walterum",
+      "normalized": "Walterus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Wernerum",
+      "normalized": "Wernerus",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Puponem",
+      "normalized": "Pupo",
+      "category": "rector_tenant"
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "missed": "Wecellum",
+      "normalized": "Wecellus",
+      "category": "rector_tenant"
+    }
+  ],
+  "false_positives": [
+    {
+      "text_id": "tea_c12_0174",
+      "spurious": "Iacobi de",
+      "score": 0.7881736159324646
+    },
+    {
+      "text_id": "tea_c12_0174",
+      "spurious": "cano",
+      "score": 0.9992613196372986
+    },
+    {
+      "text_id": "tea_c12_0174",
+      "spurious": "cano",
+      "score": 0.9987963438034058
+    },
+    {
+      "text_id": "tea_c12_0175",
+      "spurious": "O",
+      "score": 0.9999336004257202
+    },
+    {
+      "text_id": "tea_c12_0175",
+      "spurious": "dol",
+      "score": 0.998119056224823
+    },
+    {
+      "text_id": "tea_c12_0175",
+      "spurious": "rici de",
+      "score": 0.970822811126709
+    },
+    {
+      "text_id": "tea_c12_0175",
+      "spurious": "unti",
+      "score": 0.9982688426971436
+    },
+    {
+      "text_id": "tea_c12_0175",
+      "spurious": "Blas",
+      "score": 0.9994754195213318
+    },
+    {
+      "text_id": "tea_c12_0175",
+      "spurious": "O",
+      "score": 0.999861478805542
+    },
+    {
+      "text_id": "tea_c12_0175",
+      "spurious": "dolrici de",
+      "score": 0.7408024072647095
+    },
+    {
+      "text_id": "tea_c12_0175",
+      "spurious": "unti",
+      "score": 0.9998031258583069
+    },
+    {
+      "text_id": "tea_c12_0175",
+      "spurious": "Pe",
+      "score": 0.9868521094322205
+    },
+    {
+      "text_id": "tea_c12_0178",
+      "spurious": "Francisc",
+      "score": 0.9998241066932678
+    },
+    {
+      "text_id": "tea_c12_0178",
+      "spurious": "o dicto Nigro",
+      "score": 0.9616835713386536
+    },
+    {
+      "text_id": "tea_c12_0180",
+      "spurious": "Hermanni de",
+      "score": 0.9469346404075623
+    },
+    {
+      "text_id": "tea_c12_0180",
+      "spurious": "idea",
+      "score": 0.9992333650588989
+    },
+    {
+      "text_id": "tea_c12_0180",
+      "spurious": "us de",
+      "score": 0.5837717056274414
+    },
+    {
+      "text_id": "tea_c12_0180",
+      "spurious": "idea",
+      "score": 0.9989266991615295
+    },
+    {
+      "text_id": "tea_c12_0190",
+      "spurious": "Floravan",
+      "score": 0.5484423637390137
+    },
+    {
+      "text_id": "tea_c12_0190",
+      "spurious": "Floravan",
+      "score": 0.6211921572685242
+    }
+  ]
+}

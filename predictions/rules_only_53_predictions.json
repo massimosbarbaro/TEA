@@ -1,0 +1,1037 @@
+[
+ {
+  "text_id": "tea_c12_0174",
+  "predictions": [
+   {
+    "surface": "Iacobi",
+    "label": "PERS",
+    "start": 20,
+    "end": 26,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0175",
+  "predictions": [
+   {
+    "surface": "Blasii",
+    "label": "PERS",
+    "start": 20,
+    "end": 26,
+    "score": 1.0
+   },
+   {
+    "surface": "Candidum",
+    "label": "PERS",
+    "start": 303,
+    "end": 311,
+    "score": 1.0
+   },
+   {
+    "surface": "Pelegrinum",
+    "label": "PERS",
+    "start": 315,
+    "end": 325,
+    "score": 1.0
+   },
+   {
+    "surface": "Iacobum",
+    "label": "PERS",
+    "start": 381,
+    "end": 388,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0178",
+  "predictions": [
+   {
+    "surface": "Francisci",
+    "label": "PERS",
+    "start": 20,
+    "end": 29,
+    "score": 1.0
+   },
+   {
+    "surface": "Dominico",
+    "label": "PERS",
+    "start": 87,
+    "end": 95,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0180",
+  "predictions": [
+   {
+    "surface": "Hermanni",
+    "label": "PERS",
+    "start": 27,
+    "end": 35,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0190",
+  "predictions": [
+   {
+    "surface": "Floravanti",
+    "label": "PERS",
+    "start": 27,
+    "end": 37,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0193",
+  "predictions": [
+   {
+    "surface": "Vidulini",
+    "label": "PERS",
+    "start": 30,
+    "end": 38,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0194",
+  "predictions": [
+   {
+    "surface": "Warnerii",
+    "label": "PERS",
+    "start": 27,
+    "end": 35,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0195",
+  "predictions": [
+   {
+    "surface": "Warnerii",
+    "label": "PERS",
+    "start": 27,
+    "end": 35,
+    "score": 1.0
+   },
+   {
+    "surface": "Bonamico",
+    "label": "PERS",
+    "start": 152,
+    "end": 160,
+    "score": 1.0
+   },
+   {
+    "surface": "Odorico",
+    "label": "PERS",
+    "start": 164,
+    "end": 171,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0203",
+  "predictions": [
+   {
+    "surface": "Wolrici",
+    "label": "PERS",
+    "start": 20,
+    "end": 27,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0204",
+  "predictions": [
+   {
+    "surface": "Volrici",
+    "label": "PERS",
+    "start": 27,
+    "end": 34,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0207",
+  "predictions": [
+   {
+    "surface": "Bregand",
+    "label": "PERS",
+    "start": 20,
+    "end": 27,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0216",
+  "predictions": [
+   {
+    "surface": "Wlunigi",
+    "label": "PERS",
+    "start": 27,
+    "end": 34,
+    "score": 1.0
+   },
+   {
+    "surface": "Marinum",
+    "label": "PERS",
+    "start": 245,
+    "end": 252,
+    "score": 1.0
+   },
+   {
+    "surface": "Martinum",
+    "label": "PERS",
+    "start": 306,
+    "end": 314,
+    "score": 1.0
+   },
+   {
+    "surface": "Philippum",
+    "label": "PERS",
+    "start": 318,
+    "end": 327,
+    "score": 1.0
+   },
+   {
+    "surface": "Iacobum",
+    "label": "PERS",
+    "start": 363,
+    "end": 370,
+    "score": 1.0
+   },
+   {
+    "surface": "Viscam",
+    "label": "PERS",
+    "start": 432,
+    "end": 438,
+    "score": 1.0
+   },
+   {
+    "surface": "Liuttum",
+    "label": "PERS",
+    "start": 500,
+    "end": 507,
+    "score": 1.0
+   },
+   {
+    "surface": "Thomasium",
+    "label": "PERS",
+    "start": 575,
+    "end": 584,
+    "score": 1.0
+   },
+   {
+    "surface": "Iacobum",
+    "label": "PERS",
+    "start": 629,
+    "end": 636,
+    "score": 1.0
+   },
+   {
+    "surface": "Laçarum",
+    "label": "PERS",
+    "start": 730,
+    "end": 737,
+    "score": 1.0
+   },
+   {
+    "surface": "Sicherium",
+    "label": "PERS",
+    "start": 1006,
+    "end": 1015,
+    "score": 1.0
+   },
+   {
+    "surface": "Iacobum",
+    "label": "PERS",
+    "start": 1051,
+    "end": 1058,
+    "score": 1.0
+   },
+   {
+    "surface": "Buçin",
+    "label": "PERS",
+    "start": 1140,
+    "end": 1145,
+    "score": 1.0
+   },
+   {
+    "surface": "Lenam",
+    "label": "PERS",
+    "start": 1149,
+    "end": 1154,
+    "score": 1.0
+   },
+   {
+    "surface": "Ioaconis",
+    "label": "PERS",
+    "start": 1189,
+    "end": 1197,
+    "score": 1.0
+   },
+   {
+    "surface": "Martinum",
+    "label": "PERS",
+    "start": 1273,
+    "end": 1281,
+    "score": 1.0
+   },
+   {
+    "surface": "Iohannem",
+    "label": "PERS",
+    "start": 1323,
+    "end": 1331,
+    "score": 1.0
+   },
+   {
+    "surface": "Martham",
+    "label": "PERS",
+    "start": 1372,
+    "end": 1379,
+    "score": 1.0
+   },
+   {
+    "surface": "Dominicum",
+    "label": "PERS",
+    "start": 1422,
+    "end": 1431,
+    "score": 1.0
+   },
+   {
+    "surface": "Petrum",
+    "label": "PERS",
+    "start": 1477,
+    "end": 1483,
+    "score": 1.0
+   },
+   {
+    "surface": "Iacobum",
+    "label": "PERS",
+    "start": 1603,
+    "end": 1610,
+    "score": 1.0
+   },
+   {
+    "surface": "Folchomar",
+    "label": "PERS",
+    "start": 1665,
+    "end": 1674,
+    "score": 1.0
+   },
+   {
+    "surface": "Morandellum",
+    "label": "PERS",
+    "start": 1805,
+    "end": 1816,
+    "score": 1.0
+   },
+   {
+    "surface": "Bunittum",
+    "label": "PERS",
+    "start": 1820,
+    "end": 1828,
+    "score": 1.0
+   },
+   {
+    "surface": "Iacobum",
+    "label": "PERS",
+    "start": 1892,
+    "end": 1899,
+    "score": 1.0
+   },
+   {
+    "surface": "Martinum",
+    "label": "PERS",
+    "start": 1929,
+    "end": 1937,
+    "score": 1.0
+   },
+   {
+    "surface": "Zuanuttum",
+    "label": "PERS",
+    "start": 1966,
+    "end": 1975,
+    "score": 1.0
+   },
+   {
+    "surface": "Marcam",
+    "label": "PERS",
+    "start": 2146,
+    "end": 2152,
+    "score": 1.0
+   },
+   {
+    "surface": "Stanium",
+    "label": "PERS",
+    "start": 2184,
+    "end": 2191,
+    "score": 1.0
+   },
+   {
+    "surface": "Bonich",
+    "label": "PERS",
+    "start": 2213,
+    "end": 2219,
+    "score": 1.0
+   },
+   {
+    "surface": "Strianam",
+    "label": "PERS",
+    "start": 2241,
+    "end": 2249,
+    "score": 1.0
+   },
+   {
+    "surface": "Di",
+    "label": "PERS",
+    "start": 2466,
+    "end": 2468,
+    "score": 1.0
+   },
+   {
+    "surface": "Vianam",
+    "label": "PERS",
+    "start": 2498,
+    "end": 2504,
+    "score": 1.0
+   },
+   {
+    "surface": "Andream",
+    "label": "PERS",
+    "start": 2535,
+    "end": 2542,
+    "score": 1.0
+   },
+   {
+    "surface": "Raynerum",
+    "label": "PERS",
+    "start": 2564,
+    "end": 2572,
+    "score": 1.0
+   },
+   {
+    "surface": "Petrum",
+    "label": "PERS",
+    "start": 2594,
+    "end": 2600,
+    "score": 1.0
+   },
+   {
+    "surface": "Antonium",
+    "label": "PERS",
+    "start": 2621,
+    "end": 2629,
+    "score": 1.0
+   },
+   {
+    "surface": "Piçolum",
+    "label": "PERS",
+    "start": 2652,
+    "end": 2659,
+    "score": 1.0
+   },
+   {
+    "surface": "Rosam",
+    "label": "PERS",
+    "start": 2681,
+    "end": 2686,
+    "score": 1.0
+   },
+   {
+    "surface": "Franduttum",
+    "label": "PERS",
+    "start": 2706,
+    "end": 2716,
+    "score": 1.0
+   },
+   {
+    "surface": "Florianum",
+    "label": "PERS",
+    "start": 2738,
+    "end": 2747,
+    "score": 1.0
+   },
+   {
+    "surface": "Mutam",
+    "label": "PERS",
+    "start": 2771,
+    "end": 2776,
+    "score": 1.0
+   },
+   {
+    "surface": "Dardon",
+    "label": "PERS",
+    "start": 2801,
+    "end": 2807,
+    "score": 1.0
+   },
+   {
+    "surface": "Culianum",
+    "label": "PERS",
+    "start": 2866,
+    "end": 2874,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0217",
+  "predictions": [
+   {
+    "surface": "Cavaç",
+    "label": "PERS",
+    "start": 22,
+    "end": 27,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0228",
+  "predictions": [
+   {
+    "surface": "Leonardi",
+    "label": "PERS",
+    "start": 20,
+    "end": 28,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0232",
+  "predictions": [
+   {
+    "surface": "Rodulfi",
+    "label": "PERS",
+    "start": 20,
+    "end": 27,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0238",
+  "predictions": [
+   {
+    "surface": "Liotti",
+    "label": "PERS",
+    "start": 20,
+    "end": 26,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0239",
+  "predictions": [
+   {
+    "surface": "Forgaria",
+    "label": "PERS",
+    "start": 33,
+    "end": 41,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0241",
+  "predictions": [
+   {
+    "surface": "Refutatio",
+    "label": "PERS",
+    "start": 0,
+    "end": 9,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0243",
+  "predictions": [
+   {
+    "surface": "Tomasini",
+    "label": "PERS",
+    "start": 20,
+    "end": 28,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0250",
+  "predictions": [
+   {
+    "surface": "Hermannus",
+    "label": "PERS",
+    "start": 8,
+    "end": 17,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0280",
+  "predictions": [
+   {
+    "surface": "Sardii",
+    "label": "PERS",
+    "start": 20,
+    "end": 26,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0281",
+  "predictions": [
+   {
+    "surface": "Vincheri",
+    "label": "PERS",
+    "start": 20,
+    "end": 28,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0289",
+  "predictions": [
+   {
+    "surface": "Merchilini",
+    "label": "PERS",
+    "start": 20,
+    "end": 30,
+    "score": 1.0
+   },
+   {
+    "surface": "Leonardum",
+    "label": "PERS",
+    "start": 475,
+    "end": 484,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0296",
+  "predictions": [
+   {
+    "surface": "Promissio",
+    "label": "PERS",
+    "start": 0,
+    "end": 9,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0303",
+  "predictions": [
+   {
+    "surface": "Iohannem",
+    "label": "PERS",
+    "start": 35,
+    "end": 43,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0306",
+  "predictions": [
+   {
+    "surface": "Castano",
+    "label": "PERS",
+    "start": 58,
+    "end": 65,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0319",
+  "predictions": [
+   {
+    "surface": "Zacharie",
+    "label": "PERS",
+    "start": 21,
+    "end": 29,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0324",
+  "predictions": [
+   {
+    "surface": "Peregrino",
+    "label": "PERS",
+    "start": 30,
+    "end": 39,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0326",
+  "predictions": [
+   {
+    "surface": "Henricum",
+    "label": "PERS",
+    "start": 25,
+    "end": 33,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0327",
+  "predictions": [
+   {
+    "surface": "Savium",
+    "label": "PERS",
+    "start": 27,
+    "end": 33,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0330",
+  "predictions": [
+   {
+    "surface": "Archilotto",
+    "label": "PERS",
+    "start": 28,
+    "end": 38,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0343",
+  "predictions": [
+   {
+    "surface": "Boemie",
+    "label": "PERS",
+    "start": 36,
+    "end": 42,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0361",
+  "predictions": [
+   {
+    "surface": "Radius",
+    "label": "PERS",
+    "start": 24,
+    "end": 30,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0365",
+  "predictions": [
+   {
+    "surface": "Hermannus",
+    "label": "PERS",
+    "start": 24,
+    "end": 33,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0371",
+  "predictions": [
+   {
+    "surface": "Petrum",
+    "label": "PERS",
+    "start": 67,
+    "end": 73,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0382",
+  "predictions": [
+   {
+    "surface": "Leonardus",
+    "label": "PERS",
+    "start": 16,
+    "end": 25,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0395",
+  "predictions": [
+   {
+    "surface": "Federico",
+    "label": "PERS",
+    "start": 28,
+    "end": 36,
+    "score": 1.0
+   },
+   {
+    "surface": "Russittum",
+    "label": "PERS",
+    "start": 242,
+    "end": 251,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0397",
+  "predictions": [
+   {
+    "surface": "Dietmarum",
+    "label": "PERS",
+    "start": 35,
+    "end": 44,
+    "score": 1.0
+   },
+   {
+    "surface": "Zachulum",
+    "label": "PERS",
+    "start": 561,
+    "end": 569,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0402",
+  "predictions": [
+   {
+    "surface": "Resignatio",
+    "label": "PERS",
+    "start": 0,
+    "end": 10,
+    "score": 1.0
+   },
+   {
+    "surface": "Dirindonum",
+    "label": "PERS",
+    "start": 301,
+    "end": 311,
+    "score": 1.0
+   },
+   {
+    "surface": "Rivison",
+    "label": "PERS",
+    "start": 367,
+    "end": 374,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0403",
+  "predictions": [
+   {
+    "surface": "Donatio",
+    "label": "PERS",
+    "start": 0,
+    "end": 7,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0407",
+  "predictions": [
+   {
+    "surface": "Phylippini",
+    "label": "PERS",
+    "start": 12,
+    "end": 22,
+    "score": 1.0
+   },
+   {
+    "surface": "Benevenutum",
+    "label": "PERS",
+    "start": 243,
+    "end": 254,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0413",
+  "predictions": [
+   {
+    "surface": "Refutatio",
+    "label": "PERS",
+    "start": 0,
+    "end": 9,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0416",
+  "predictions": [
+   {
+    "surface": "Gobhardo",
+    "label": "PERS",
+    "start": 18,
+    "end": 26,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0418",
+  "predictions": [
+   {
+    "surface": "Renuntiatio",
+    "label": "PERS",
+    "start": 0,
+    "end": 11,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0422",
+  "predictions": [
+   {
+    "surface": "Henricus",
+    "label": "PERS",
+    "start": 39,
+    "end": 47,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0438",
+  "predictions": [
+   {
+    "surface": "Inguillolfus",
+    "label": "PERS",
+    "start": 16,
+    "end": 28,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0447",
+  "predictions": [
+   {
+    "surface": "Walterus",
+    "label": "PERS",
+    "start": 38,
+    "end": 46,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0450",
+  "predictions": [
+   {
+    "surface": "Walrappus",
+    "label": "PERS",
+    "start": 24,
+    "end": 33,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0451",
+  "predictions": [
+   {
+    "surface": "Marchabrunus",
+    "label": "PERS",
+    "start": 28,
+    "end": 40,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0461",
+  "predictions": [
+   {
+    "surface": "Mengossium",
+    "label": "PERS",
+    "start": 49,
+    "end": 59,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0485",
+  "predictions": [
+   {
+    "surface": "Fridericus",
+    "label": "PERS",
+    "start": 35,
+    "end": 45,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0492",
+  "predictions": [
+   {
+    "surface": "Hernestus",
+    "label": "PERS",
+    "start": 21,
+    "end": 30,
+    "score": 1.0
+   },
+   {
+    "surface": "Otto",
+    "label": "PERS",
+    "start": 119,
+    "end": 123,
+    "score": 1.0
+   },
+   {
+    "surface": "Al",
+    "label": "PERS",
+    "start": 186,
+    "end": 188,
+    "score": 1.0
+   }
+  ]
+ },
+ {
+  "text_id": "tea_c12_0503",
+  "predictions": [
+   {
+    "surface": "Almericum",
+    "label": "PERS",
+    "start": 63,
+    "end": 72,
+    "score": 1.0
+   }
+  ]
+ }
+]
