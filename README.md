@@ -12,8 +12,11 @@ The gold standard contains 212 annotated persons, 50 kinship relations, and 58 p
 
 ```
 gold/            gold_standard_53.json          Reviewed, span-grounded gold standard (persons, kinship relations, places)
+                 gold_hard_records.json         The four hard out-of-sample records
+                 kinship_gold.json              Kinship-only gold data
 prompt/          extraction_prompt.txt          System prompt with the five extraction rules and worked examples
-scripts/         step2_evaluate_cli.py          Evaluation CLI (predictions vs gold standard)
+scripts/         step1_roberta_inference.py     RoBERTa inference to generate raw predictions
+                 step2_evaluate_cli.py          Evaluation CLI (predictions vs gold standard)
                  postprocess_filter.py          Post-processing filter for RoBERTa raw output
                  rules_only_predict.py          Rule-based extractor
                  bootstrap_ci.py                Bootstrap confidence intervals
@@ -28,10 +31,13 @@ results/         confidence_intervals/          Bootstrap CI outputs
                  qwen_raw/                       Raw Qwen output before parsing
                  ADDITIONAL_TESTS_RESULTS.md     Results on the out-of-sample records
                  RUN_METADATA.json               Run metadata (models, versions, parameters)
-texts/           test_53_texts.json             Source texts of the 53 test acts
 README.md
 LICENSE
 ```
+
+## Source texts
+
+The transcribed source texts of the test acts are not included in this repository because the critical edition of the TEA is still in preparation (Scarton, 2023). The source texts are available on request. The RoBERTa checkpoint is not distributed here either: the model is the public checkpoint by Torres Aguilar (magistermilitum/roberta-multilingual-medieval-ner).
 
 ## Main results
 
@@ -58,7 +64,7 @@ See `results/RUN_METADATA.json` for the exact model versions and parameters, and
 
 ## License
 
-The code in this repository is released under the MIT License (see `LICENSE`). The accompanying paper and the annotated data are distributed under the Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0).
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). See `LICENSE` and https://creativecommons.org/licenses/by-sa/4.0/ for details.
 
 ## Citation
 
