@@ -64,7 +64,7 @@ See `results/RUN_METADATA.json` for the exact model versions and parameters, and
 
 ## License
 
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). See `LICENSE` and https://creativecommons.org/licenses/by-sa/4.0/ for details.
+This repository is released under the MIT License. See the `LICENSE` file for details.
 
 ## Citation
 
