@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the accompanying paper."
+type: software
+title: "Beyond Span Detection: gold standard, prompt and evaluation scripts for NER on the Thesaurus Ecclesiae Aquileiensis"
+authors:
+  - family-names: Sbarbaro
+    given-names: Massimo
+    orcid: "https://orcid.org/0009-0006-8965-9013"
+    affiliation: "Znanstveno-raziskovalno središče Koper (ZRS Koper)"
+  - family-names: Popič
+    given-names: Damjan
+    orcid: "https://orcid.org/0000-0003-0229-5343"
+    affiliation: "University of Ljubljana"
+license: MIT
+repository-code: "https://github.com/massimosbarbaro/TEA"
+preferred-citation:
+  type: conference-paper
+  title: "Beyond Span Detection: Comparing NER Approaches for Medieval Patronymics in the Thesaurus Ecclesiae Aquileiensis"
+  authors:
+    - family-names: Sbarbaro
+      given-names: Massimo
+    - family-names: Popič
+      given-names: Damjan
+  year: 2026
+  doi: "10.5281/zenodo.22765855"
+  conference:
+    name: "15th Conference on Language Technologies and Digital Humanities (JT-DH-2026)"
+    city: Ljubljana
+    country: SI
