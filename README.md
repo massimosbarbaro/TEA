@@ -70,9 +70,10 @@ This repository is released under the MIT License. See the `LICENSE` file for de
 
 If you use this dataset or code, please cite the accompanying paper:
 
-> Beyond Span Detection: Comparing NER Approaches for Medieval Patronymics in the Thesaurus Ecclesiae Aquileiensis.
->
-> ## Acknowledgements
->
-> This research was carried out at the ALDHI laboratory of ZRS Koper (Science and Research Centre Koper). The authors thank the Biblioteca del Capitolo Metropolitano di Udine for access to ms 51 (C1).
-> 
+> Sbarbaro, Massimo, and Damjan Popič. "Beyond Span Detection: Comparing NER Approaches for Medieval Patronymics in the Thesaurus Ecclesiae Aquileiensis." Paper presented at the 15th Conference on Language Technologies and Digital Humanities (JT-DH-2026), Ljubljana, September 2026. https://doi.org/10.5281/zenodo.22765855.
+
+The code and data in this repository are archived on Zenodo: [https://doi.org/10.5281/zenodo.23136784](https://doi.org/10.5281/zenodo.23136784) (all versions).
+
+## Acknowledgements
+
+This research was carried out at the ALDHI laboratory of ZRS Koper (Science and Research Centre Koper). The authors thank the Biblioteca del Capitolo Metropolitano di Udine for access to ms 51 (C1).
