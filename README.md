@@ -12,6 +12,7 @@ The gold standard contains 212 annotated persons, 50 kinship relations, and 58 p
 
 ```
 gold/            gold_standard_53.json          Reviewed, span-grounded gold standard (persons, kinship relations, places)
+                 gold_standard_53_eval.json     Evaluator-format gold (text fields empty) for step2_evaluate_cli.py
                  gold_hard_records.json         The four hard out-of-sample records
                  kinship_gold.json              Kinship-only gold data
 prompt/          extraction_prompt.txt          System prompt with the five extraction rules and worked examples
@@ -28,11 +29,12 @@ predictions/     *.json                         Model predictions for each confi
 evaluations/     *.json                         Computed metrics for each configuration
 results/         confidence_intervals/          Bootstrap CI outputs
                  relations/                     Relational-layer evaluation outputs
-                 qwen_raw/                       Raw Qwen output before parsing
-                 ADDITIONAL_TESTS_RESULTS.md     Results on the out-of-sample records
-                 RUN_METADATA.json               Run metadata (models, versions, parameters)
+                 qwen_raw/                      Raw Qwen output before parsing
+                 ADDITIONAL_TESTS_RESULTS.md    Results on the out-of-sample records
+                 RUN_METADATA.json              Run metadata (models, versions, parameters)
 README.md
 LICENSE
+CITATION.cff
 ```
 
 ## Source texts
@@ -52,13 +54,45 @@ Four configurations were evaluated on the 53-record test set against the same go
 
 The token classifier finds feudatories in formulaic positions (95.8% recall) but misses two-thirds of the rectors of mansi embedded in property descriptions (36.0%). The local LLM handles contextual interpretation and leads on both overall F1 and rector recall.
 
+## Two gold formats
+
+The gold standard is published in two serialisations of the same 212 persons, linked by a shared `person_id`.
+
+**Ontology format**, `gold/gold_standard_53.json`. Four normalised tables (`documents`, `persons`, `kinship_relations`, `places`) with decomposed names, grammatical case, kinship components and place identifications. This is the reusable dataset: 53 documents, 212 persons, 50 kinship relations, 58 places.
+
+**Evaluator format**, `gold/gold_standard_53_eval.json`. A flat list under `records`, one per act, each with `text_id`, `text`, `gold_count` and a `gold_persons` array whose entries carry `person_id`, `surface`, `normalized`, `role` and `category`. This is the input `scripts/step2_evaluate_cli.py` reads, and it is the format behind the per-category figures reported in the paper. The `text` field is empty in every record, because the transcriptions are covered by the forthcoming critical edition (see *Source texts*). The evaluator reads the field but does not use it for matching, so the published file reproduces the reported metrics exactly.
+
+### Role categories
+
+Each entry of the evaluator format carries both vocabularies: `role`, identical to `role.function` in the ontology format, and `category`, the label used in the recall analysis. Their correspondence is:
+
+| `role`         | `category`         | Persons |
+|----------------|--------------------|--------:|
+| `grantor`      | `authority`        |       9 |
+| `procurator`   | `procurator`       |      10 |
+| `feudatory`    | `feudatory`        |      69 |
+| `co-feudatory` | `feudatory`        |       2 |
+| `co-feudatory` | `implicit_context` |       5 |
+| `tenant`       | `rector_tenant`    |      75 |
+| `tenant`       | `other`            |       1 |
+| `witness`      | `other`            |      41 |
+| **Total**      |                    | **212** |
+
+The two vocabularies diverge for eight persons: the seven co-feudatories are split between `feudatory` (2) and `implicit_context` (5), and one tenant is classified as `other`. The categories were assigned for the purposes of the recall analysis, while the roles record the documentary function. Table 2 of the paper reports the `category` counts: authority 9, feudatory 71, implicit_context 5, other 42, procurator 10, rector_tenant 75.
+
 ## Reproducing the evaluation
 
-The evaluation scripts read a predictions JSON file and the gold standard, and write metrics to `evaluations/`. As a starting point:
+`scripts/step2_evaluate_cli.py` reads the evaluator-format gold:
 
 ```
-python scripts/step2_evaluate_cli.py --pred predictions/<file>.json --gold gold/gold_standard_53.json
+python scripts/step2_evaluate_cli.py --pred predictions/roberta_53_predictions.json \
+                                     --gold gold/gold_standard_53_eval.json \
+                                     --out my_roberta_53_evaluation.json
 ```
+
+Compare the output with `evaluations/roberta_53_evaluation.json` rather than overwriting it: the two match in every field. The same command, with the corresponding file in `predictions/`, reproduces the other three 53-record evaluations (`roberta_53_FILTERED`, `rules_only_53`, `qwen_53`). The control reproduction recorded in `results/RUN_METADATA.json` is overall recall 0.7311 and rector recall 0.36 for the RoBERTa baseline.
+
+The evaluations of the four hard out-of-sample records (`*_hard4_*`) were computed against a rector-only gold derived from `gold/gold_hard_records.json`, which is published in the ontology format only. Those figures can be inspected in `evaluations/` but cannot be re-run with this command.
 
 See `results/RUN_METADATA.json` for the exact model versions and parameters, and `results/ADDITIONAL_TESTS_RESULTS.md` for the out-of-sample tests.
 
