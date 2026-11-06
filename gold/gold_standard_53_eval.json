@@ -1,0 +1,1866 @@
+{
+  "info": {
+    "description": "Gold standard for JTDH 2026 paper evaluation",
+    "total_records": 53,
+    "total_persons": 212,
+    "schema": "tea_schema_v2_en",
+    "created": "2026-04-16"
+  },
+  "records": [
+    {
+      "text_id": "tea_c12_0174",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0174_001",
+          "surface": "Iacobus",
+          "normalized": "Iacobus",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 1
+    },
+    {
+      "text_id": "tea_c12_0175",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0175_001",
+          "surface": "Blasius",
+          "normalized": "Blasius",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0175_002",
+          "surface": "Candidum",
+          "normalized": "Candidus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0175_003",
+          "surface": "Pelegrinum",
+          "normalized": "Pelegrinus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0175_004",
+          "surface": "Iacobum",
+          "normalized": "Iacobus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        }
+      ],
+      "gold_count": 4
+    },
+    {
+      "text_id": "tea_c12_0178",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0178_001",
+          "surface": "Franciscus",
+          "normalized": "Franciscus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0178_002",
+          "surface": "Dominico",
+          "normalized": "Dominicus",
+          "category": "feudatory",
+          "role": "co-feudatory"
+        }
+      ],
+      "gold_count": 2
+    },
+    {
+      "text_id": "tea_c12_0180",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0180_001",
+          "surface": "Hermanus",
+          "normalized": "Hermanus",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 1
+    },
+    {
+      "text_id": "tea_c12_0190",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0190_001",
+          "surface": "Floravantus",
+          "normalized": "Floravantus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0190_002",
+          "surface": "Raymondo",
+          "normalized": "Raymundus",
+          "category": "authority",
+          "role": "grantor"
+        }
+      ],
+      "gold_count": 2
+    },
+    {
+      "text_id": "tea_c12_0193",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0193_001",
+          "surface": "Vidulinus",
+          "normalized": "Vidulinus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0193_002",
+          "surface": "Iussa",
+          "normalized": "Iussa",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 2
+    },
+    {
+      "text_id": "tea_c12_0194",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0194_001",
+          "surface": "Warnerius",
+          "normalized": "Warnerius",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0194_002",
+          "surface": "Dolcettum",
+          "normalized": "Dolcettus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        }
+      ],
+      "gold_count": 2
+    },
+    {
+      "text_id": "tea_c12_0195",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0195_001",
+          "surface": "Warnerius",
+          "normalized": "Warnerius",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0195_002",
+          "surface": "Bonamico",
+          "normalized": "Bonamicus",
+          "category": "implicit_context",
+          "role": "co-feudatory"
+        },
+        {
+          "person_id": "tea_c12_0195_003",
+          "surface": "Odorico",
+          "normalized": "Odoricus",
+          "category": "implicit_context",
+          "role": "co-feudatory"
+        }
+      ],
+      "gold_count": 3
+    },
+    {
+      "text_id": "tea_c12_0203",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0203_001",
+          "surface": "Wolricus",
+          "normalized": "Wolricus",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 1
+    },
+    {
+      "text_id": "tea_c12_0204",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0204_001",
+          "surface": "Volricus",
+          "normalized": "Volricus",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 1
+    },
+    {
+      "text_id": "tea_c12_0207",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0207_001",
+          "surface": "Bregand",
+          "normalized": "Bregand",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 1
+    },
+    {
+      "text_id": "tea_c12_0216",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0216_001",
+          "surface": "Vlunigus",
+          "normalized": "Vlunigus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0216_002",
+          "surface": "Mathias",
+          "normalized": "Mathias",
+          "category": "feudatory",
+          "role": "co-feudatory"
+        },
+        {
+          "person_id": "tea_c12_0216_003",
+          "surface": "Marinum",
+          "normalized": "Marinus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_004",
+          "surface": "Martinum",
+          "normalized": "Martinus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_005",
+          "surface": "Philippum",
+          "normalized": "Philippus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_006",
+          "surface": "Iacobum",
+          "normalized": "Iacobus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_007",
+          "surface": "Viscam",
+          "normalized": "Visca",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_008",
+          "surface": "Liuttum",
+          "normalized": "Liuttus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_009",
+          "surface": "Thomasium",
+          "normalized": "Thomasius",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_010",
+          "surface": "Iacobum",
+          "normalized": "Iacobus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_011",
+          "surface": "Laçarum",
+          "normalized": "Lazarus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_012",
+          "surface": "Sicherium",
+          "normalized": "Sicherius",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_013",
+          "surface": "Iacobum",
+          "normalized": "Iacobus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_014",
+          "surface": "Bunitti",
+          "normalized": "Bunittus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_015",
+          "surface": "Buçin",
+          "normalized": "Buçinus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_016",
+          "surface": "Lenam",
+          "normalized": "Lena",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_017",
+          "surface": "Ioaconis",
+          "normalized": "Ioaconus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_018",
+          "surface": "Martinum",
+          "normalized": "Martinus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_019",
+          "surface": "Iohannem",
+          "normalized": "Iohannes",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_020",
+          "surface": "Martham",
+          "normalized": "Martha",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_021",
+          "surface": "Dominicum",
+          "normalized": "Dominicus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_022",
+          "surface": "Petrum",
+          "normalized": "Petrus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_023",
+          "surface": "Iacobum",
+          "normalized": "Iacobus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_024",
+          "surface": "Folchomar",
+          "normalized": "Folchomar",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_025",
+          "surface": "Morandellum",
+          "normalized": "Morandellus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_026",
+          "surface": "Bunittum",
+          "normalized": "Bunittus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_027",
+          "surface": "Iacobum",
+          "normalized": "Iacobus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_028",
+          "surface": "Martinum",
+          "normalized": "Martinus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_029",
+          "surface": "Zuanuttum",
+          "normalized": "Zuanuttus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_030",
+          "surface": "Marcam",
+          "normalized": "Marca",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_031",
+          "surface": "Stanium",
+          "normalized": "Stanius",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_032",
+          "surface": "Bonich",
+          "normalized": "Bonich",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_033",
+          "surface": "Strianam",
+          "normalized": "Striana",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_034",
+          "surface": "Di(un)ert",
+          "normalized": "Diunert",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_035",
+          "surface": "Vianam",
+          "normalized": "Viana",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_036",
+          "surface": "Andream",
+          "normalized": "Andreas",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_037",
+          "surface": "Raynerum",
+          "normalized": "Raynerus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_038",
+          "surface": "Petrum",
+          "normalized": "Petrus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_039",
+          "surface": "Antonium",
+          "normalized": "Antonius",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_040",
+          "surface": "Piçolum",
+          "normalized": "Piçolus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_041",
+          "surface": "Rosam",
+          "normalized": "Rosa",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_042",
+          "surface": "Franduttum",
+          "normalized": "Franduttus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_043",
+          "surface": "Florianum",
+          "normalized": "Florianus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_044",
+          "surface": "Mutam",
+          "normalized": "Muta",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_045",
+          "surface": "Dardon",
+          "normalized": "Dardon",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_046",
+          "surface": "Culianum",
+          "normalized": "Culianus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_047",
+          "surface": "L(iu)s",
+          "normalized": "Lius",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_048",
+          "surface": "filium Usagini",
+          "normalized": "[Nome non specificato]",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_049",
+          "surface": "Filinum",
+          "normalized": "Filinus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_050",
+          "surface": "Iacobum",
+          "normalized": "Iacobus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_051",
+          "surface": "Bernardum",
+          "normalized": "Bernardus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_052",
+          "surface": "Sigardum",
+          "normalized": "Sigardus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_053",
+          "surface": "Zurcum",
+          "normalized": "Zurcus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_054",
+          "surface": "Waltherum",
+          "normalized": "Waltherus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_055",
+          "surface": "Pid(un)tum",
+          "normalized": "Piduntus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_056",
+          "surface": "Laurencium",
+          "normalized": "Laurencius",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_057",
+          "surface": "Walterum",
+          "normalized": "Walterus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_058",
+          "surface": "Wernerum",
+          "normalized": "Wernerus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_059",
+          "surface": "Puponem",
+          "normalized": "Pupo",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0216_060",
+          "surface": "Wecellum",
+          "normalized": "Wecellus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        }
+      ],
+      "gold_count": 60
+    },
+    {
+      "text_id": "tea_c12_0217",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0217_001",
+          "surface": "Wolfcherus",
+          "normalized": "Wolfcherus",
+          "category": "authority",
+          "role": "grantor"
+        },
+        {
+          "person_id": "tea_c12_0217_002",
+          "surface": "Ottonem",
+          "normalized": "Otto",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0217_003",
+          "surface": "Gabriel",
+          "normalized": "Gabriel",
+          "category": "other",
+          "role": "witness"
+        }
+      ],
+      "gold_count": 3
+    },
+    {
+      "text_id": "tea_c12_0228",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0228_001",
+          "surface": "Leonardus",
+          "normalized": "Leonardus",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 1
+    },
+    {
+      "text_id": "tea_c12_0232",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0232_001",
+          "surface": "Rodulfus",
+          "normalized": "Rodulfus",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 1
+    },
+    {
+      "text_id": "tea_c12_0238",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0238_001",
+          "surface": "Liottus",
+          "normalized": "Liottus",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 1
+    },
+    {
+      "text_id": "tea_c12_0239",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0239_001",
+          "surface": "Vocellus",
+          "normalized": "Vocellus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0239_002",
+          "surface": "Walrapus",
+          "normalized": "Walrapus",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 2
+    },
+    {
+      "text_id": "tea_c12_0241",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0241_001",
+          "surface": "Iohannes",
+          "normalized": "Iohannes",
+          "category": "procurator",
+          "role": "procurator"
+        },
+        {
+          "person_id": "tea_c12_0241_002",
+          "surface": "Artuici",
+          "normalized": "Artuicus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0241_003",
+          "surface": "Reynardi",
+          "normalized": "Reynardus",
+          "category": "authority",
+          "role": "grantor"
+        },
+        {
+          "person_id": "tea_c12_0241_004",
+          "surface": "Dalmisani",
+          "normalized": "Dalmisanus",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0241_005",
+          "surface": "Ianini",
+          "normalized": "Ianinus",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0241_006",
+          "surface": "Iacobi",
+          "normalized": "Iacobus",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0241_007",
+          "surface": "Vitalucio",
+          "normalized": "Vitalucius",
+          "category": "other",
+          "role": "tenant"
+        }
+      ],
+      "gold_count": 7
+    },
+    {
+      "text_id": "tea_c12_0243",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0243_001",
+          "surface": "Tomasinus",
+          "normalized": "Tomasinus",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 1
+    },
+    {
+      "text_id": "tea_c12_0250",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0250_001",
+          "surface": "Hermannus",
+          "normalized": "Hermannus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0250_002",
+          "surface": "Pagano",
+          "normalized": "Paganus",
+          "category": "authority",
+          "role": "grantor"
+        },
+        {
+          "person_id": "tea_c12_0250_003",
+          "surface": "Gabriel",
+          "normalized": "Gabriel",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0250_004",
+          "surface": "Bertrando",
+          "normalized": "Bertrandus",
+          "category": "authority",
+          "role": "grantor"
+        },
+        {
+          "person_id": "tea_c12_0250_005",
+          "surface": "Gubertinus",
+          "normalized": "Gubertinus",
+          "category": "other",
+          "role": "witness"
+        }
+      ],
+      "gold_count": 5
+    },
+    {
+      "text_id": "tea_c12_0280",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0280_001",
+          "surface": "Sardius",
+          "normalized": "Sardius",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0280_002",
+          "surface": "Gregorio",
+          "normalized": "Gregorius",
+          "category": "implicit_context",
+          "role": "co-feudatory"
+        },
+        {
+          "person_id": "tea_c12_0280_003",
+          "surface": "Iohanne",
+          "normalized": "Iohannes",
+          "category": "implicit_context",
+          "role": "co-feudatory"
+        },
+        {
+          "person_id": "tea_c12_0280_004",
+          "surface": "Almerico",
+          "normalized": "Almericus",
+          "category": "implicit_context",
+          "role": "co-feudatory"
+        }
+      ],
+      "gold_count": 4
+    },
+    {
+      "text_id": "tea_c12_0281",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0281_001",
+          "surface": "Vincherus",
+          "normalized": "Vincherus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0281_002",
+          "surface": "Vuelum",
+          "normalized": "Vuelus",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 2
+    },
+    {
+      "text_id": "tea_c12_0289",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0289_001",
+          "surface": "Merchlinus",
+          "normalized": "Merchlinus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0289_002",
+          "surface": "Henricum",
+          "normalized": "Henricus",
+          "category": "procurator",
+          "role": "procurator"
+        },
+        {
+          "person_id": "tea_c12_0289_003",
+          "surface": "Hertuicum",
+          "normalized": "Hertuicus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0289_004",
+          "surface": "Iohannem",
+          "normalized": "Iohannes",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0289_005",
+          "surface": "Sytygoy",
+          "normalized": "Sytygoy",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0289_006",
+          "surface": "Nedel",
+          "normalized": "Nedel",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0289_007",
+          "surface": "filium Artuici",
+          "normalized": "[Nome non specificato]",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0289_008",
+          "surface": "Leonardum",
+          "normalized": "Leonardus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        }
+      ],
+      "gold_count": 8
+    },
+    {
+      "text_id": "tea_c12_0296",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0296_001",
+          "surface": "Ortolfus",
+          "normalized": "Ortolfus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0296_002",
+          "surface": "Leupoldus",
+          "normalized": "Leupoldus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0296_003",
+          "surface": "Bertrandus",
+          "normalized": "Bertrandus",
+          "category": "authority",
+          "role": "grantor"
+        },
+        {
+          "person_id": "tea_c12_0296_004",
+          "surface": "Grifo",
+          "normalized": "Grifo",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 4
+    },
+    {
+      "text_id": "tea_c12_0303",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0303_001",
+          "surface": "Iohannes",
+          "normalized": "Iohannes",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0303_002",
+          "surface": "Gregorii",
+          "normalized": "Gregorius",
+          "category": "authority",
+          "role": "grantor"
+        }
+      ],
+      "gold_count": 2
+    },
+    {
+      "text_id": "tea_c12_0306",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0306_001",
+          "surface": "Gregorius",
+          "normalized": "Gregorius",
+          "category": "authority",
+          "role": "grantor"
+        },
+        {
+          "person_id": "tea_c12_0306_002",
+          "surface": "Castonem",
+          "normalized": "Casto",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0306_003",
+          "surface": "Ottonem",
+          "normalized": "Otto",
+          "category": "other",
+          "role": "witness"
+        }
+      ],
+      "gold_count": 3
+    },
+    {
+      "text_id": "tea_c12_0319",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0319_001",
+          "surface": "Raymundus",
+          "normalized": "Raymundus",
+          "category": "authority",
+          "role": "grantor"
+        },
+        {
+          "person_id": "tea_c12_0319_002",
+          "surface": "Zachariam",
+          "normalized": "Zacharias",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 2
+    },
+    {
+      "text_id": "tea_c12_0324",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0324_001",
+          "surface": "Peregrinum",
+          "normalized": "Peregrinus",
+          "category": "procurator",
+          "role": "procurator"
+        },
+        {
+          "person_id": "tea_c12_0324_002",
+          "surface": "Herardi",
+          "normalized": "Herardus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0324_003",
+          "surface": "Valkerini",
+          "normalized": "Valkerinus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0324_004",
+          "surface": "Georgii",
+          "normalized": "Georgius",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0324_005",
+          "surface": "Wariendus",
+          "normalized": "Wariendus",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 5
+    },
+    {
+      "text_id": "tea_c12_0326",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0326_001",
+          "surface": "Henricus",
+          "normalized": "Henricus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0326_002",
+          "surface": "Gregorium",
+          "normalized": "Gregorius",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 2
+    },
+    {
+      "text_id": "tea_c12_0327",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0327_001",
+          "surface": "Savius",
+          "normalized": "Savius",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0327_002",
+          "surface": "Novellus",
+          "normalized": "Novellus",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 2
+    },
+    {
+      "text_id": "tea_c12_0330",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0330_001",
+          "surface": "Achilottum",
+          "normalized": "Achilottus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0330_002",
+          "surface": "Maynardi",
+          "normalized": "Maynardus",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0330_003",
+          "surface": "Guillelmi",
+          "normalized": "Guillelmus",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 3
+    },
+    {
+      "text_id": "tea_c12_0343",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0343_001",
+          "surface": "Brunum",
+          "normalized": "Brunus",
+          "category": "procurator",
+          "role": "procurator"
+        },
+        {
+          "person_id": "tea_c12_0343_002",
+          "surface": "O.",
+          "normalized": "Otacharus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0343_003",
+          "surface": "Fridericus",
+          "normalized": "Fridericus",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 3
+    },
+    {
+      "text_id": "tea_c12_0361",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0361_001",
+          "surface": "Radius",
+          "normalized": "Radius",
+          "category": "procurator",
+          "role": "procurator"
+        },
+        {
+          "person_id": "tea_c12_0361_002",
+          "surface": "Clzoy",
+          "normalized": "Clzoy",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0361_003",
+          "surface": "Galiane",
+          "normalized": "Galiana",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0361_004",
+          "surface": "Gregorii",
+          "normalized": "Gregorius",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0361_005",
+          "surface": "Mar(mu)zam",
+          "normalized": "Marmuza",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0361_006",
+          "surface": "Gaslute",
+          "normalized": "Gasluta",
+          "category": "other",
+          "role": "witness"
+        }
+      ],
+      "gold_count": 6
+    },
+    {
+      "text_id": "tea_c12_0365",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0365_001",
+          "surface": "Hermannus",
+          "normalized": "Hermannus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0365_002",
+          "surface": "Thomasino",
+          "normalized": "Thomasinus",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 2
+    },
+    {
+      "text_id": "tea_c12_0371",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0371_001",
+          "surface": "Petrum",
+          "normalized": "Petrus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0371_002",
+          "surface": "Dietalmus",
+          "normalized": "Dietalmus",
+          "category": "other",
+          "role": "witness"
+        }
+      ],
+      "gold_count": 2
+    },
+    {
+      "text_id": "tea_c12_0382",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0382_001",
+          "surface": "Leonardus",
+          "normalized": "Leonardus",
+          "category": "procurator",
+          "role": "procurator"
+        },
+        {
+          "person_id": "tea_c12_0382_002",
+          "surface": "Artisuttum",
+          "normalized": "Artisuttus",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0382_003",
+          "surface": "Henzii",
+          "normalized": "Henzius",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0382_004",
+          "surface": "Bonafidem",
+          "normalized": "Bonafides",
+          "category": "other",
+          "role": "witness"
+        }
+      ],
+      "gold_count": 4
+    },
+    {
+      "text_id": "tea_c12_0395",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0395_001",
+          "surface": "Federico",
+          "normalized": "Federicus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0395_002",
+          "surface": "Russittum",
+          "normalized": "Russittus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        }
+      ],
+      "gold_count": 2
+    },
+    {
+      "text_id": "tea_c12_0397",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0397_001",
+          "surface": "Dietmarus",
+          "normalized": "Dietmarus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0397_002",
+          "surface": "Zachulum",
+          "normalized": "Zachulus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        }
+      ],
+      "gold_count": 2
+    },
+    {
+      "text_id": "tea_c12_0402",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0402_001",
+          "surface": "Meg(n)ardus",
+          "normalized": "Megnardus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0402_002",
+          "surface": "Dirindonum",
+          "normalized": "Dirindone",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0402_003",
+          "surface": "Rivison",
+          "normalized": "Rivison",
+          "category": "rector_tenant",
+          "role": "tenant"
+        }
+      ],
+      "gold_count": 3
+    },
+    {
+      "text_id": "tea_c12_0403",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0403_001",
+          "surface": "Walrappus",
+          "normalized": "Walrappus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0403_002",
+          "surface": "Varnerium",
+          "normalized": "Varnerius",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0403_003",
+          "surface": "Bonemblantum",
+          "normalized": "Bonemblantus",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0403_004",
+          "surface": "Datam",
+          "normalized": "Data",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0403_005",
+          "surface": "Michilinam",
+          "normalized": "Michilina",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0403_006",
+          "surface": "Lucardam",
+          "normalized": "Lucarda",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0403_007",
+          "surface": "Adaleytam",
+          "normalized": "Adaleyta",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0403_008",
+          "surface": "Lazaram",
+          "normalized": "Lazara",
+          "category": "other",
+          "role": "witness"
+        }
+      ],
+      "gold_count": 8
+    },
+    {
+      "text_id": "tea_c12_0407",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0407_001",
+          "surface": "Phylippinum",
+          "normalized": "Phylippinus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0407_002",
+          "surface": "Benevenutum",
+          "normalized": "Benevenutus",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0407_003",
+          "surface": "Bertrami",
+          "normalized": "Bertramus",
+          "category": "other",
+          "role": "witness"
+        }
+      ],
+      "gold_count": 3
+    },
+    {
+      "text_id": "tea_c12_0413",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0413_001",
+          "surface": "Petrus",
+          "normalized": "Petrus",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 1
+    },
+    {
+      "text_id": "tea_c12_0416",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0416_001",
+          "surface": "Gebhardum",
+          "normalized": "Gebhardus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0416_002",
+          "surface": "Rochlepum",
+          "normalized": "Rochlepus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0416_003",
+          "surface": "P(reter)lini",
+          "normalized": "Preterlinus",
+          "category": "other",
+          "role": "witness"
+        }
+      ],
+      "gold_count": 3
+    },
+    {
+      "text_id": "tea_c12_0418",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0418_001",
+          "surface": "Paesius",
+          "normalized": "Paesius",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0418_002",
+          "surface": "Ulrici",
+          "normalized": "Ulricus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0418_003",
+          "surface": "Galvani",
+          "normalized": "Galvanus",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 3
+    },
+    {
+      "text_id": "tea_c12_0422",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0422_001",
+          "surface": "Henricus",
+          "normalized": "Henricus",
+          "category": "procurator",
+          "role": "procurator"
+        },
+        {
+          "person_id": "tea_c12_0422_002",
+          "surface": "Ild(ini)dam",
+          "normalized": "Ildinda",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0422_003",
+          "surface": "Franciscum",
+          "normalized": "Franciscus",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0422_004",
+          "surface": "Suo(mer)burch",
+          "normalized": "Suomerburch",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0422_005",
+          "surface": "Alsubettam",
+          "normalized": "Alsubetta",
+          "category": "other",
+          "role": "witness"
+        }
+      ],
+      "gold_count": 5
+    },
+    {
+      "text_id": "tea_c12_0438",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0438_001",
+          "surface": "Inguillolfus",
+          "normalized": "Inguillolfus",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 1
+    },
+    {
+      "text_id": "tea_c12_0447",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0447_001",
+          "surface": "Walterus",
+          "normalized": "Walterus",
+          "category": "procurator",
+          "role": "procurator"
+        },
+        {
+          "person_id": "tea_c12_0447_002",
+          "surface": "Rodulpho",
+          "normalized": "Rodulphus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0447_003",
+          "surface": "S(iniv)issiam",
+          "normalized": "Sinivissia",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0447_004",
+          "surface": "Iohannem",
+          "normalized": "Iohannes",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0447_005",
+          "surface": "Martinum",
+          "normalized": "Martinus",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0447_006",
+          "surface": "Nicolaum",
+          "normalized": "Nicolaus",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0447_007",
+          "surface": "Adheleytam",
+          "normalized": "Adheleyta",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0447_008",
+          "surface": "Foscam",
+          "normalized": "Fosca",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0447_009",
+          "surface": "Elenam",
+          "normalized": "Elena",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0447_010",
+          "surface": "Iustam",
+          "normalized": "Iusta",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0447_011",
+          "surface": "Mayucium",
+          "normalized": "Mayucius",
+          "category": "other",
+          "role": "witness"
+        },
+        {
+          "person_id": "tea_c12_0447_012",
+          "surface": "Iacobum",
+          "normalized": "Iacobus",
+          "category": "other",
+          "role": "witness"
+        }
+      ],
+      "gold_count": 12
+    },
+    {
+      "text_id": "tea_c12_0450",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0450_001",
+          "surface": "Walrappus",
+          "normalized": "Walrappus",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 1
+    },
+    {
+      "text_id": "tea_c12_0451",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0451_001",
+          "surface": "Marchabrunus",
+          "normalized": "Marchabrunus",
+          "category": "procurator",
+          "role": "procurator"
+        },
+        {
+          "person_id": "tea_c12_0451_002",
+          "surface": "Castellinum",
+          "normalized": "Castellinus",
+          "category": "procurator",
+          "role": "procurator"
+        },
+        {
+          "person_id": "tea_c12_0451_003",
+          "surface": "Iacobus",
+          "normalized": "Iacobus",
+          "category": "other",
+          "role": "witness"
+        }
+      ],
+      "gold_count": 3
+    },
+    {
+      "text_id": "tea_c12_0461",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0461_001",
+          "surface": "Mengossium",
+          "normalized": "Mengossius",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0461_002",
+          "surface": "Ardi(co)nis",
+          "normalized": "Ardico",
+          "category": "other",
+          "role": "witness"
+        }
+      ],
+      "gold_count": 2
+    },
+    {
+      "text_id": "tea_c12_0485",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0485_001",
+          "surface": "Fridericus",
+          "normalized": "Fridericus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0485_002",
+          "surface": "Federici",
+          "normalized": "Federicus",
+          "category": "other",
+          "role": "witness"
+        }
+      ],
+      "gold_count": 2
+    },
+    {
+      "text_id": "tea_c12_0492",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0492_001",
+          "surface": "Hernestus",
+          "normalized": "Hernestus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0492_002",
+          "surface": "Hermannus",
+          "normalized": "Hermannus",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0492_003",
+          "surface": "Otto",
+          "normalized": "Otto",
+          "category": "feudatory",
+          "role": "feudatory"
+        },
+        {
+          "person_id": "tea_c12_0492_004",
+          "surface": "filium Pozinani",
+          "normalized": "[Nome non specificato]",
+          "category": "rector_tenant",
+          "role": "tenant"
+        },
+        {
+          "person_id": "tea_c12_0492_005",
+          "surface": "Al(et)am",
+          "normalized": "Aleta",
+          "category": "rector_tenant",
+          "role": "tenant"
+        }
+      ],
+      "gold_count": 5
+    },
+    {
+      "text_id": "tea_c12_0503",
+      "text": "",
+      "gold_persons": [
+        {
+          "person_id": "tea_c12_0503_001",
+          "surface": "Almericum",
+          "normalized": "Almericus",
+          "category": "feudatory",
+          "role": "feudatory"
+        }
+      ],
+      "gold_count": 1
+    }
+  ]
+}
